@@ -1,0 +1,1 @@
+# MIT Science Olympiad Website

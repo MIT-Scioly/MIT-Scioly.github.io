@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+header {
+    background-image: url("../images/background.jpg");
+    height: 100vh; /* Use viewport dimensions*/
+    background-size: cover;
+    margin-bottom: 50px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.flex-start { -webkit-align-self: flex-start; align-self: flex-start; }
+
+nav {
+    align-self: flex-start;
+}
+
+body {
+    background: #f9f9f9;
+}
+
+p {
+    margin: 0 auto 20px;
+    max-width: 600px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f0f0f0;
+}
+
+h1 {
+    font-size: 500%;
+}
+
+h4 {
+    font-size: 300%;
+}

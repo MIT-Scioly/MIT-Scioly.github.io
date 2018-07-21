@@ -1,16 +1,14 @@
 /* Contains styles for index.html */
 
 /* Center image */
-@keyframes logoIntro {
-	/* from {opacity: 0;}
-	to {opacity: 1;} */
-	0% {opacity: 0; transform: translate(-400px, -360px);}
-	100% {opacity: 1; transform: translate(-400px, -350px);}
-}
+.hero {
+    width: 100vw;
+    height: 100vh;
 
-@keyframes reflectionIntro {
-	0% {opacity: 0; transform: translate(-400px, -145px);}
-	100% {opacity: 1; transform: translate(-400px, -150px);}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 img {
@@ -20,23 +18,33 @@ img {
 	width: 40%;
 }
 
+@keyframes logoIntro {
+	0% {opacity: 0; transform: translate(0, -2%);}
+	100% {opacity: 1; transform: translate(0, 0);}
+}
+
+@keyframes reflectionIntro {
+	0% {opacity: 0; transform: translate(0, 2%);}
+	100% {opacity: 1; transform: translate(0, 0);}
+}
+
 #logo {
 	animation-name: logoIntro;
-	animation-duration: 1s;
-	animation-timing-function: ease-in;
+	animation-duration: 1.5s;
+	animation-timing-function: ease-in-out;
 }
 
 #reflection {
 	animation-name: reflectionIntro;
-	animation-duration: 1s;
-	animation-timing-function: ease-in;
+	animation-duration: 1.5s;
+	animation-timing-function: ease-in-out;
 }
 
 /* Title text */
 .title {
 	text-align: center;
 	font-family: 'Lato', sans-serif;
-	margin-bottom: 200px;
+	margin-bottom: 10%;
 }
 .title h1 {
 	font-size: 40px;

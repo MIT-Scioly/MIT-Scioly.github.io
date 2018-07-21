@@ -65,7 +65,7 @@ body {
 /* Navbar */
 nav ul {
 	/* TODO Add webkits */
-	padding: 20px 16px;
+	padding: 20px 2vw;
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;

@@ -110,5 +110,54 @@ nav ul li a:hover {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px;
+	padding: 40px;
+}
+
+/* Footer */
+hr {
+	border: 0.5px solid #444444;
+}
+footer {
+	background-color: #222222;
+	max-width: 80vw;
+	margin: 20px auto;
+}
+
+.social-media {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	color: #707070;
+	margin: 40px auto;
+}
+
+.lower-nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	font-size: 12px;
+	margin-bottom: 5%;
+}
+
+.column {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	color: #707070;
+}
+
+.column ul {
+	font-weight: 300;
+}
+
+.subcolumn {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#copyright {
+	display: block;
+	padding: 10px 0 10px 0;
+	color: #707070;
+	font-size: 12px;
 }

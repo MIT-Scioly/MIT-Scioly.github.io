@@ -45,7 +45,7 @@ img {
 .title {
 	text-align: center;
 	font-family: 'Lato', sans-serif;
-	margin-bottom: 10%;
+	margin-bottom: 5%;
 }
 .title h1 {
 	font-size: 60px;
@@ -55,4 +55,27 @@ img {
 .title h2 {
 	font-size: 30px;
 	font-weight: 300;
+	line-height: 80%;
+}
+
+/* Call to Action button */
+button {
+	background-color: #222222;
+	border: 2px solid #c4c4c4;
+	padding: 10px 32px;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 30px;
+
+	color: #c4c4c4;
+
+	-webkit-transition: all 0.25s ease;
+	-moz-transition: all 0.25s ease;
+	-o-transition: all 0.25s ease;
+	transition: all 0.25s ease;
+}
+
+button:hover {
+	background-color: #c4c4c4;
+	color:#222222;
 }

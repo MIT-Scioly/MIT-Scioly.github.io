@@ -1,7 +1,9 @@
 # MIT Science Olympiad Website
 A basic informational site for competitors and coaches to get important information and official updates about the tournament.
 ## Basic Codebase Rules
-* I (Miles) will be creating a basic html structure for the content in the coming few days, so avoid changing too much in the meantime. After that is mostly set up with some basic css, we can go through and begin hashing out the styling and javascript.
+* The HTML template is located at `template.html`. Copy this file and use it as the starting point for the rest of the pages. Most of the styling should already be in place, but if you need custom css code, see the next section for more details.
+
+* Let people in the Slack know what page you're working on, so we can avoid duplicating pages.
 
 * Always pull before modifying the code to try and avoid merge conflicts.
 

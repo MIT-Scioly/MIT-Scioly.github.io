@@ -60,6 +60,8 @@ body {
 	line-height: 1.5;
 	background-color: #222222;
 	color: #ffffff;
+	max-width: 80vw;
+	margin: auto;
 }
 
 h1 {
@@ -98,8 +100,8 @@ nav ul li a:hover {
 
 /* Post and update styling */
 #updates {
-	max-width: 80vw;
-	margin: auto;
+	/* max-width: 80vw;
+	margin: auto; */
 	color: #cdcdcd;
 }
 

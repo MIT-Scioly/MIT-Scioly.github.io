@@ -64,9 +64,9 @@ footer {
 .lower-nav {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-evenly;
+	justify-content: space-around;
 	font-size: 12px;
-	margin-bottom: 5%;
+	margin-bottom: 2%;
 }
 
 .column {

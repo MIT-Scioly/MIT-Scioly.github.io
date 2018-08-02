@@ -43,3 +43,49 @@ for(var header in outerHeaders) {
 }
 
 // Create Footer
+var footer = document.getElementsByTagName("footer")[0];
+footer.appendChild(document.createElement('hr'));
+var socialMedia = footer.appendChild(document.createElement('div'));
+socialMedia.className = "social-media";
+socialMedia.innerText = "f G t l"; // TODO: replace with icons later
+var lowerNav = footer.appendChild(document.createElement('div'));
+lowerNav.className = "lower-nav";
+footer.appendChild(document.createElement('hr'));
+var copyright = footer.appendChild(document.createElement('div'));
+copyright.id = "copyright";
+var leftSpan = copyright.appendChild(document.createElement('span'));
+leftSpan.setAttribute("style", "float: left;");
+leftSpan.innerText = "&copy MIT Science Olympiad, 2019"; // TODO: make this update in code
+var rightSpan = copyright.appendChild(document.createElement('span'));
+rightSpan.setAttribute("style", "float: right;");
+rightSpan.innerText = "Powered by not Squarespace"; // TODO: change this to something useful
+
+// Populate lower-nav
+for(header in outerHeaders) {
+    var col = lowerNav.appendChild(document.createElement("div"));
+    col.className = "column";
+    var children = outerHeaders[header];
+    if(children.length > 0){ 
+        col.innerText = header;
+        var ul = col.appendChild(document.createElement("ul"));
+        for(var i = 0; i < children.length; i++) {
+            var li = ul.appendChild(document.createElement("li"));
+            var childName = children[i];
+            if(childName in links) {
+                var link = li.appendChild(document.createElement("a"));
+                link.setAttribute("href", links[childName]);
+                link.innerText = childName;
+            } else {
+                li.innerText = childName;
+            }
+        }
+    } else {
+        if(header in links) {
+            var link = col.appendChild(document.createElement("a"));
+            link.setAttribute("href", links[header]);
+            link.innerText = header;
+        } else {
+            col.innerText = header;
+        }
+    }
+}

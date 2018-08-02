@@ -10,7 +10,6 @@ var outerHeaders = {
 };
 
 var links = {
-    "Tournament Policies": "tournament-policies.html",
     "Tournament Schedule": "tournament-schedule.html"
     // TODO: add links to all pages
 };
@@ -42,12 +41,21 @@ for(var header in outerHeaders) {
     }
 }
 
+function addSMIcon(parent, classString, link) {
+    var anchor = parent.appendChild(document.createElement("a"));
+    anchor.setAttribute("href", link);
+    anchor.className = classString;
+}
+
 // Create Footer
 var footer = document.getElementsByTagName("footer")[0];
 footer.appendChild(document.createElement('hr'));
 var socialMedia = footer.appendChild(document.createElement('div'));
 socialMedia.className = "social-media";
-socialMedia.innerText = "f G t l"; // TODO: replace with icons later
+// TODO: add links
+addSMIcon(socialMedia, "fa fa-facebook", "#");
+addSMIcon(socialMedia, "fa fa-snapchat-ghost", "#");
+addSMIcon(socialMedia, "fa fa-instagram", "#");
 var lowerNav = footer.appendChild(document.createElement('div'));
 lowerNav.className = "lower-nav";
 footer.appendChild(document.createElement('hr'));
@@ -55,7 +63,8 @@ var copyright = footer.appendChild(document.createElement('div'));
 copyright.id = "copyright";
 var leftSpan = copyright.appendChild(document.createElement('span'));
 leftSpan.setAttribute("style", "float: left;");
-leftSpan.innerText = "&copy MIT Science Olympiad, 2019"; // TODO: make this update in code
+leftSpan.innerHTML = "&copy MIT Science Olympiad, 2019"; // TODO: make this update in code
+// Use innerHTML in the line above to make &copy render correctly
 var rightSpan = copyright.appendChild(document.createElement('span'));
 rightSpan.setAttribute("style", "float: right;");
 rightSpan.innerText = "Powered by not Squarespace"; // TODO: change this to something useful
@@ -89,3 +98,8 @@ for(header in outerHeaders) {
         }
     }
 }
+
+// Social Media icon import
+var socialMediaImport = document.getElementsByTagName("head")[0].appendChild(document.createElement("link"));
+socialMediaImport.setAttribute("rel", "stylesheet");
+socialMediaImport.setAttribute("href", "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");

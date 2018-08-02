@@ -24,7 +24,7 @@ nav ul li a:hover {
     display: none;
     position: absolute;
 	background-color: #222222;
-	opacity: 0.8;
+	opacity: 0.9;
     min-width: 160px;
 	z-index: 1;
 	padding: 10px;

@@ -1,6 +1,4 @@
 // @ts-check
-var outerList = document.getElementsByTagName('nav')[0]
-    .appendChild(document.createElement('ul'));
 
 var outerHeaders = {
     'Tournament Info': ["Tournament Policies", "Tournament Schedule", "Awards Ceremony", "Registration", "Health and Safety"],
@@ -16,6 +14,10 @@ var links = {
     "Tournament Schedule": "tournament-schedule.html"
     // TODO: add links to all pages
 };
+
+// Create Upper Nav Bar
+var outerList = document.getElementsByTagName('nav')[0]
+    .appendChild(document.createElement('ul'));
 
 for(var header in outerHeaders) {
     var li = outerList.appendChild(document.createElement('li'));
@@ -39,3 +41,5 @@ for(var header in outerHeaders) {
         anchor.innerText = header;
     }
 }
+
+// Create Footer

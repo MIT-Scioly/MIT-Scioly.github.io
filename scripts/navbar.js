@@ -11,6 +11,7 @@ var outerHeaders = {
 
 var links = {
     "Tournament Schedule": "tournament-schedule.html"
+    "Location": "location.html"
     // TODO: add links to all pages
 };
 
@@ -74,7 +75,7 @@ for(header in outerHeaders) {
     var col = lowerNav.appendChild(document.createElement("div"));
     col.className = "column";
     var children = outerHeaders[header];
-    if(children.length > 0){ 
+    if(children.length > 0){
         col.innerText = header;
         var ul = col.appendChild(document.createElement("ul"));
         for(var i = 0; i < children.length; i++) {

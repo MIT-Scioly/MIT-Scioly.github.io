@@ -1,9 +1,9 @@
 // @ts-check
 
 var outerHeaders = {
-    'Tournament Info': ["Tournament Policies", "Tournament Schedule", "Awards Ceremony", "Registration", "Health and Safety"],
+    'Tournament Info': ["Tournament Schedule", "Awards Ceremony", "Registration", "Health and Safety"],
     'Logistics': ["Location", "Hotels", "Parking", "Packing Checklist"],
-    'Info for Teams': ["Event Pages", "Homerooms", "Required Forms", "Wristband Procedures", "Rules Clarification", "Arbitration"],
+    'Info for Teams': ["Tournament Policies", "Event Pages", "Homerooms", "Required Forms", "Rules Clarification"], // Moved wristband and arbitration under Tournament Policies
     'Updates': [],
     'Sponsors': ["Become a Sponsor"],
     'About Us': ["History", "The Team", "Contact Us", "Archives"]

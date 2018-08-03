@@ -28,7 +28,9 @@ for(var header in outerHeaders) {
     var children = outerHeaders[header];
     if(children.length > 0) {
         li.innerText = header;
-        var innerDiv = li.appendChild(document.createElement('div'));
+        var dropdownWrapper = li.appendChild(document.createElement('div'));
+        dropdownWrapper.className = "dropdown-wrapper";
+        var innerDiv = dropdownWrapper.appendChild(document.createElement('div'));
         innerDiv.className = "dropdown-content";
         for(var i = 0; i < children.length; i++) {
             var childName = children[i];
@@ -45,7 +47,7 @@ for(var header in outerHeaders) {
     }
 }
 
-// Super hacky way to get title page.
+// Super hacky way to check if on title page.
 if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
     var navLogo = document.createElement("li");
     navLogo.innerHTML = '<a href="index.html"><img src="images/logo.svg" width="40px" height="20px" style="vertical-align: middle;"></a>';

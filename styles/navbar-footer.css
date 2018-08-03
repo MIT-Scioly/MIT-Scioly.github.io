@@ -20,9 +20,14 @@ nav ul li a:hover {
 	color: #eeeeee;
 }
 
+.dropdown-wrapper {
+	position: absolute;
+}
+
 .dropdown-content {
     display: none;
-    position: absolute;
+	position: relative;
+	left: -0.6em;
 	background-color: #222222;
 	opacity: 0.9;
     min-width: 160px;

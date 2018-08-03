@@ -27,7 +27,7 @@ nav ul li a:hover {
 .dropdown-content {
     display: none;
 	position: relative;
-	left: -0.6em;
+	left: -0.7em; /* TODO: avoid hard-coding this */
 	background-color: #222222;
 	opacity: 0.9;
     min-width: 160px;

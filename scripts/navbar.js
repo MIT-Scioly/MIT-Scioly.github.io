@@ -10,8 +10,11 @@ var outerHeaders = {
 };
 
 var links = {
-    "Tournament Schedule": "tournament-schedule.html", 
-    "Location": "location.html"
+    "Tournament Schedule": "tournament-schedule.html",
+    "Location": "location.html",
+    "Hotels": "hotels.html",
+    "Parking": "parking.html",
+    "Packing Checklist": "packing-checklist.html"
     // TODO: add links to all pages
 };
 

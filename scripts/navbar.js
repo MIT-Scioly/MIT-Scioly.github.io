@@ -42,13 +42,20 @@ for(var header in outerHeaders) {
     }
 }
 
+// Super hacky way to get title page.
+if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
+    var navLogo = document.createElement("li");
+    navLogo.innerHTML = '<a href="index.html"><img src="images/logo.svg" width="40px" height="20px" style="vertical-align: middle;"></a>';
+    outerList.insertBefore(navLogo, document.getElementsByClassName("dropdown")[3]);
+}
+
+// Create Footer
 function addSMIcon(parent, classString, link) {
     var anchor = parent.appendChild(document.createElement("a"));
     anchor.setAttribute("href", link);
     anchor.className = classString;
 }
 
-// Create Footer
 var footer = document.getElementsByTagName("footer")[0];
 footer.appendChild(document.createElement('hr'));
 var socialMedia = footer.appendChild(document.createElement('div'));

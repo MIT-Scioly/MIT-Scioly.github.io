@@ -76,7 +76,7 @@ th, td {
 	border: 1px solid #cccccc;
 }
 
-strong {
+strong, b {
 	font-weight: bold;
 }
 

@@ -2,7 +2,7 @@
 
 /* The hero image */
 .hero {
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/background.jpg"); //image probably needs to be changed
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

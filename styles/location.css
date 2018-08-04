@@ -1,18 +1,1 @@
 /* Contains styles for location.html */
-
-/* The hero image */
-.hero {
-    background-image: url("../images/background.jpg"); //image probably needs to be changed
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    width: 100vw;
-    height: 75vh;
-    max-width: 100%;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}

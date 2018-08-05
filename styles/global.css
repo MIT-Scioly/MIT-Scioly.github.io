@@ -87,10 +87,15 @@ a:visited {
 	color: inherit;
 }
 
+ol {
+	list-style-type: decimal;
+	padding-left: 1em;
+}
+
 ul {
-	list-style: disc;
-	padding-left: 3%;
-	padding-top: 1%;
+	list-style-type: disc;
+	padding-left: 1em;
+	padding-top: 1em;
 }
 
 li {

@@ -18,6 +18,7 @@ var links = {
     "Health and Safety": "health-and-safety.html",
     "The Team": "the-team.html",
     "Tournament Policies": "tournament-policies.html",
+    "Awards Ceremony": "awards-ceremony.html"
     // TODO: add links to all pages
 };
 

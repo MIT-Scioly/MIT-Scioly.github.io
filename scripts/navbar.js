@@ -5,7 +5,7 @@ var outerHeaders = {
     'Logistics': ["Location", "Hotels", "Parking", "Packing Checklist"],
     'Info for Teams': ["Tournament Policies", "Event Pages", "Homerooms", "Required Forms", "Rules Clarification"], // Moved wristband and arbitration under Tournament Policies
     'Updates': [],
-    'Sponsors': ["Become a Sponsor"],
+    'Sponsors': ["Our Sponsors", "Become a Sponsor"],
     'About Us': ["History", "The Team", "Contact Us", "Archives"]
 };
 

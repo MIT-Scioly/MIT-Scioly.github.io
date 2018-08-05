@@ -71,6 +71,7 @@ socialMedia.className = "social-media";
 addSMIcon(socialMedia, "fa fa-facebook", "#");
 addSMIcon(socialMedia, "fa fa-snapchat-ghost", "#");
 addSMIcon(socialMedia, "fa fa-instagram", "#");
+addSMIcon(socialMedia, "fa fa-envelope-o", "mailto:scioly@mit.edu");
 var lowerNav = footer.appendChild(document.createElement('div'));
 lowerNav.className = "lower-nav";
 footer.appendChild(document.createElement('hr'));

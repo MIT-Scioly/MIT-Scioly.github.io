@@ -3,7 +3,7 @@
 var outerHeaders = {
     'Tournament Info': ["Tournament Schedule", "Awards Ceremony", "Registration", "Health and Safety"],
     'Logistics': ["Location", "Hotels", "Parking", "Packing Checklist"],
-    'Info for Teams': ["Tournament Policies", "Event Pages", "Homerooms", "Required Forms", "Rules Clarification", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
+    'Info for Teams': ["Tournament Policies", "Event Pages", "Required Forms", "Rules Clarification", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
     'Updates': [],
     'Sponsors': ["Our Sponsors", "Become a Sponsor"],
     'About Us': ["History", "The Team", "Contact Us", "Archives"]

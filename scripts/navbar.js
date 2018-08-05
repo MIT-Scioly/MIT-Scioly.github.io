@@ -3,7 +3,7 @@
 var outerHeaders = {
     'Tournament Info': ["Tournament Schedule", "Awards Ceremony", "Registration", "Health and Safety"],
     'Logistics': ["Location", "Hotels", "Parking", "Packing Checklist"],
-    'Info for Teams': ["Tournament Policies", "Event Pages", "Homerooms", "Required Forms", "Rules Clarification"], // Moved wristband and arbitration under Tournament Policies
+    'Info for Teams': ["Tournament Policies", "Event Pages", "Homerooms", "Required Forms", "Rules Clarification", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
     'Updates': [],
     'Sponsors': ["Our Sponsors", "Become a Sponsor"],
     'About Us': ["History", "The Team", "Contact Us", "Archives"]
@@ -16,7 +16,8 @@ var links = {
     "Parking": "parking.html",
     "Packing Checklist": "packing-checklist.html",
     "Health and Safety": "health-and-safety.html",
-    "The Team": "the-team.html"
+    "The Team": "the-team.html",
+    "Tournament Policies": "tournament-policies.html",
     // TODO: add links to all pages
 };
 

@@ -87,6 +87,16 @@ a:visited {
 	color: inherit;
 }
 
+ul {
+	list-style: disc;
+	padding-left: 3%;
+	padding-top: 1%;
+}
+
+li {
+	margin-bottom: 1%;
+}
+
 th, td {
 	padding: 15px;
 	border: 1px solid #cccccc;

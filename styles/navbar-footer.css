@@ -1,4 +1,12 @@
 /* Navbar and Footer CSS Code*/
+nav ul, footer ul {
+	list-style: none;
+	padding: 0;
+}
+
+nav li, footer li {
+	margin: 0;
+}
 
 nav {
     font-family: 'Lato', sans-serif;

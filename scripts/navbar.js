@@ -14,7 +14,8 @@ var links = {
     "Location": "location.html",
     "Hotels": "hotels.html",
     "Parking": "parking.html",
-    "Packing Checklist": "packing-checklist.html"
+    "Packing Checklist": "packing-checklist.html",
+    "Health and Safety": "health-and-safety.html"
     // TODO: add links to all pages
 };
 

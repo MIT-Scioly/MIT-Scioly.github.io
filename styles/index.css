@@ -49,10 +49,12 @@
 	font-size: 30px;
 	font-weight: 300;
 	line-height: 80%;
+	margin-top: 0;
 }
 
 /* Call to Action button */
-button {
+.button {
+	display: inline-block;
 	background-color: #111111;
 	border: 2px solid #c4c4c4;
 	padding: 10px 32px;
@@ -70,7 +72,7 @@ button {
 	transition: all 0.25s ease;
 }
 
-button:hover {
+.button:hover {
 	background-color: #c4c4c4;
 	color:#222222;
 }

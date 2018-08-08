@@ -11,16 +11,24 @@ var outerHeaders = {
 
 var links = {
     "Tournament Schedule": "tournament-schedule.html",
+    "Awards Ceremony": "awards-ceremony.html",
+    "Registration": "registration.html",
+    "Health and Safety": "health-and-safety.html",
     "Location": "location.html",
     "Hotels": "hotels.html",
     "Parking": "parking.html",
     "Packing Checklist": "packing-checklist.html",
-    "Health and Safety": "health-and-safety.html",
-    "The Team": "the-team.html",
     "Tournament Policies": "tournament-policies.html",
-    "Awards Ceremony": "awards-ceremony.html",
-    "Registration": "registration.html"
-    // TODO: add links to all pages
+    "Required Forms": "required-forms.html",
+    "Rules Clarification": "rules-clarification.html",
+    "Supplies": "supplies.html",
+    "Our Sponsors": "our-sponsors.html",
+    "Become a Sponsor": "become-a-sponsor.html",
+    "History": "history.html",
+    "The Team": "the-team.html",
+    "Contact Us": "contact-us.html",
+    "Archives": "archives.html"
+    // TODO: figure out format for Event Pages and Updates
 };
 
 // Create Upper Nav Bar

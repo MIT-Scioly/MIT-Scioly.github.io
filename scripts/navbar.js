@@ -20,7 +20,7 @@ var links = {
     "Packing Checklist": "packing-checklist.html",
     "Tournament Policies": "tournament-policies.html",
     "Required Forms": "required-forms.html",
-    "Rules Clarification": "rules-clarification.html",
+    "Rules Clarification": "https://www.soinc.org/events/rules-clarifications",
     "Supplies": "supplies.html",
     "Our Sponsors": "our-sponsors.html",
     "Become a Sponsor": "become-a-sponsor.html",
@@ -48,7 +48,11 @@ for(var header in outerHeaders) {
         for(var i = 0; i < children.length; i++) {
             var childName = children[i];
             var child = innerDiv.appendChild(document.createElement('a'));
-            if(childName in links)
+            if(childName in links && childName=="Rules Clarification") {
+                child.setAttribute('href', links[childName]);
+                child.setAttribute('target', '_blank');
+            }
+            else
                 child.setAttribute('href', links[childName]);
             child.innerText = childName;
         }

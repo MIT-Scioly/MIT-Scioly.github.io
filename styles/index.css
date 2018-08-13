@@ -65,6 +65,9 @@
 	font-weight: 300;
 	font-size: 16px;
 	color: #c4c4c4;
+	/* Touch area should be > 48px x 48 px */
+	min-width: 48px;
+	/* min-height: 48px;  TODO: This is causing problems*/
 
 	-webkit-transition: all 0.25s ease;
 	-moz-transition: all 0.25s ease;

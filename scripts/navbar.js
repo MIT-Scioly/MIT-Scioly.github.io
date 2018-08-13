@@ -63,6 +63,7 @@ if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad
 function addSMIcon(parent, classString, link) {
     var anchor = parent.appendChild(document.createElement("a"));
     anchor.setAttribute("href", link);
+    anchor.setAttribute("target", "_blank");
     anchor.className = classString;
 }
 
@@ -73,7 +74,7 @@ socialMedia.className = "social-media";
 // TODO: add links
 addSMIcon(socialMedia, "fa fa-facebook", "#");
 addSMIcon(socialMedia, "fa fa-snapchat-ghost", "#");
-addSMIcon(socialMedia, "fa fa-instagram", "#");
+addSMIcon(socialMedia, "fa fa-instagram", "https://www.instagram.com/mit_scioly/");
 addSMIcon(socialMedia, "fa fa-envelope-o", "mailto:scioly@mit.edu");
 var lowerNav = footer.appendChild(document.createElement('div'));
 lowerNav.className = "lower-nav";

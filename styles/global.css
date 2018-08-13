@@ -110,6 +110,10 @@ strong, b {
 	font-weight: bold;
 }
 
+img, embed, object, video {
+	max-width: 100%; /* Prevents overflowing */
+}
+
 /* Post and update styling */
 #updates {
 	color: #cdcdcd;

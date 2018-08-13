@@ -11,16 +11,24 @@ var outerHeaders = {
 
 var links = {
     "Tournament Schedule": "tournament-schedule.html",
+    "Awards Ceremony": "awards-ceremony.html",
+    "Registration": "registration.html",
+    "Health and Safety": "health-and-safety.html",
     "Location": "location.html",
     "Hotels": "hotels.html",
     "Parking": "parking.html",
     "Packing Checklist": "packing-checklist.html",
-    "Health and Safety": "health-and-safety.html",
-    "The Team": "the-team.html",
     "Tournament Policies": "tournament-policies.html",
-    "Awards Ceremony": "awards-ceremony.html",
-    "Registration": "registration.html"
-    // TODO: add links to all pages
+    "Required Forms": "required-forms.html",
+    "Rules Clarification": "https://www.soinc.org/events/rules-clarifications",
+    "Supplies": "supplies.html",
+    "Our Sponsors": "our-sponsors.html",
+    "Become a Sponsor": "become-a-sponsor.html",
+    "History": "history.html",
+    "The Team": "the-team.html",
+    "Contact Us": "contact-us.html",
+    "Archives": "archives.html"
+    // TODO: figure out format for Event Pages and Updates
 };
 
 // Create Upper Nav Bar
@@ -40,7 +48,11 @@ for(var header in outerHeaders) {
         for(var i = 0; i < children.length; i++) {
             var childName = children[i];
             var child = innerDiv.appendChild(document.createElement('a'));
-            if(childName in links)
+            if(childName in links && childName=="Rules Clarification") {
+                child.setAttribute('href', links[childName]);
+                child.setAttribute('target', '_blank');
+            }
+            else
                 child.setAttribute('href', links[childName]);
             child.innerText = childName;
         }

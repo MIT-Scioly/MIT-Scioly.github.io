@@ -21,3 +21,8 @@ A basic informational site for competitors and coaches to get important informat
 * Use spaces instead of tabs. You should be able to set your text editor to do this (ask me if you're not sure).
 * For html files, use two spaces per tab (keeps the indentation from growing too wide).
 * For css and js, use four spaces per tab
+
+## TODO
+* Add responsiveness
+* Finish "blog" feature for updates page
+* Finish Event Pages

@@ -10,24 +10,24 @@ var outerHeaders = {
 };
 
 var links = {
-    "Tournament Schedule": "tournament-schedule.html",
+    "Archives": "archives.html",
     "Awards Ceremony": "awards-ceremony.html",
-    "Registration": "registration.html",
+    "Become a Sponsor": "become-a-sponsor.html",
+    "Contact Us": "contact-us.html",
     "Health and Safety": "health-and-safety.html",
-    "Location": "location.html",
+    "History": "history.html",
     "Hotels": "hotels.html",
-    "Parking": "parking.html",
+    "Location": "location.html",
+    "Our Sponsors": "our-sponsors.html",
     "Packing Checklist": "packing-checklist.html",
-    "Tournament Policies": "tournament-policies.html",
+    "Parking": "parking.html",
+    "Registration": "registration.html",
     "Required Forms": "required-forms.html",
     "Rules Clarification": "https://www.soinc.org/events/rules-clarifications",
     "Supplies": "supplies.html",
-    "Our Sponsors": "our-sponsors.html",
-    "Become a Sponsor": "become-a-sponsor.html",
-    "History": "history.html",
     "The Team": "the-team.html",
-    "Contact Us": "contact-us.html",
-    "Archives": "archives.html"
+    "Tournament Policies": "tournament-policies.html",
+    "Tournament Schedule": "tournament-schedule.html",
     // TODO: figure out format for Event Pages and Updates
 };
 

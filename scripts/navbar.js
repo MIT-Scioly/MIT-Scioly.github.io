@@ -14,6 +14,7 @@ var links = {
     "Awards Ceremony": "awards-ceremony.html",
     "Become a Sponsor": "become-a-sponsor.html",
     "Contact Us": "contact-us.html",
+    "Event Pages": "event-pages.html",
     "Health and Safety": "health-and-safety.html",
     "History": "history.html",
     "Hotels": "hotels.html",
@@ -48,12 +49,11 @@ for(var header in outerHeaders) {
         for(var i = 0; i < children.length; i++) {
             var childName = children[i];
             var child = innerDiv.appendChild(document.createElement('a'));
-            if(childName in links && childName=="Rules Clarification") {
+            if(childName in links) {
                 child.setAttribute('href', links[childName]);
-                child.setAttribute('target', '_blank');
+                if(childName === "Rules Clarification")
+                    child.setAttribute('target', '_blank');
             }
-            else
-                child.setAttribute('href', links[childName]);
             child.innerText = childName;
         }
     } else {

@@ -1,0 +1,55 @@
+td {
+    padding: 0.5em;
+    border: 0;
+}
+
+.event-box {
+    margin: 0.5em;
+    width: 7em;
+    height: 7em;
+    border: 1px solid #ffffff;
+    text-align: center;
+    border-width: 3px;
+    vertical-align: middle;
+
+    -webkit-transition: all 0.15s ease;
+	-moz-transition: all 0.15s ease;
+	-o-transition: all 0.15s ease;
+	transition: all 0.15s ease;
+}
+
+.study-event {
+    border-color: #66C7F1;
+}
+
+.study-event:hover { 
+    background-color: #66c7f1;
+    color: #000000;
+}
+
+.lab-event {
+    border-color: #DD0B70;
+}
+
+.lab-event:hover {
+    background-color: #dd0b70;
+    color: #000000;
+}
+
+.build-event {
+    border-color: #9FFF56;
+}
+
+.build-event:hover {
+    background-color: #9fff56;
+    color: #000000;
+}
+
+.inquiry-event {
+    border-color: #FA8E42;
+}
+
+.inquiry-event:hover {
+    background-color: #fa8e42;
+    color: #000000;
+}

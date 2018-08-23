@@ -1,7 +1,7 @@
 table {
     border-collapse: separate;
     border-spacing: 1vw;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 tr {
@@ -16,7 +16,6 @@ td {
     text-align: center;
     vertical-align: middle;
     hyphens: manual;
-    font-weight: 500;
 
     -webkit-transition: all 0.1s ease;
 	-moz-transition: all 0.1s ease;
@@ -31,8 +30,7 @@ td {
 
 .study-event { 
     background-color: #66c7f1;
-    color: #000000;
-    border: 3px #ffffff solid;
+    color: #111111;
     border-color: #66C7F1;
 }
 
@@ -43,8 +41,7 @@ td {
 
 .lab-event {
     background-color: #dd0b70;
-    color: #000000;
-    border: 3px #ffffff solid;
+    color: #111111;
     border-color: #DD0B70;
 }
 
@@ -55,8 +52,7 @@ td {
 
 .build-event {
     background-color: #9fff56;
-    color: #000000;
-    border: 3px #ffffff solid;
+    color: #111111;
     border-color: #9FFF56;
 }
 
@@ -67,7 +63,6 @@ td {
 
 .inquiry-event {
     background-color: #fa8e42;
-    color: #000000;
-    border: 3px #ffffff solid;
+    color: #111111;
     border-color: #FA8E42;
 }

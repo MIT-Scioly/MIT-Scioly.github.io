@@ -2,21 +2,21 @@
 var eventCategories = {
     "study-event": [
         "anatomyAndPhysiology", 
-        "designerGenes",
-        "herpetology",
         "astronomy",
+        "designerGenes",
         "diseaseDetectives",
         "dynamicPlanet",
+        "fossils",
         "geologicMapping",
-        "fossils"
+        "herpetology"
     ],
     "lab-event": [
-        "circuitLab",
-        "soundsOfMusic",
-        "thermodynamics",
         "chemLab",
+        "circuitLab",
         "forensics",
         "proteinModeling",
+        "soundsOfMusic",
+        "thermodynamics",
         "waterQuality"
     ],
     "build-event": [

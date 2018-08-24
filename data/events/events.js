@@ -184,14 +184,4 @@ var events = {
         "esDescription": "TBD",
         "esPhotoPath": "none"
     },
-
-    // "template": {
-    //     "name": "",
-    //     "tileName": "",
-    //     "location": "",
-    //     "eventSupervisor": "",
-    //     "esDescription": "",
-    //     "esPhotoPath": "",
-    //     "safety": ""
-    // }
 }

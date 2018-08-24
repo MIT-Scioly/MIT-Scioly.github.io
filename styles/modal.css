@@ -85,3 +85,7 @@
     from {opacity: 1}
     to {opacity: 0}
 }
+
+.no-scroll {
+    overflow: hidden;
+}

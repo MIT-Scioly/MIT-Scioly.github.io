@@ -9,12 +9,14 @@ for(var event in events) {
     tile.onclick = function() {
         modal.className = "modal visible";
         overlay.className = "modal-overlay visible";
+        document.getElementsByTagName("body")[0].classList.toggle("no-scroll");
     }
 
     // When the user clicks on x, close the modal
     span.onclick = function() {
         modal.className = "modal hidden";
         overlay.className = "modal-overlay hidden";
+        document.getElementsByTagName("body")[0].classList.toggle("no-scroll");
     }
 
     // When the user clicks anywhere outside of the modal, close it
@@ -26,6 +28,7 @@ for(var event in events) {
             }
             
             overlay.className = "modal-overlay hidden";
+            document.getElementsByTagName("body")[0].classList.toggle("no-scroll");
         }
     } 
 }

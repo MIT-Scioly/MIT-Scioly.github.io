@@ -22,7 +22,18 @@ A basic informational site for competitors and coaches to get important informat
 * For html files, use two spaces per tab (keeps the indentation from growing too wide).
 * For css and js, use four spaces per tab
 
-## TODO
+## General TODO
+* Add more details to Location page and shrink the map so that it's not so wide.
+* Go through current site at [scioly.mit.edu](scioly.mit.edu) and make sure all the info there is on the current site.
+* Figure out a better thing to put in the lower right corner of the site
+* Automatically generate the year in the copyright at the bottom.
+
+## Miles TODO
 * Add responsiveness
+    * Change menu to hamburger with media query
+
 * Finish "blog" feature for updates page
+    * Create "JSON" framework for storing posts
+    * Handle HTML parsing within post plaintext
 * Finish Event Pages
+    * Create a list of "visible fields" as well as their display names.

@@ -3,7 +3,7 @@ var events = {
         "name": "Anatomy & Physiology",
         "location": "TBD",
         "eventSupervisor": "TBD",
-        "esDescription": "TBD",
+        "esDescription": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula at enim sed dignissim. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue blandit quam, a egestas neque iaculis sed. Donec porttitor ac arcu non congue. Nullam ornare eros at sapien vestibulum congue. Ut sed mi tristique, sodales massa eget, cursus odio. Quisque sit amet venenatis ante. Integer libero lacus, blandit non leo in, lacinia scelerisque justo.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula at enim sed dignissim. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue blandit quam, a egestas neque iaculis sed. Donec porttitor ac arcu non congue. Nullam ornare eros at sapien vestibulum congue. Ut sed mi tristique, sodales massa eget, cursus odio. Quisque sit amet venenatis ante. Integer libero lacus, blandit non leo in, lacinia scelerisque justo.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula at enim sed dignissim. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue blandit quam, a egestas neque iaculis sed. Donec porttitor ac arcu non congue. Nullam ornare eros at sapien vestibulum congue. Ut sed mi tristique, sodales massa eget, cursus odio. Quisque sit amet venenatis ante. Integer libero lacus, blandit non leo in, lacinia scelerisque justo.</p>",
         "esPhotoPath": "none"
     },
 

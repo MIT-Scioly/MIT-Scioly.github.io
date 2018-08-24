@@ -65,13 +65,14 @@ for(var category in eventCategories) {
                     close.className = "close";
                     close.id = eventName + "-close";
                     close.innerHTML = "&times;";
-                modalHeader.appendChild(close);
+                modalContainer.appendChild(close);
                 var title = document.createElement("h1");
                     title.innerText = eventData.name;
                 modalHeader.appendChild(title);
                 modalHeader.appendChild(document.createElement("hr"))
             modalContent.appendChild(modalHeader);
             var modalBody = document.createElement("modal-body");
+                modalBody.className = "modal-body";
                 for(var field in eventData) {
                     if(field === "name" || field === "tileName")
                         continue;
@@ -79,7 +80,7 @@ for(var category in eventCategories) {
                         subheading.innerText = field; // TODO: fix formatting
                     modalBody.appendChild(subheading);
                     var subtext = document.createElement("p");
-                        subtext.innerText = eventData[field];
+                        subtext.innerHTML = eventData[field];
                     modalBody.appendChild(subtext);
                 }
             modalContent.appendChild(modalBody);
@@ -87,3 +88,8 @@ for(var category in eventCategories) {
     }
 }
 
+// Add modal overlay
+var modalOverlay = document.createElement("div");
+modalOverlay.className = "modal-overlay hidden";
+modalOverlay.id = "modal-overlay";
+document.getElementsByTagName("body")[0].appendChild(modalOverlay);

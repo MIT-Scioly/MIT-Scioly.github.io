@@ -55,7 +55,7 @@ for(var category in eventCategories) {
         var modalContainer = document.createElement("div");
         modalContainer.id = eventName + "-modal";
         modalContainer.className = "modal hidden";
-        table.appendChild(modalContainer);
+        document.getElementsByTagName("body")[0].appendChild(modalContainer);
 
         var modalContent = document.createElement("div");
             modalContent.className = "modal-content";

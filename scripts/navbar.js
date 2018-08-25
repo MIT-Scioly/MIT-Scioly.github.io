@@ -28,7 +28,7 @@ var links = {
     "The Team": "the-team.html",
     "Tournament Policies": "tournament-policies.html",
     "Tournament Schedule": "tournament-schedule.html",
-    // TODO: figure out format for Event Pages and Updates
+    "Updates": "updates.html"
 };
 
 // Create Upper Nav Bar

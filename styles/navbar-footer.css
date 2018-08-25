@@ -46,7 +46,7 @@ nav ul li a:hover {
 	position: relative;
 	left: -0.7em; /* TODO: avoid hard-coding this */
 	background-color: #111111;
-	opacity: 0.9;
+	opacity: 0.95;
     min-width: 160px;
 	z-index: 1;
 	padding: 10px;

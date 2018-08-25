@@ -2,7 +2,9 @@
 
 // Add temporary site disclaimer
 var disclaimer = document.getElementById('temporary-site-disclaimer');
-disclaimer.innerHTML = '<p><em style="font-weight: 700; color: red;">Note: This site is currently under construction! No information here should be interpreted as accurate!</em></p>';
+if(disclaimer){
+    disclaimer.innerHTML = '<p><em style="font-weight: 700; color: red;">Note: This site is currently under construction! No information here should be interpreted as accurate!</em></p>';
+}
 
 // var font = document.createElement('link');
 // font.href = "https://fonts.googleapis.com/css?family=Lato:300,400,700|Raleway:300,400,500";

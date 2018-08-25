@@ -5,26 +5,25 @@ var outerHeaders = {
     'Logistics': ["Location", "Hotels", "Parking", "Packing Checklist"],
     'Info for Teams': ["Tournament Policies", "Event Pages", "Required Forms", "Rules Clarification", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
     'Updates': [],
-    'Sponsors': ["Our Sponsors", "Become a Sponsor"],
+    'Sponsors': [],
     'About Us': ["History", "The Team", "Contact Us", "Archives"]
 };
 
 var links = {
     "Archives": "archives.html",
     "Awards Ceremony": "awards-ceremony.html",
-    "Become a Sponsor": "become-a-sponsor.html",
     "Contact Us": "contact-us.html",
     "Event Pages": "event-pages.html",
     "Health and Safety": "health-and-safety.html",
     "History": "history.html",
     "Hotels": "hotels.html",
     "Location": "location.html",
-    "Our Sponsors": "our-sponsors.html",
     "Packing Checklist": "packing-checklist.html",
     "Parking": "parking.html",
     "Registration": "registration.html",
     "Required Forms": "required-forms.html",
     "Rules Clarification": "https://www.soinc.org/events/rules-clarifications",
+    "Sponsors": "sponsors.html",
     "Supplies": "supplies.html",
     "The Team": "the-team.html",
     "Tournament Policies": "tournament-policies.html",

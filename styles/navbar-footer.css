@@ -12,7 +12,6 @@ nav {
     font-family: 'Lato', sans-serif;
     font-size: 14px; /* Make responsive */
     color: #c4c4c4;
-    text-decoration: none;
 }
 
 nav ul {
@@ -22,6 +21,10 @@ nav ul {
 	flex-flow: row wrap;
 	align-items: center;
 	justify-content: space-between;
+}
+
+nav ul li a{
+	text-decoration: none;
 }
 
 nav ul li a:hover {

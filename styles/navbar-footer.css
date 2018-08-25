@@ -23,7 +23,13 @@ nav ul {
 	justify-content: space-between;
 }
 
+nav ul li {
+	/* Prevent the text cursor from popping up on primary headings */
+	cursor: default;
+}
+
 nav ul li a{
+	/* Remove underline from primary headings that are also links */
 	text-decoration: none;
 }
 

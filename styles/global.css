@@ -113,4 +113,3 @@ strong, b {
 img, embed, object, video {
 	max-width: 100%; /* Prevents overflowing */
 }
-

@@ -68,3 +68,13 @@ td {
     color: #111111;
     border-color: #FA8E42;
 }
+
+
+body {
+    /* When the modal opens on the events page, we disable scrolling on the background. 
+    This causes the scrollbar on the right to disappear which causes content to shfit to the right
+    each time the modal opens. To prevent this, we pad the left side to take up this room and prevent
+    the shifting. 100vw gives the total width including the scrollbar and 100% gives the width without
+    the scrollbar. */
+    padding-left: calc(100vw - 100%); 
+}

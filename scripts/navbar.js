@@ -66,7 +66,7 @@ for(var header in outerHeaders) {
 // Super hacky way to check if on title page.
 if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
     var navLogo = document.createElement("li");
-    navLogo.innerHTML = '<a href="index.html"><img src="images/logo.svg" width="40px" height="20px" style="vertical-align: middle;"></a>';
+    navLogo.innerHTML = '<a href="index.html"><img src="images/logo.svg" width="40px" height="30px" style="vertical-align: middle;"></a>';
     outerList.insertBefore(navLogo, document.getElementsByClassName("dropdown")[3]);
 }
 

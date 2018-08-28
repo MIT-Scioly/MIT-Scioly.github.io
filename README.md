@@ -45,6 +45,6 @@ A basic informational site for competitors and coaches to get important informat
 * Add responsiveness
     * Change menu to hamburger with media query
     * Restructure events page to dropdowns when site becomes too small
-* Merge History and The Team pages.
+* ~~Merge History and The Team pages.~~
 * Finish Event Pages
     * Create a list of "visible fields" as well as their display names.

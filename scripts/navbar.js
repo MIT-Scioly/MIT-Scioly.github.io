@@ -6,7 +6,7 @@ var outerHeaders = {
     'Info for Teams': ["Tournament Policies", "Event Pages", "Required Forms", "Rules Clarification", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
     'Updates': [],
     'Sponsors': [],
-    'About Us': ["History", "The Team", "Contact Us", "Archives"]
+    'About Us': ["The Team", "Contact Us", "Archives"]
 };
 
 var links = {
@@ -15,7 +15,6 @@ var links = {
     "Contact Us": "contact-us.html",
     "Event Pages": "event-pages.html",
     "Health and Safety": "health-and-safety.html",
-    "History": "history.html",
     "Hotels": "hotels.html",
     "Location": "location.html",
     "Packing Checklist": "packing-checklist.html",

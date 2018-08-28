@@ -23,17 +23,28 @@ A basic informational site for competitors and coaches to get important informat
 * For css and js, use four spaces per tab
 
 ## General TODO
-* Add more details to Location page and shrink the map so that it's not so wide.
 * Go through current site at [scioly.mit.edu](scioly.mit.edu) and make sure all the info there is on the current site.
 * Figure out a better thing to put in the lower right corner of the site
 * Automatically generate the year in the copyright at the bottom.
+* Finish empty pages
+    * Tournament Info
+        * Tournament Schedule - Find last year's schedule and copy it over onto the site.
+        * Awards ceremony will not be in Kresge. Change to a "more info coming soon" message.
+        * Health and Safety - Add local pharmacies
+    * Logistics
+        * Location - Add more details and shrink the map so that it's not so wide. Add [whereis.mit.edu](whereis.mit.edu) to help people locate buildings.
+    * Info For Teams
+        * Tournament Policies - change second level bullets to something different.
+        * Required Forms - add "coming soon" message.
+        * Supplies - add the locations for some nearby hardware stores/places to get useful supplies for last-minute builds. Maybe add La Verde's as well.
+    * About Us
+        * Contact Us - add some basic contact information
+
 
 ## Miles TODO
 * Add responsiveness
     * Change menu to hamburger with media query
-
-* Finish "blog" feature for updates page
-    * Create "JSON" framework for storing posts
-    * Handle HTML parsing within post plaintext
+    * Restructure events page to dropdowns when site becomes too small
+* Merge History and The Team pages.
 * Finish Event Pages
     * Create a list of "visible fields" as well as their display names.

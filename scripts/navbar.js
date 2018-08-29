@@ -60,7 +60,10 @@ for(var header in outerHeaders) {
         li.appendChild(dropdownArrow);
         let dropdownWrapper = li.appendChild(document.createElement('div'));
         dropdownWrapper.className = "dropdown-wrapper";
+        console.log('hit if statement');
+        console.log(smallScreen);
         if (smallScreen.matches) {
+            console.log('adding listener');
             li.onclick = function() {
                 dropdownWrapper.classList.toggle("visible");
             };

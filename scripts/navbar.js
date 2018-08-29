@@ -30,9 +30,23 @@ var links = {
     "Updates": "updates.html"
 };
 
+// Add hamburger menu for narrow layout
+var hamburger = document.getElementsByTagName('nav')[0].appendChild(document.createElement("a"));
+hamburger.className = "fa fa-bars";
+hamburger.id = "nav-hamburger";
+hamburger.setAttribute("href", "javascript:void(0)");
+hamburger.setAttribute("onclick", "openMenu()");
+
+function openMenu() {
+    var nav = document.getElementsByTagName("nav")[0];
+    nav.classList.toggle("nav-narrow-visible");
+}
+
 // Create Upper Nav Bar
 var outerList = document.getElementsByTagName('nav')[0]
     .appendChild(document.createElement('ul'));
+// Test for media query
+var smallScreen = window.matchMedia("(max-width: 600px)");
 
 for(var header in outerHeaders) {
     var li = outerList.appendChild(document.createElement('li'));
@@ -40,8 +54,17 @@ for(var header in outerHeaders) {
     var children = outerHeaders[header];
     if(children.length > 0) {
         li.innerText = header;
-        var dropdownWrapper = li.appendChild(document.createElement('div'));
+        // Create dropdown arrow span for the sidebar menu on small screens
+        var dropdownArrow = document.createElement("span");
+        dropdownArrow.className = "fa fa-angle-down dropdown-arrow";
+        li.appendChild(dropdownArrow);
+        let dropdownWrapper = li.appendChild(document.createElement('div'));
         dropdownWrapper.className = "dropdown-wrapper";
+        if (smallScreen.matches) {
+            li.onclick = function() {
+                dropdownWrapper.classList.toggle("visible");
+            };
+        }
         var innerDiv = dropdownWrapper.appendChild(document.createElement('div'));
         innerDiv.className = "dropdown-content";
         for(var i = 0; i < children.length; i++) {
@@ -62,9 +85,17 @@ for(var header in outerHeaders) {
     }
 }
 
+// When the user clicks anywhere outside of the menu, close it
+// window.onclick = function(event) {
+//     if (event.target.className != "nav-narrow-visible") {
+//         openMenu();
+//     }
+// } 
+
 // Super hacky way to check if on title page.
 if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
     var navLogo = document.createElement("li");
+    navLogo.className = "navbar-logo";
     navLogo.innerHTML = '<a href="index.html"><img src="images/logo.svg" width="40px" height="30px" style="vertical-align: middle;"></a>';
     outerList.insertBefore(navLogo, document.getElementsByClassName("dropdown")[3]);
 }

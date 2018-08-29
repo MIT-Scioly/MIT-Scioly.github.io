@@ -12,6 +12,10 @@
     flex-direction: column;
 }
 
+#splash-image {
+	height: 35%;
+}
+
 @keyframes logoIntro {
 	0% {opacity: 0; transform: translate(0, -2%);}
 	100% {opacity: 1; transform: translate(0, 0);}

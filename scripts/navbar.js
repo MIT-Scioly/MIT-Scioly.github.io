@@ -45,8 +45,29 @@ function openMenu() {
 // Create Upper Nav Bar
 var outerList = document.getElementsByTagName('nav')[0]
     .appendChild(document.createElement('ul'));
+
 // Test for media query
 var smallScreen = window.matchMedia("(max-width: 600px)");
+
+function addDropdownClickListeners(mediaQuery) {
+    if(mediaQuery.matches) {
+        let navHeaders = document.getElementsByClassName("dropdown");
+        for(var i = 0; i < navHeaders.length; i++) {
+            let header = navHeaders[i]; // header is the li element in the nav bar
+            let childNodes = header.childNodes;
+            for(var j = 0; j < childNodes.length; j++) {
+                let childNode = childNodes[j];
+                if(childNode.nodeType === Node.ELEMENT_NODE && childNode.className === "dropdown-wrapper") {
+                    // Add click listener
+                    header.onclick = function() {
+                        childNode.classList.toggle("visible");
+                    }
+                    break;
+                }
+            }
+        }
+    }
+}
 
 for(var header in outerHeaders) {
     var li = outerList.appendChild(document.createElement('li'));
@@ -60,14 +81,6 @@ for(var header in outerHeaders) {
         li.appendChild(dropdownArrow);
         let dropdownWrapper = li.appendChild(document.createElement('div'));
         dropdownWrapper.className = "dropdown-wrapper";
-        console.log('hit if statement');
-        console.log(smallScreen);
-        if (smallScreen.matches) {
-            console.log('adding listener');
-            li.onclick = function() {
-                dropdownWrapper.classList.toggle("visible");
-            };
-        }
         var innerDiv = dropdownWrapper.appendChild(document.createElement('div'));
         innerDiv.className = "dropdown-content";
         for(var i = 0; i < children.length; i++) {
@@ -87,6 +100,11 @@ for(var header in outerHeaders) {
         anchor.innerText = header;
     }
 }
+
+// Add the onclick functions
+addDropdownClickListeners(smallScreen); // Call explicitly at runtime to ensure click listeners are added on page load
+smallScreen.addListener(addDropdownClickListeners); // Add listener to wait for page changes
+
 
 // When the user clicks anywhere outside of the menu, close it
 // window.onclick = function(event) {

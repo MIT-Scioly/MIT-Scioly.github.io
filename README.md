@@ -26,6 +26,7 @@ A basic informational site for competitors and coaches to get important informat
 * Go through current site at [scioly.mit.edu](scioly.mit.edu) and make sure all the info there is on the current site.
 * Figure out a better thing to put in the lower right corner of the site
 * Automatically generate the year in the copyright at the bottom.
+* There was a mistake on the template with script tags going outside the body. They should be placed just before the `</body>` tag. If you see one of these, fix it.
 * Finish empty pages
     * Tournament Info
         * Tournament Schedule - Find last year's schedule and copy it over onto the site.
@@ -38,13 +39,20 @@ A basic informational site for competitors and coaches to get important informat
         * Required Forms - add "coming soon" message.
         * Supplies - add the locations for some nearby hardware stores/places to get useful supplies for last-minute builds. Maybe add La Verde's as well.
     * About Us
+        * The Team - find out who the past tournament directors were. We might later expand this section to add short bios of each team member.
         * Contact Us - add some basic contact information
 
 
 ## Miles TODO
 * Add responsiveness
-    * Change menu to hamburger with media query
+    * Scale text and images on homepage
     * Restructure events page to dropdowns when site becomes too small
-* ~~Merge History and The Team pages.~~
+    * Right align the dropdown arrows on the menu
+    * Make footer responsive
+    * Close menu when user clicks outside menu
+    * ~~Change menu to hamburger with media query~~
 * Finish Event Pages
     * Create a list of "visible fields" as well as their display names.
+* ~~Merge History and The Team pages.~~
+* Remove disclaimer from finished pages.
+* Add troubleshooting email account somewhere.

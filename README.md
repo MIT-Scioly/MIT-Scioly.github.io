@@ -36,7 +36,7 @@ A basic informational site for competitors and coaches to get important informat
         * Location - Add more details and shrink the map so that it's not so wide. Add [whereis.mit.edu](whereis.mit.edu) to help people locate buildings.
     * Info For Teams
         * Tournament Policies - change second level bullets to something different.
-        * Required Forms - add "coming soon" message.
+        * ~~Required Forms - add "coming soon" message.~~
         * Supplies - add the locations for some nearby hardware stores/places to get useful supplies for last-minute builds. Maybe add La Verde's as well.
     * About Us
         * The Team - find out who the past tournament directors were. We might later expand this section to add short bios of each team member.

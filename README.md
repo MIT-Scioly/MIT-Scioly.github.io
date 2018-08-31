@@ -30,7 +30,7 @@ A basic informational site for competitors and coaches to get important informat
 * Finish empty pages
     * Tournament Info
         * Tournament Schedule - Find last year's schedule and copy it over onto the site.
-        * Awards ceremony will not be in Kresge. Change to a "more info coming soon" message.
+        * ~~Awards ceremony will not be in Kresge. Change to a "more info coming soon" message.~~
         * Health and Safety - Add local pharmacies
     * Logistics
         * Location - Add more details and shrink the map so that it's not so wide. Add [whereis.mit.edu](whereis.mit.edu) to help people locate buildings.

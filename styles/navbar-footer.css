@@ -211,3 +211,28 @@ footer li a {
 .fa:hover {
 	color: #c4c4c4;
 }
+
+/* Copyright */
+.copyright-left {
+	float: left;
+}
+
+.copyright-right {
+	float: right;
+}
+
+@media screen and (max-width: 600px) {
+	.lower-nav {
+		flex-direction: column;
+	}
+
+	.copyright-left {
+		display: block;
+		float: none;
+	}
+
+	.copyright-right {
+		display: block;
+		float: none;
+	}
+}

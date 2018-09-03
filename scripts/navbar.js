@@ -134,7 +134,7 @@ footer.appendChild(document.createElement('hr'));
 var socialMedia = footer.appendChild(document.createElement('div'));
 socialMedia.className = "social-media";
 // TODO: add links
-addSMIcon(socialMedia, "fa fa-facebook", "#");
+addSMIcon(socialMedia, "fa fa-facebook", "https://www.facebook.com/mitscioly");
 addSMIcon(socialMedia, "fa fa-snapchat-ghost", "#");
 addSMIcon(socialMedia, "fa fa-instagram", "https://www.instagram.com/mit_scioly/");
 addSMIcon(socialMedia, "fa fa-envelope-o", "mailto:scioly@mit.edu");
@@ -143,13 +143,13 @@ lowerNav.className = "lower-nav";
 footer.appendChild(document.createElement('hr'));
 var copyright = footer.appendChild(document.createElement('div'));
 copyright.id = "copyright";
+var rightSpan = copyright.appendChild(document.createElement('span'));
 var leftSpan = copyright.appendChild(document.createElement('span'));
-leftSpan.setAttribute("style", "float: left;");
+rightSpan.className = "copyright-right";
+rightSpan.innerText = "Powered by not Squarespace"; // TODO: change this to something useful
+leftSpan.className = "copyright-left";
 leftSpan.innerHTML = "&copy MIT Science Olympiad, 2019"; // TODO: make this update in code
 // Use innerHTML in the line above to make &copy render correctly
-var rightSpan = copyright.appendChild(document.createElement('span'));
-rightSpan.setAttribute("style", "float: right;");
-rightSpan.innerText = "Powered by not Squarespace"; // TODO: change this to something useful
 
 // Populate lower-nav
 for(header in outerHeaders) {

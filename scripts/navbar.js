@@ -119,7 +119,7 @@ smallScreen.addListener(addDropdownClickListeners); // Add listener to wait for 
 if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
     var navLogo = document.createElement("li");
     navLogo.className = "navbar-logo";
-    navLogo.innerHTML = '<a href="' + base '"><img src="' + base+ 'images/logo.svg" width="40px" height="30px" style="vertical-align: middle;"></a>';
+    navLogo.innerHTML = '<a href="' + base +'"><img src="' + base+ 'images/logo.svg" width="40px" height="30px" style="vertical-align: middle;"></a>';
     outerList.insertBefore(navLogo, document.getElementsByClassName("dropdown")[3]);
 }
 

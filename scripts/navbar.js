@@ -10,24 +10,24 @@ var outerHeaders = {
 };
 
 var links = {
-    "Archives": "archives.html",
-    "Awards Ceremony": "awards-ceremony.html",
-    "Contact Us": "contact-us.html",
-    "Event Pages": "event-pages.html",
-    "Health and Safety": "health-and-safety.html",
-    "Hotels": "hotels.html",
-    "Location": "location.html",
-    "Packing Checklist": "packing-checklist.html",
-    "Parking": "parking.html",
-    "Registration": "registration.html",
-    "Required Forms": "required-forms.html",
+    "Archives": "archives/",
+    "Awards Ceremony": "awards-ceremony/",
+    "Contact Us": "contact-us/",
+    "Event Pages": "event-pages/",
+    "Health and Safety": "health-and-safety/",
+    "Hotels": "hotels/",
+    "Location": "location/",
+    "Packing Checklist": "packing-checklist/",
+    "Parking": "parking/",
+    "Registration": "registration/",
+    "Required Forms": "required-forms/",
     "Rules Clarification": "https://www.soinc.org/events/rules-clarifications",
-    "Sponsors": "sponsors.html",
-    "Supplies": "supplies.html",
-    "The Team": "the-team.html",
-    "Tournament Policies": "tournament-policies.html",
-    "Tournament Schedule": "tournament-schedule.html",
-    "Updates": "updates.html"
+    "Sponsors": "sponsors/",
+    "Supplies": "supplies/",
+    "The Team": "the-team/",
+    "Tournament Policies": "tournament-policies/",
+    "Tournament Schedule": "tournament-schedule/",
+    "Updates": "updates/"
 };
 
 // Add hamburger menu for narrow layout

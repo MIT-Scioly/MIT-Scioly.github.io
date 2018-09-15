@@ -9,7 +9,7 @@ var outerHeaders = {
     'About Us': ["The Team", "Contact Us", "Archives"]
 };
 
-const base = "https://mit-scioly.github.io/tournament-schedule/"
+const base = "https://mit-scioly.github.io/"
 
 var links = {
     "Archives": "archives/",

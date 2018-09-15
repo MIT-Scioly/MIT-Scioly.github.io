@@ -9,6 +9,8 @@ var outerHeaders = {
     'About Us': ["The Team", "Contact Us", "Archives"]
 };
 
+const base = "https://mit-scioly.github.io/tournament-schedule/"
+
 var links = {
     "Archives": "archives/",
     "Awards Ceremony": "awards-ceremony/",
@@ -87,7 +89,7 @@ for(var header in outerHeaders) {
             var childName = children[i];
             var child = innerDiv.appendChild(document.createElement('a'));
             if(childName in links) {
-                child.setAttribute('href', links[childName]);
+                child.setAttribute('href', base+links[childName]);
                 if(childName === "Rules Clarification")
                     child.setAttribute('target', '_blank');
             }

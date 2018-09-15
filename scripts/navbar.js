@@ -113,7 +113,7 @@ smallScreen.addListener(addDropdownClickListeners); // Add listener to wait for 
 //     if (event.target.className != "nav-narrow-visible") {
 //         openMenu();
 //     }
-// } 
+// }
 
 // Super hacky way to check if on title page.
 if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
@@ -175,7 +175,7 @@ for(header in outerHeaders) {
     } else {
         if(header in links) {
             var link = col.appendChild(document.createElement("a"));
-            link.setAttribute("href", links[header]);
+            link.setAttribute("href", base+links[header]);
             link.innerText = header;
         } else {
             col.innerText = header;

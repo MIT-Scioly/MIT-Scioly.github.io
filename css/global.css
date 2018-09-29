@@ -80,6 +80,10 @@ a.navbar-item:hover {
 	color: #000000;
 }
 
+a:hover {
+	color: #c4c4c4;
+}
+
 ol {
 	list-style-type: decimal;
 	padding-left: 1em;
@@ -101,8 +105,15 @@ th, td {
 
 strong, b {
 	font-weight: bold;
+	color: #707070;
 }
 
 img, embed, object, video {
 	max-width: 100%; /* Prevents overflowing */
+}
+
+hr {
+	border: 0.5px solid #444444;
+	background-color: #444444;
+	height: 0;
 }

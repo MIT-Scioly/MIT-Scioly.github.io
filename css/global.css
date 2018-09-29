@@ -60,12 +60,24 @@ h2 {
 	margin-top: 1em;
 	margin-bottom: 0.2em;
 }
+
+.navbar .navbar-brand {
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+.navbar .navbar-brand > .navbar-item,
+.navbar .navbar-brand .navbar-link {
+  display: inline-block;
+}
+
 a {
 	color: inherit;
 }
 
-a:visited {
-	color: inherit;
+a.navbar-item:hover {
+	color: #000000;
 }
 
 ol {

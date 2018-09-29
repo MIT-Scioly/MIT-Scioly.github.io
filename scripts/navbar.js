@@ -32,88 +32,65 @@ var links = {
     "Updates": "updates/"
 };
 
-// Add hamburger menu for narrow layout
-var hamburger = document.getElementsByTagName('nav')[0].appendChild(document.createElement("a"));
-hamburger.className = "fa fa-bars";
-hamburger.id = "nav-hamburger";
-hamburger.setAttribute("href", "javascript:void(0)");
-hamburger.setAttribute("onclick", "openMenu()");
+let hero_head = document.getElementById("navbar-hero");
+let inner_navbar = document.createElement("nav");
+hero_head.appendChild(inner_navbar);
+inner_navbar.className = "navbar is-black";
+let burger = document.createElement("div");
+inner_navbar.appendChild(burger);
+burger.className = "navbar-burger burger";
+burger.setAttribute("data-target", "navbar");
+burger.setAttribute("onclick", "document.querySelector('.navbar-menu').classList.toggle('is-active');");
+let first_blank_span = document.createElement("span");
+let second_blank_span = document.createElement("span");
+let third_blank_span = document.createElement("span");
+burger.appendChild(first_blank_span);
+burger.appendChild(second_blank_span);
+burger.appendChild(third_blank_span);
+let menu = document.createElement("div");
+menu.className = "navbar-menu";
+inner_navbar.appendChild(menu);
+let start = document.createElement("div");
+menu.appendChild(start);
+start.className = "navbar-start";
 
-function openMenu() {
-    var nav = document.getElementsByTagName("nav")[0];
-    nav.classList.toggle("nav-narrow-visible");
+for(header in outerHeaders) {
+    children = outerHeaders[header];
+    var nav_item = null;
+    if (children.length == 0) {
+        nav_item = document.createElement("a");
+        nav_item.className = "navbar-item";
+        nav_item.text = header;
+        nav_item.href = links[header];
+    } else {
+        nav_item = document.createElement("div");
+        nav_item.className = "navbar-item has-dropdown is-hoverable";
+        let nav_link = document.createElement("a");
+        nav_item.appendChild(nav_link);
+        nav_link.className = "navbar-link";
+        nav_link.text = header
+        let nav_children  = document.createElement("div");
+        nav_item.appendChild(nav_children);
+        nav_children.className = "is-white navbar-dropdown no-curve";
+        for(child in children) {
+            child = children[child]
+            let nav_child = document.createElement("a");
+            nav_children.append(nav_child);
+            nav_child.className = "navbar-item";
+            nav_child.text = child;
+            nav_child.href = links[child];
+        }
+    }
+    start.appendChild(nav_item);
 }
+
+
 
 // Create Upper Nav Bar
 var outerList = document.getElementsByTagName('nav')[0]
     .appendChild(document.createElement('ul'));
 
-// Test for media query
-var smallScreen = window.matchMedia("(max-width: 600px)");
 
-function addDropdownClickListeners(mediaQuery) {
-    if(mediaQuery.matches) {
-        let navHeaders = document.getElementsByClassName("dropdown");
-        for(var i = 0; i < navHeaders.length; i++) {
-            let header = navHeaders[i]; // header is the li element in the nav bar
-            let childNodes = header.childNodes;
-            for(var j = 0; j < childNodes.length; j++) {
-                let childNode = childNodes[j];
-                if(childNode.nodeType === Node.ELEMENT_NODE && childNode.className === "dropdown-wrapper") {
-                    // Add click listener
-                    header.onclick = function() {
-                        childNode.classList.toggle("visible");
-                    }
-                    break;
-                }
-            }
-        }
-    }
-}
-
-for(var header in outerHeaders) {
-    var li = outerList.appendChild(document.createElement('li'));
-    li.className = "dropdown";
-    var children = outerHeaders[header];
-    if(children.length > 0) {
-        li.innerText = header;
-        // Create dropdown arrow span for the sidebar menu on small screens
-        var dropdownArrow = document.createElement("span");
-        dropdownArrow.className = "fa fa-angle-down dropdown-arrow";
-        li.appendChild(dropdownArrow);
-        let dropdownWrapper = li.appendChild(document.createElement('div'));
-        dropdownWrapper.className = "dropdown-wrapper";
-        var innerDiv = dropdownWrapper.appendChild(document.createElement('div'));
-        innerDiv.className = "dropdown-content";
-        for(var i = 0; i < children.length; i++) {
-            var childName = children[i];
-            var child = innerDiv.appendChild(document.createElement('a'));
-            if(childName in links) {
-                child.setAttribute('href', base+links[childName]);
-                if(childName === "Rules Clarification")
-                    child.setAttribute('target', '_blank');
-            }
-            child.innerText = childName;
-        }
-    } else {
-        var anchor = li.appendChild(document.createElement('a'));
-        if(header in links)
-            anchor.setAttribute('href', links[header]);
-        anchor.innerText = header;
-    }
-}
-
-// Add the onclick functions
-addDropdownClickListeners(smallScreen); // Call explicitly at runtime to ensure click listeners are added on page load
-smallScreen.addListener(addDropdownClickListeners); // Add listener to wait for page changes
-
-
-// When the user clicks anywhere outside of the menu, close it
-// window.onclick = function(event) {
-//     if (event.target.className != "nav-narrow-visible") {
-//         openMenu();
-//     }
-// }
 
 // Super hacky way to check if on title page.
 if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {

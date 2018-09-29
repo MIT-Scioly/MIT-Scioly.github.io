@@ -5,37 +5,73 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--For mobile layouts-->
     <meta name="description" content="Science Olympiad invitational hosted by MIT.">
     <meta name="keywords" content="Science Olympiad, MIT, Massachusetts Institute of Technology, invitational, competition, home">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+    <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="css/index.css"> 
-    <link rel="stylesheet" href="css/navbar-footer.css">
-    <link rel="stylesheet" href="css/updates.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Raleway:300,400,500">
-    <title>MIT Science Olympiad | Welcome</title> 
+    <title>MIT Science Olympiad | Welcome</title>
   </head>
   <body>
-    <header>
-      <nav></nav>
-    </header>
-    <div class="hero">
-      <div id="splash-image">
-        <svg version="1.1" height="250px" width="600px"> 
-          <image href="images/plane.svg" height="40%" width="100%" y="50%" id="plane"/>
-          <image href="images/logo.svg" height="70%" width="100%" x="0%" y="0.5%"  id="logo"/>
-          <image href="images/transparency.svg" height="20%" width="100%" x="0%" y="70%" id="reflection"/>
-        </svg>
-      </div>
-      <div class="title">
-        <h1>MIT Science Olympiad</h1>
-        <h2>January 12, 2019</h2>
-        <a href="registration.html" class="button">Register</a>
-      </div>
-    </div>
+      <section class="section hero is-fullheight is-fullwidth">
+        <div class="hero-head">
+            <nav class="navbar is-black">
+              <div class="navbar-brand">
+                <div class="navbar-burger burger" data-target="navbar">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+              </div
+
+              <div id="navbar" class="navbar-menu">
+                <div class="navbar-start">
+                  <a class="navbar-item" href="https://bulma.io/">
+                    Home
+                  </a>
+                  <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link" href="/documentation/overview/start/">
+                      Docs
+                    </a>
+                    <div class="is-white navbar-dropdown no-curve">
+                      <a class="navbar-item" href="/documentation/overview/start/">
+                        Overview
+                      </a>
+                      <a class="navbar-item" href="https://bulma.io/documentation/modifiers/syntax/">
+                        Modifiers
+                      </a>
+                      <a class="navbar-item" href="https://bulma.io/documentation/columns/basics/">
+                        Columns
+                      </a>
+                      <a class="navbar-item" href="https://bulma.io/documentation/layout/container/">
+                        Layout
+                      </a>
+                      <a class="navbar-item" href="https://bulma.io/documentation/form/general/">
+                        Form
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </nav>
+        </div>
+        <!--- Hero Head End -->
+        <div class="hero-body is-paddingless">
+          <div class="container">
+            <div class="is-mobile columns is-centered">
+              <svg version="1.1" height="30vh" width="40vw">
+                <image href="images/logo.svg" height="70%" width="100%" x="0%" y="0.5%"  id="logo"/>
+              </svg>
+            </div>
+            <div class="container title">
+              <h1>MIT Science Olympiad</h1>
+              <h2>January 12, 2019</h2>
+              <a href="registration.html" class="register">Register</a>
+            </div>
+          </div>
+        </div>
+      </section>
     <section id="updates"></section>
     <footer></footer>
-    <script src="scripts/navbar.js"></script>
-    <script src="scripts/global.js"></script>
-    <script src="data/updates/updates.js"></script>
-    <script src="scripts/updates.js"></script>
   </body>
 </html>

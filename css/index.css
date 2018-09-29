@@ -1,31 +1,5 @@
 /* Contains styles for index.html */
 
-/* Center image */
-.hero {
-    width: 100vw;
-    height: 100vh;
-    max-width: 100%;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-#splash-image {
-	height: 35%;
-}
-
-@keyframes logoIntro {
-	0% {opacity: 0; transform: translate(0, -2%);}
-	100% {opacity: 1; transform: translate(0, 0);}
-}
-
-@keyframes reflectionIntro {
-	0% {opacity: 0; transform: translate(0, 2%);}
-	100% {opacity: 1; transform: translate(0, 0);}
-}
-
 #logo {
 	animation-name: logoIntro;
 	animation-duration: 1.2s;
@@ -44,9 +18,11 @@
 	font-family: 'Lato', sans-serif;
 	margin-bottom: 5%;
 }
+
 .title h1 {
 	font-size: 60px;
 	font-weight: 300;
+  margin-bottom:10px;
 }
 
 .title h2 {
@@ -54,10 +30,10 @@
 	font-weight: 300;
 	line-height: 80%;
 	margin-top: 0;
+  margin-bottom:30px;
 }
 
-/* Call to Action button */
-.button {
+.register {
 	display: inline-block;
 	background-color: #111111;
 	border: 2px solid #c4c4c4;
@@ -79,7 +55,7 @@
 	transition: all 0.25s ease;
 }
 
-.button:hover {
+.register:hover {
 	background-color: #c4c4c4;
 	color:#222222;
 }

@@ -142,97 +142,18 @@ nav ul li a:hover {
 
 
 /* Footer */
-hr {
-	border: 0.5px solid #444444;
-}
-footer {
-	max-width: 80vw;
-	margin: 20px auto;
-}
-
-.social-media {
-	text-align: center;
-	font-family: 'Lato', sans-serif;
-	font-weight: 700;
-	font-size: 20px;
-	color: #707070;
-	margin: 30px auto;
-}
-
-.lower-nav {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	font-size: 12px;
-	margin-bottom: 2%;
-}
-
-.column {
-	font-family: 'Lato', sans-serif;
-	font-weight: 700;
-	color: #707070;
-}
-
-.column ul {
-	font-weight: 300;
-}
-
-.subcolumn {
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#copyright {
-	display: block;
-	padding: 10px 0 10px 0;
+.footer {
+	padding-bottom: 3%;
+	background-color: inherit;
 	color: #707070;
 	font-size: 12px;
 }
 
-footer div a {
-	text-decoration: none;
-}
-
-footer li a {
-	text-decoration: none;
-	color: inherit;
-}
-
-/* Social Media Icons */
-.fa {
-	padding: 0;
-	font-size: 30px;
+.footer .fa {
 	width: 50px;
-	text-align: center;
-	text-decoration: none;
-	color: #707070;
+	font-size: 20px;
 }
 
 .fa:hover {
 	color: #c4c4c4;
-}
-
-/* Copyright */
-.copyright-left {
-	float: left;
-}
-
-.copyright-right {
-	float: right;
-}
-
-@media screen and (max-width: 600px) {
-	.lower-nav {
-		flex-direction: column;
-	}
-
-	.copyright-left {
-		display: block;
-		float: none;
-	}
-
-	.copyright-right {
-		display: block;
-		float: none;
-	}
 }

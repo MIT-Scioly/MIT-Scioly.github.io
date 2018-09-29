@@ -132,34 +132,44 @@ function addSMIcon(parent, classString, link) {
 }
 
 var footer = document.getElementsByTagName("footer")[0];
-footer.appendChild(document.createElement('hr'));
-var socialMedia = footer.appendChild(document.createElement('div'));
-socialMedia.className = "social-media";
-// TODO: add links
-addSMIcon(socialMedia, "fa fa-facebook", "https://www.facebook.com/mitscioly");
-addSMIcon(socialMedia, "fa fa-instagram", "https://www.instagram.com/mit_scioly/");
-addSMIcon(socialMedia, "fa fa-medium", "https://medium.com/@mit_scioly");
-addSMIcon(socialMedia, "fa fa-envelope-o", "mailto:scioly@mit.edu");
-var lowerNav = footer.appendChild(document.createElement('div'));
-lowerNav.className = "lower-nav";
-footer.appendChild(document.createElement('hr'));
-var copyright = footer.appendChild(document.createElement('div'));
+footer.className = "footer";
+var footer_container = footer.appendChild(document.createElement('div'));
+footer_container.className = 'container';
+footer_container.appendChild(document.createElement('hr'));
+var socialMedia = footer_container.appendChild(document.createElement('div'));
+socialMedia.className = "columns";
+var socialMediaLeftBuffer = socialMedia.appendChild(document.createElement('div'));
+socialMediaLeftBuffer.className = "column is-one-third"
+var socialMediaCol = socialMedia.appendChild(document.createElement('div'));
+socialMediaCol.className = "column has-text-centered social-media";
+addSMIcon(socialMediaCol, "fa fa-facebook", "https://www.facebook.com/mitscioly");
+addSMIcon(socialMediaCol, "fa fa-instagram", "https://www.instagram.com/mit_scioly/");
+addSMIcon(socialMediaCol, "fa fa-medium", "https://medium.com/@mit_scioly");
+addSMIcon(socialMediaCol, "fa fa-envelope-o", "mailto:scioly@mit.edu");
+var socialMediaRightBuffer = socialMedia.appendChild(document.createElement('div'));
+socialMediaRightBuffer.className = "column is-one-third"
+
+var lowerNav = footer_container.appendChild(document.createElement('div'));
+lowerNav.className = "columns lower-nav";
+footer_container.appendChild(document.createElement('hr'));
+var copyright = footer_container.appendChild(document.createElement('div'));
 copyright.id = "copyright";
-var rightSpan = copyright.appendChild(document.createElement('span'));
-var leftSpan = copyright.appendChild(document.createElement('span'));
-rightSpan.className = "copyright-right";
-rightSpan.innerText = "Powered by not Squarespace"; // TODO: change this to something useful
-leftSpan.className = "copyright-left";
-leftSpan.innerHTML = "&copy MIT Science Olympiad, 2019"; // TODO: make this update in code
+copyright.className = "level";
+var leftSpan = copyright.appendChild(document.createElement('div'));
+var rightSpan = copyright.appendChild(document.createElement('div'));
+rightSpan.className = "level-right";
+rightSpan.innerHTML = "<div class=\"level-item\">Powered by not Squarespace</div>"; // TODO: change this to something useful
+leftSpan.className = "level-left";
+leftSpan.innerHTML = "<div class=\"level-item\">&copy MIT Science Olympiad, 2019</div>"; // TODO: make this update in code
 // Use innerHTML in the line above to make &copy render correctly
 
 // Populate lower-nav
 for(header in outerHeaders) {
     var col = lowerNav.appendChild(document.createElement("div"));
-    col.className = "column";
+    col.className = "column is-2 has-text-centered";
     var children = outerHeaders[header];
     if(children.length > 0){
-        col.innerText = header;
+        col.innerHTML = '<strong>' + header + '</strong>';
         var ul = col.appendChild(document.createElement("ul"));
         for(var i = 0; i < children.length; i++) {
             var li = ul.appendChild(document.createElement("li"));

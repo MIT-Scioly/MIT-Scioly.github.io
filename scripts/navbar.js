@@ -12,24 +12,24 @@ var outerHeaders = {
 const base = "https://mit-scioly.github.io/"
 
 var links = {
-    "Archives": "archives/",
-    "Awards Ceremony": "awards-ceremony/",
-    "Contact Us": "contact-us/",
-    "Event Pages": "event-pages/",
-    "Health and Safety": "health-and-safety/",
-    "Hotels": "hotels/",
-    "Location": "location/",
-    "Packing Checklist": "packing-checklist/",
-    "Parking": "parking/",
-    "Registration": "registration/",
-    "Required Forms": "required-forms/",
+    "Archives": "archives/index.html",
+    "Awards Ceremony": "awards-ceremony/index.html",
+    "Contact Us": "contact-us/index.html",
+    "Event Pages": "event-pages/index.html",
+    "Health and Safety": "health-and-safety/index.html",
+    "Hotels": "hotels/index.html",
+    "Location": "location/index.html",
+    "Packing Checklist": "packing-checklist/index.html",
+    "Parking": "parking/index.html",
+    "Registration": "registration/index.html",
+    "Required Forms": "required-forms/index.html",
     "Rules Clarification": "https://www.soinc.org/events/rules-clarifications",
-    "Sponsors": "sponsors/",
-    "Supplies": "supplies/",
-    "The Team": "the-team/",
-    "Tournament Policies": "tournament-policies/",
-    "Tournament Schedule": "tournament-schedule/",
-    "Updates": "updates/"
+    "Sponsors": "sponsors/index.html",
+    "Supplies": "supplies/index.html",
+    "The Team": "the-team/index.html",
+    "Tournament Policies": "tournament-policies/index.html",
+    "Tournament Schedule": "tournament-schedule/index.html",
+    "Updates": "updates/index.html"
 };
 
 let hero_head = document.getElementById("navbar-hero");
@@ -72,7 +72,7 @@ for(header in outerHeaders) {
         let nav_children  = document.createElement("div");
         nav_item.appendChild(nav_children);
         nav_children.className = "is-white navbar-dropdown no-curve";
-        for(child in children) {
+        for(var child in children) {
             child = children[child]
             let nav_child = document.createElement("a");
             nav_children.append(nav_child);
@@ -141,7 +141,7 @@ leftSpan.innerHTML = "<div class=\"level-item\">&copy MIT Science Olympiad, 2019
 // Use innerHTML in the line above to make &copy render correctly
 
 // Populate lower-nav
-for(header in outerHeaders) {
+for(var header in outerHeaders) {
     var col = lowerNav.appendChild(document.createElement("div"));
     col.className = "column is-2 has-text-centered";
     var children = outerHeaders[header];

@@ -1,6 +1,20 @@
 /* Navbar and Footer CSS Code*/
 
+#navbar {
+	background-color: #111111;
+}
 
+.navbar-link {
+	color: #c4c4c4;
+}
+
+.navbar-link::after {
+	border-color: #c4c4c4;
+}
+
+.navbar-link:hover {
+	color: #707070;
+}
 
 
 /* Footer */

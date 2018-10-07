@@ -32,10 +32,11 @@ var links = {
     "Updates": "updates/index.html"
 };
 
-let hero_head = document.getElementById("navbar-hero");
-let inner_navbar = document.createElement("nav");
-hero_head.appendChild(inner_navbar);
-inner_navbar.className = "navbar is-black";
+let navbar = document.getElementById("navbar");
+let inner_navbar = document.createElement("div");
+inner_navbar.className = "container";
+navbar.appendChild(inner_navbar);
+
 var navBrand = document.createElement("div");
 navBrand.className = "navbar-brand";
 inner_navbar.appendChild(navBrand);
@@ -45,7 +46,7 @@ if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad
     let logo = document.createElement('a');
     logo.className = "navbar-item";
     logo.href = base;
-    logo.innerHTML = '<img src="' + base + 'images/logo.svg" width="40px" height="30px" style="vertical-align: middle;">';
+    logo.innerHTML = '<img src="' + base + 'images/logo.svg" width="80px" height="60px" style="vertical-align: middle;">';
     navBrand.appendChild(logo);
     console.log(logo.innerHTML);
     // var navLogo = document.createElement("li");
@@ -57,8 +58,9 @@ if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad
 let burger = document.createElement("a");
 navBrand.appendChild(burger);
 burger.className = "navbar-burger burger";
+burger.id = "burger";
 burger.setAttribute("data-target", "navbar");
-burger.setAttribute("onclick", "document.querySelector('.navbar-menu').classList.toggle('is-active');");
+burger.setAttribute("onclick", "document.querySelector('.navbar-menu').classList.toggle('is-active');document.querySelector('#burger').classList.toggle('is-active')");
 let first_blank_span = document.createElement("span");
 let second_blank_span = document.createElement("span");
 let third_blank_span = document.createElement("span");
@@ -94,24 +96,14 @@ for(header in outerHeaders) {
         for(var child in children) {
             child = children[child]
             let nav_child = document.createElement("a");
-            nav_children.append(nav_child);
+            nav_children.appendChild(nav_child);
             nav_child.className = "navbar-item";
             nav_child.text = child;
-            nav_child.href = links[child];
+            nav_child.href = base + links[child];
         }
     }
     start.appendChild(nav_item);
 }
-
-
-
-// Create Upper Nav Bar
-// var outerList = document.getElementsByTagName('nav')[0]
-//     .appendChild(document.createElement('ul'));
-
-
-
-
 
 // Create Footer
 function addSMIcon(parent, classString, link) {

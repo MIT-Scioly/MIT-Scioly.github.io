@@ -1,144 +1,6 @@
 /* Navbar and Footer CSS Code*/
-nav ul, footer ul {
-	list-style: none;
-	padding: 0;
-}
 
-nav li, footer li {
-	margin: 0;
-}
 
-nav {
-    font-family: 'Lato', sans-serif;
-    font-size: 14px; /* Make responsive */
-    color: #c4c4c4;
-}
-
-nav ul {
-	/* TODO Add webkits */
-	padding: 20px 2vw;
-	display: flex;
-	flex-flow: row wrap;
-	align-items: center;
-	justify-content: space-between;
-}
-
-nav ul li {
-	/* Prevent the text cursor from popping up on primary headings */
-	cursor: default;
-}
-
-nav ul li a{
-	/* Remove underline from primary headings that are also links */
-	text-decoration: none;
-}
-
-nav ul li a:hover {
-	color: #eeeeee;
-}
-
-.dropdown-wrapper {
-	position: absolute;
-}
-
-.dropdown-content {
-    display: none;
-	position: relative;
-	left: -0.7em; /* TODO: avoid hard-coding this */
-	background-color: #111111;
-	opacity: 0.95;
-    min-width: 160px;
-	z-index: 1;
-	padding: 10px;
-}
-
-.dropdown-content a {
-    padding: 4px 0;
-    display: block;
-	text-align: left;
-	text-decoration: none;
-	color: #c4c4c4;
-}
-
-@media screen and (min-width: 600px) {
-	.dropdown:hover .dropdown-content {
-		display: block;
-	}
-}
-
-.dropdown .dropdown-arrow {
-	display: none;
-}
-
-#nav-hamburger {
-	display: none;
-}
-
-/* TEST MEDIA QUERIES */
-@media screen and (max-width: 600px) {
-	nav ul {
-		display: none;
-	}
-
-	#nav-hamburger {
-		display: block;
-		right:-1em;
-		position: fixed;
-		margin: 20px;
-		/* transform: translate(100%, 0); */
-	}
-
-	.nav-narrow-visible {
-		position: fixed;
-		top: 0;
-		right: 0;
-		z-index: 1;
-		height: 100vh;
-		width: 200px;
-		background-color: #000000;
-		overflow-x: hidden;
-		transition: 0.3s;
-	}
-
-	.nav-narrow-visible ul{
-		display: flex;
-		flex-direction: column;
-		align-items: start;
-		padding-top: 30%;
-		margin-left: 0.5em;
-	}
-
-	.nav-narrow-visible .dropdown-arrow {
-		display: inline-block;
-		/* margin-left: auto; */
-	}
-
-	.nav-narrow-visible li {
-		margin: 0.5em 0;
-		cursor: pointer;
-	}
-
-	.nav-narrow-visible li:hover {
-		color: #c4c4c4;
-	}
-
-	.nav-narrow-visible .navbar-logo {
-		display: none;
-	}
-
-	.nav-narrow-visible .visible .dropdown-content {
-		display: block;
-		position: static;
-		background-color: inherit;
-		padding: 0;
-		padding-left: 15px;
-	}
-
-	.dropdown-wrapper.visible {
-		position: static;
-		transition: 0.5s;
-	}
-}
 
 
 /* Footer */
@@ -156,4 +18,8 @@ nav ul li a:hover {
 
 .fa:hover {
 	color: #c4c4c4;
+}
+
+.footer ul {
+	list-style-type: none;
 }

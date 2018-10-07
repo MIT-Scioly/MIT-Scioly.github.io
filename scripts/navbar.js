@@ -36,8 +36,26 @@ let hero_head = document.getElementById("navbar-hero");
 let inner_navbar = document.createElement("nav");
 hero_head.appendChild(inner_navbar);
 inner_navbar.className = "navbar is-black";
-let burger = document.createElement("div");
-inner_navbar.appendChild(burger);
+var navBrand = document.createElement("div");
+navBrand.className = "navbar-brand";
+inner_navbar.appendChild(navBrand);
+
+// Super hacky way to check if on title page. If not, add the logo to navBrand
+if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
+    let logo = document.createElement('a');
+    logo.className = "navbar-item";
+    logo.href = base;
+    logo.innerHTML = '<img src="' + base + 'images/logo.svg" width="40px" height="30px" style="vertical-align: middle;">';
+    navBrand.appendChild(logo);
+    console.log(logo.innerHTML);
+    // var navLogo = document.createElement("li");
+    // navLogo.className = "navbar-logo";
+    // navLogo.innerHTML = '<a href="' + base +'"><img src="' + base+ 'images/logo.svg" width="40px" height="30px" style="vertical-align: middle;"></a>';
+    // outerList.insertBefore(navLogo, document.getElementsByClassName("dropdown")[3]);
+}
+
+let burger = document.createElement("a");
+navBrand.appendChild(burger);
 burger.className = "navbar-burger burger";
 burger.setAttribute("data-target", "navbar");
 burger.setAttribute("onclick", "document.querySelector('.navbar-menu').classList.toggle('is-active');");
@@ -47,6 +65,7 @@ let third_blank_span = document.createElement("span");
 burger.appendChild(first_blank_span);
 burger.appendChild(second_blank_span);
 burger.appendChild(third_blank_span);
+
 let menu = document.createElement("div");
 menu.className = "navbar-menu";
 inner_navbar.appendChild(menu);
@@ -87,18 +106,12 @@ for(header in outerHeaders) {
 
 
 // Create Upper Nav Bar
-var outerList = document.getElementsByTagName('nav')[0]
-    .appendChild(document.createElement('ul'));
+// var outerList = document.getElementsByTagName('nav')[0]
+//     .appendChild(document.createElement('ul'));
 
 
 
-// Super hacky way to check if on title page.
-if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
-    var navLogo = document.createElement("li");
-    navLogo.className = "navbar-logo";
-    navLogo.innerHTML = '<a href="' + base +'"><img src="' + base+ 'images/logo.svg" width="40px" height="30px" style="vertical-align: middle;"></a>';
-    outerList.insertBefore(navLogo, document.getElementsByClassName("dropdown")[3]);
-}
+
 
 // Create Footer
 function addSMIcon(parent, classString, link) {

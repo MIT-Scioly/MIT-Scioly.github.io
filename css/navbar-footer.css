@@ -16,6 +16,11 @@
 	color: #707070;
 }
 
+.navbar-start {
+	width: 100%;
+	justify-content: space-between;
+}
+
 
 /* Footer */
 .footer {

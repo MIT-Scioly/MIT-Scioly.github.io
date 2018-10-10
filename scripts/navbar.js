@@ -92,7 +92,7 @@ for(header in outerHeaders) {
         nav_link.text = header
         let nav_children  = document.createElement("div");
         nav_item.appendChild(nav_children);
-        nav_children.className = "is-white navbar-dropdown no-curve";
+        nav_children.className = "navbar-dropdown no-curve";
         for(var child in children) {
             child = children[child]
             let nav_child = document.createElement("a");

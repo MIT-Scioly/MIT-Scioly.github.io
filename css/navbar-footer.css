@@ -44,6 +44,10 @@
 	cursor: default;
 }
 
+.navbar-item.has-dropdown:hover .navbar-dropdown {
+	padding-top: 0;
+}
+
 .navbar-item.has-dropdown .navbar-link:hover {
 	background-color: #111111;
 }

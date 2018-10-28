@@ -82,7 +82,7 @@ for(header in outerHeaders) {
         nav_item = document.createElement("a");
         nav_item.className = "navbar-item";
         nav_item.text = header;
-        nav_item.href = links[header];
+        nav_item.href = base + links[header];
     } else {
         nav_item = document.createElement("div");
         nav_item.className = "navbar-item has-dropdown is-hoverable";

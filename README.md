@@ -44,15 +44,10 @@ A basic informational site for competitors and coaches to get important informat
 
 
 ## Miles TODO
-* Add responsiveness
-    * Scale text and images on homepage
-    * Restructure events page to dropdowns when site becomes too small
-    * Right align the dropdown arrows on the menu
-    * Make footer responsive
-    * Close menu when user clicks outside menu
-    * ~~Change menu to hamburger with media query~~
+* Move logo to center of navbar when not on homepage.
 * Finish Event Pages
     * Create a list of "visible fields" as well as their display names.
 * ~~Merge History and The Team pages.~~
 * Remove disclaimer from finished pages.
 * Add troubleshooting email account somewhere.
+

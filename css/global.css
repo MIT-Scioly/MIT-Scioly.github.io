@@ -106,3 +106,7 @@ hr {
 	background-color: #444444;
 	height: 0;
 }
+
+.section {
+	padding: 4rem 3rem 3rem 3rem;
+}

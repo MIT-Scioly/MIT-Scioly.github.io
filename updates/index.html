@@ -2,10 +2,10 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--For mobile layouts-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <meta name="description" content="Science Olympiad invitational hosted by MIT.">
-    <!-- Modify these keywords to be specific to your page (this is really important for SEO!) -->
     <meta name="keywords" content="updates,scioly,Science Olympiad,MIT,Massachusetts Institute of Technology">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
     <link rel="stylesheet" href="https://mit-scioly.github.io/css/global.css">
     <link rel="stylesheet" href="https://mit-scioly.github.io/css/navbar-footer.css">
     <!-- Add fonts TODO: Delete unnecessary fonts to decrease load time! -->
@@ -16,16 +16,18 @@
   </head>
   <body>
     <header>
-      <nav>
-        <!-- Navbar will be added with js; leave these nav tags here-->
-      </nav>
+      <nav class= "navbar is-transparent is-fixed-top" id="navbar"></nav>
     </header>
-    <h1>Updates</h1>
-
-    <!-- Leave this div here to automatically generate the disclaimer message -->
-    <div id="temporary-site-disclaimer"></div>
-
-    <section id="updates"></section>
+    <section class="section">
+      <div class="container">
+        <h1>Updates</h1>
+    
+        <!-- Leave this div here to automatically generate the disclaimer message -->
+        <div id="temporary-site-disclaimer"></div>
+    
+        <section id="updates"></section>
+      </div>
+    </section>
 
     <footer>
       <!-- Footer will be inserted automatically with js; leave the footer tags here -->

@@ -48,7 +48,6 @@ if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad
     logo.href = base;
     logo.innerHTML = '<img src="' + base + 'images/logo.svg" width="80px" height="60px" style="vertical-align: middle;">';
     navBrand.appendChild(logo);
-    console.log(logo.innerHTML);
     // var navLogo = document.createElement("li");
     // navLogo.className = "navbar-logo";
     // navLogo.innerHTML = '<a href="' + base +'"><img src="' + base+ 'images/logo.svg" width="40px" height="30px" style="vertical-align: middle;"></a>';

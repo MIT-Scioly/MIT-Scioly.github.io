@@ -151,6 +151,7 @@ for(var header in outerHeaders) {
     col.className = "column is-2 has-text-centered";
     var children = outerHeaders[header];
     if(children.length > 0){
+        // Header has a dropdown menu
         col.innerHTML = '<strong>' + header + '</strong>';
         var ul = col.appendChild(document.createElement("ul"));
         for(var i = 0; i < children.length; i++) {
@@ -158,16 +159,17 @@ for(var header in outerHeaders) {
             var childName = children[i];
             if(childName in links) {
                 var link = li.appendChild(document.createElement("a"));
-                link.setAttribute("href", links[childName]);
+                link.setAttribute("href", base + links[childName]);
                 link.innerText = childName;
             } else {
                 li.innerText = childName;
             }
         }
     } else {
+        // Header does not have a dropdown menu
         if(header in links) {
             var link = col.appendChild(document.createElement("a"));
-            link.setAttribute("href", base+links[header]);
+            link.setAttribute("href", base + links[header]);
             link.innerText = header;
         } else {
             col.innerText = header;

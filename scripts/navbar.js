@@ -23,7 +23,7 @@ var links = {
     "Parking": "parking/index.html",
     "Registration": "registration/index.html",
     "Required Forms": "required-forms/index.html",
-    "Rules Clarification": "https://www.soinc.org/events/rules-clarifications",
+    "Rule Clarifications": "rule-clarifications/index.html",
     "Sponsors": "sponsors/index.html",
     "Supplies": "supplies/index.html",
     "The Team": "the-team/index.html",

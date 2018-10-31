@@ -65,9 +65,8 @@ h2 {
 
 a {
 	color: inherit;
+	text-decoration: underline;
 }
-
-
 
 a:hover {
 	color: #c4c4c4;

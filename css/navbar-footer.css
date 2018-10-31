@@ -13,6 +13,7 @@
 	color: #c4c4c4;
 	padding-right: 12px;
 	background-color: #111111;
+	text-decoration: none;
 }
 
 
@@ -54,6 +55,7 @@
 
 a.navbar-item {
 	transition: background-color linear 0.1s; /* Transition back when pointer is no longer hovering */
+	text-decoration: none;
 }
 
 a.navbar-item:hover {
@@ -90,4 +92,8 @@ a.navbar-item:hover {
 
 .footer ul {
 	list-style-type: none;
+}
+
+.footer a {
+	text-decoration: none;
 }

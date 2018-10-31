@@ -44,7 +44,7 @@ A basic informational site for competitors and coaches to get important informat
 
 
 ## Miles TODO
-* Move logo to center of navbar when not on homepage.
+* Add updates to homepage and to Updates Page
 * Finish Event Pages
     * Create a list of "visible fields" as well as their display names.
 * ~~Merge History and The Team pages.~~

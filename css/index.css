@@ -33,7 +33,7 @@
   margin-bottom:30px;
 }
 
-.register {
+.call-to-action {
 	display: inline-block;
 	background-color: #111111;
 	border: 2px solid #c4c4c4;
@@ -49,13 +49,16 @@
 	min-width: 48px;
 	/* min-height: 48px;  TODO: This is causing problems*/
 
+	z-index: 2;
+	position: relative; /* Necessary to make z-index work */
+
 	-webkit-transition: all 0.25s ease;
 	-moz-transition: all 0.25s ease;
 	-o-transition: all 0.25s ease;
 	transition: all 0.25s ease;
 }
 
-.register:hover {
+.call-to-action:hover {
 	background-color: #c4c4c4;
 	color:#222222;
 }

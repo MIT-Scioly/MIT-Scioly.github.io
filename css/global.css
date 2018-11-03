@@ -44,7 +44,7 @@ table {
 html, body{
 	font-family: 'Raleway', sans-serif;
 	background-color: #111111;
-	color: #ffffff;
+	color: #cccccc;
 }
 
 h1 {
@@ -104,6 +104,10 @@ hr {
 	border: 0.5px solid #444444;
 	background-color: #444444;
 	height: 0;
+}
+
+p {
+	margin-top: 1em;
 }
 
 .section {

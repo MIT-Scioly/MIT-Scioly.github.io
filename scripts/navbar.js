@@ -1,7 +1,7 @@
 // @ts-check
 
 var outerHeaders = {
-    'Tournament Info': ["Tournament Schedule", "Awards Ceremony", "Registration", "Health and Safety"],
+    'Tournament Info': ["Basic Info", "Awards Ceremony", "Registration", "Health and Safety"],
     'Logistics': ["Location", "Hotels", "Parking", "Packing Checklist"],
     'Info for Teams': ["Tournament Policies", "Required Forms", "Rule Clarifications", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
     'Updates': [],
@@ -14,6 +14,7 @@ const base = "https://mit-scioly.github.io/"
 var links = {
     "Archives": "archives/index.html",
     "Awards Ceremony": "awards-ceremony/index.html",
+    "Basic Info": "tournament-schedule/index.html",
     "Contact Us": "contact-us/index.html",
     "Event Pages": "event-pages/index.html",
     "Health and Safety": "health-and-safety/index.html",
@@ -28,7 +29,6 @@ var links = {
     "Supplies": "supplies/index.html",
     "The Team": "the-team/index.html",
     "Tournament Policies": "tournament-policies/index.html",
-    "Tournament Schedule": "tournament-schedule/index.html",
     "Updates": "updates/index.html"
 };
 

@@ -8,6 +8,7 @@ svg {
 	margin-top: 2em;
 }
 
+
 /* Title text */
 .title {
 	text-align: center;
@@ -17,7 +18,7 @@ svg {
 }
 
 .title h1 {
-	font-size: 72px;
+	/* font-size: 3rem; */
 	font-weight: 300;
   margin-bottom:10px;
 }
@@ -36,7 +37,7 @@ svg {
 	border: 2px solid #c4c4c4;
 	padding: 15px 32px;
 	text-decoration: none;
-	margin: 30px;
+	margin: 2em auto;
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
@@ -57,4 +58,15 @@ svg {
 .call-to-action:hover {
 	background-color: #c4c4c4;
 	color:#222222;
+}
+
+@media screen and (max-width: 768px) {
+	svg {
+		margin-top: 0;
+	}
+
+	.call-to-action {
+		margin: 0 auto;
+		padding: 10px 26px;
+	}
 }

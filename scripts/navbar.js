@@ -2,7 +2,7 @@
 
 var outerHeaders = {
     'Tournament Info': ["Basic Info", "Awards Ceremony", "Registration", "Health and Safety"],
-    'Logistics': ["Location", "Hotels", "Parking", "Packing Checklist"],
+    'Logistics': ["Location", "Hotels", "Parking", "Logistics Checklist"],
     'Info for Teams': ["Tournament Policies", "Required Forms", "Rule Clarifications", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
     'Updates': [],
     'Sponsors': [],
@@ -20,7 +20,7 @@ var links = {
     "Health and Safety": "health-and-safety/index.html",
     "Hotels": "hotels/index.html",
     "Location": "location/index.html",
-    "Packing Checklist": "packing-checklist/index.html",
+    "Logistics Checklist": "logistics-checklist/index.html",
     "Parking": "parking/index.html",
     "Registration": "registration/index.html",
     "Required Forms": "required-forms/index.html",

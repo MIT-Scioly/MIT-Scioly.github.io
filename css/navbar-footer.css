@@ -89,6 +89,7 @@ a.navbar-item:hover {
 
 .footer ul {
 	list-style-type: none;
+	padding-left: 0;
 }
 
 .footer a {

@@ -96,6 +96,6 @@ a.navbar-item:hover {
 	text-decoration: none;
 }
 
-.footer strong,b {
+.footer strong, .footer b {
 	color: #707070;
 }

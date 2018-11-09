@@ -95,3 +95,7 @@ a.navbar-item:hover {
 .footer a {
 	text-decoration: none;
 }
+
+.footer strong,b {
+	color: #707070;
+}

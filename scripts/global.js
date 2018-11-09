@@ -15,7 +15,6 @@ if(disclaimer){
 // Add favicon
 var favicon = document.createElement('link');
 favicon.rel = 'shortcut icon';
-favicon.type = 'image/png';
-favicon.href = 'images/favicon.ico';
+favicon.href = 'https://mit-scioly.github.io/images/favicon.ico';
 document.getElementsByTagName('head')[0]
     .appendChild(favicon);

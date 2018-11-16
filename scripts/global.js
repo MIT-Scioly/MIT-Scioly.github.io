@@ -19,11 +19,10 @@ favicon.href = 'https://mit-scioly.github.io/images/favicon.ico';
 document.getElementsByTagName('head')[0]
     .appendChild(favicon);
 document.getElementsByTagName('head')[0].insertAdjacentHTML('beforeEnd',
-  `  
+  `<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129272651-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-129272651-1');
-  </script>
-    `);
+  </script>`);

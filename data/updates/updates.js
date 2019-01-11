@@ -1,14 +1,28 @@
 var updates = [
-  /*{
-        "title": "Forensics Lab Location Update (TEST POST - REMOVE)",
-        "date": "December 3, 2018",
-        "content": "<p>Forensics for the 2019 MIT Invitational will be held in room 3-14159. Expect to use equipment such as microscopes, bunsen burners, and hot water baths. As always, safety glasses and proper PPE are required. Failing to comply with the rules will result in competitors being asked to leave the lab as well as mockery by the proctors. In the past, people have had trouble finding the lab. There will be signage to direct competitors on the day of, but to avoid stress during the competition, we advise that you find the location of the lab the night before the tournament. We have also included a map below which will be provided with your coach's information packet.</p><img src=\"https://mit-scioly.github.io/images/map.png\" alt=\"Map\" class=\"post-image\">"
-    },
-    {
-        "title": "Event Change (TEST POST - REMOVE)",
-        "date": "November 19, 2018",
-        "content": "<p>Competitors should be advised that Game On will be running as an event in the 2019 MIT Invitational in lieu of Chem Lab. Although we always strive to imitate the National comeptition as closely as possible, the MIT Planning Committee felt that the removal of Game On as an event from the National Tournament was an affront to the field of computer science and unfairly discriminates against those enjoy horrible events. As such, we feel that it is only fair to everyone that we replace Chem Lab, an inferior and yearly event, to make space for the ultimate and renowned test of computer science ability.</p> <img src=\"https://mit-scioly.github.io/images/scratch.png\" alt=\"Map\" class=\"post-image\">"
-    },*/
+  {
+    title: "Use of MIT Rooms",
+    data: "January 11th, 2019",
+    content:
+      "Hi everyone,<br> Please do not use any of the MIT rooms until Saturday. Any teams caught attempting to use any of the rooms for practice will face potential disqualifications from this tournament and future tournaments."
+  },
+  {
+    title: "Getting Ready for the Tournament",
+    date: "January 9, 2019",
+    content:
+      '<p>Hi everyone! Please observe the following reminders to make sure you are ready for the tournament this Saturday!</p><ol><li>Check out the <a href="http://scioly.mit.edu/required-forms/index.html">Required Forms</a> page and fill out any forms that you have not completed.</li><li>Updated schedules, homeroom information, and team numbers can be found on the <a href="http://scioly.mit.edu/tournament-schedule/index.html">Basic Info</a> page. Please check out that information for your team.</li><li>If you have not completed self-scheduling on Avogadro, please do so immediately following the procedure described in the December 14, 2018 update below.</li><li>Check In will take place in the Bush Room (HQ), 10-105, on Friday, January 11th from 7:30PM to 9:00PM for teams arriving on Friday, and on Saturday, January 12th from 6:30AM to 9:00AM for teams arriving on Saturday. Each team will be given a folder containing a copy of our finalized schedule, our map, wristbands for competitors, wristbands for alternates, and a brief letter to the coaches. We will be checking your form status as you check in and be distributing pre-ordered t-shirts. If you have any extenuating circumstances regarding Check In, please email <a href="mailto:scioly@mit.edu">scioly@mit.edu</a> as soon as possible.</li><li>Check out the <a href="http://scioly.mit.edu/event-pages/index.html">Events</a> page for updated event-specific information and trial event rules.</li><li>Read through the information regarding travel and parking on our <a href="http://scioly.mit.edu/travel/index.html">Travel</a> page.</li> <li>MIT tours will be offered on Friday January 11th at 4PM, Saturday January 12th at 4PM, and Saturday January 12th at 5PM. Each tour will be roughly 75 minutes long. Though there is no official signup for any of these tours, please arrive in Lobby 7 roughly five minutes before the tour starts. We have reserved two tour guides for each tour time, meaning that a total of 90 people can be on a tour at a single time. Please be respectful of one another and please refrain from attending multiple tours — due to the limited number of tours currently available on campus, we ask that those who have already been on the MIT tour refrain from taking this experience from others who may not have had this experience. We are currently in the process of coordinating tours with the MakerSpaces and Media Lab— further information on this, if coordinated, will be posted as Updates later.</li><li>As a final reminder to all teams, our tournament runs all events according to national-level rules as stated on our <a href="http://scioly.mit.edu/tournament-policies/index.html">Tournament Policies</a> page.</ol><p>As usual, if you have any questions, feel free to reach out to us at <a href="mailto:scioly@mit.edu">scioly@mit.edu</a>. We look forward to seeing all of you soon!'
+  },
+  {
+    title: "Logistics Updates for Competing Teams",
+    date: "December 14, 2018",
+    content:
+      '<p>Thanks everyone for your continued patience as we move closer to the invitational date! Here are some logistical updates for all the competing teams.</p><p>Self-scheduling for events will open from December 15th at 6 PM EST to January 8th 6 PM EST. We will be sending out an email on December 15th, when self-scheduling opens, and an email on January 8th, when self-scheduling closes. If you have not already, please register your team with the MIT Science Olympiad tournament on <a href="https://www.avogadro.ws" target="_blank">Avogadro</a>. Instructions for that can be found <a href="https://docs.google.com/document/d/1NnbKyfDUmG46N7p-fMm6TEYCeh62gjjDbDYpnZ5Vka4/" target="_blank">here</a>. This can be done before the self-scheduling opens. Be sure to submit your Avogadro username and email on <a href="https://goo.gl/forms/SXRVT37qxuzdaSK32" target="_blank">this form</a> (also linked in the instructions) once you have your account. If you have multiple teams attending, please just submit the form once.</p> <p><em>SELF-SCHEDULING UPDATE (December 15, 2018): In the next few weeks that self-scheduling is open, we will be monitoring the form closely as more of you provide your Avogadro usernames. However, we cannot watch the form continuously, so there may be a delay (possibly a few hours but certainly not more than two days) between when you submit your form and when we add you into our tournament. Once you are added, you can schedule your time slots. Teams will be added in the order that they filled out the form. If you have any problems with registration, please email <a href="mailto:scioly-web@mit.edu">scioly-web@mit.edu</a>.</em></p><p>T-shirts can be pre-ordered <a href="https://goo.gl/forms/Ib2ikPP13r1K2qX12" target="_blank">here</a>. T-shirts will be $12 each during pre-order and $15 on Tournament Day. Please have one person from your school fill out the form and bring payment to the tournament registration desk when you register— preorders will close on January 7th, 2019. The design for the shirt can be found on the form.</p><p>Please fill out <a href="https://goo.gl/forms/7Er9B743ZXNXvzQk1" target="_blank">this form</a> regarding Awards Ceremony Attendance. This is so we can make a seating chart accordingly and guarantee that everybody who will be attending can have a seat. If any changes come up, please let us know immediately.</p><p>As usual, feel free to reach out to us if you have any questions or concerns.</p>'
+  },
+  {
+    title: "Volunteer at MIT Science Olympiad",
+    date: "November 29, 2018",
+    content:
+      '<p>The MIT Science Olympiad invitational will bring over 1,000 high school students and teachers from across the country to MIT for a day of science competition and camaraderie. Many current MIT students competed in the three previous years!</p><p>We\'re looking for volunteers for all 23 national Science Olympiad events as well as general helpers on Saturday, January 12th, and Friday, January 11th. Science Olympiad experience is NOT necessary.</p><p>As a volunteer, you\'d be responsible for helping proctor and grade events (for written events), judge built devices (for mechanical events), or direct students/direct buses/sort materials/deliver food (for general volunteers). As an added perk, you\'ll also get a t-shirt and free food throughout the day!</p><p>If you\'re interested in volunteering at the tournament, please fill out the the form <a href="https://goo.gl/8U2nK6" target="_blank"> here</a>.</p><p>Thank you very much! Feel free to email us at <a href="mailto:scioly@mit.edu">scioly@mit.edu</a> if you have any questions. We look forward to seeing you on January 12!</p>'
+  },
   {
     title: "T-Shirt Design Contest",
     date: "October 27, 2018",
@@ -32,11 +46,5 @@ var updates = [
     date: "August 28, 2018",
     content:
       "Hello everybody!<br><br>Due to an unforeseen conflict with MIT Mystery Hunt, MIT Science Olympiad will not be taking place on January 19th, 2019 but instead will be taking place on January 12th, 2019. We are sorry for any inconveniences this will cause, but it would be impossible to run both events at the same time.<br><br>If you have any questions or would like more information feel free to email us at scioly@mit.edu. Thanks for your understanding!"
-  },
-  {
-    title: "Use of MIT Rooms",
-    data: "January 11th, 2019",
-    content:
-      "Hi everyone,<br> Please do not use any of the MIT rooms until Saturday. Any teams caught attempting to use any of the rooms for practice will face potential disqualifications from this tournament and future tournaments."
   }
 ];

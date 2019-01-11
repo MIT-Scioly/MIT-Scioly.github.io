@@ -2,8 +2,8 @@
 
 var outerHeaders = {
     'Tournament Info': ["Basic Info", "Awards Ceremony", "Registration", "Health and Safety"],
-    'Logistics': ["Location", "Hotels", "Parking", "Logistics Checklist"],
-    'Info for Teams': ["Tournament Policies", "Required Forms", "Rule Clarifications", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
+    'Logistics': ["Location", "Hotels", "Travel", "Logistics Checklist"],
+    'Info for Teams': ["Tournament Policies", "Required Forms", "Event Info", "Rule Clarifications", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
     'Updates': [],
     'Sponsors': [],
     'About Us': ["The Team", "Contact Us", "Archives"]
@@ -17,11 +17,11 @@ var links = {
     "Basic Info": "tournament-schedule/index.html",
     "Contact Us": "contact-us/index.html",
     "Event Pages": "event-pages/index.html",
+    "Event Info": "event-pages/index.html",
     "Health and Safety": "health-and-safety/index.html",
     "Hotels": "hotels/index.html",
     "Location": "location/index.html",
     "Logistics Checklist": "logistics-checklist/index.html",
-    "Parking": "parking/index.html",
     "Registration": "registration/index.html",
     "Required Forms": "required-forms/index.html",
     "Rule Clarifications": "rule-clarifications/index.html",
@@ -29,6 +29,7 @@ var links = {
     "Supplies": "supplies/index.html",
     "The Team": "the-team/index.html",
     "Tournament Policies": "tournament-policies/index.html",
+    "Travel": "travel/index.html",
     "Updates": "updates/index.html"
 };
 

@@ -1,7 +1,7 @@
 var updates = [
   {
     title: "Use of MIT Rooms",
-    data: "January 11th, 2019",
+    date: "January 11th, 2019",
     content:
       "Hi everyone,<br> Please do not use any of the MIT rooms until Saturday. Any teams caught attempting to use any of the rooms for practice will face potential disqualifications from this tournament and future tournaments."
   },

@@ -140,10 +140,11 @@ copyright.className = "level";
 var leftSpan = copyright.appendChild(document.createElement('div'));
 var rightSpan = copyright.appendChild(document.createElement('div'));
 rightSpan.className = "level-right";
-rightSpan.innerHTML = '<div class=\"level-item\"><a href="https://bulma.io"><img src="https://bulma.io/images/made-with-bulma--semiwhite.png" alt="Made with Bulma" width="128" height="24"></a></div>'; 
+// rightSpan.innerHTML = '<div class=\"level-item\"><a href="https://bulma.io"><img src="https://bulma.io/images/made-with-bulma--semiwhite.png" alt="Made with Bulma" width="128" height="24"></a></div>'; 
+rightSpan.innerHTML = "Made with &hearts; by MIT Science Olympiad"
+var date = new Date();
 leftSpan.className = "level-left";
-leftSpan.innerHTML = "<div class=\"level-item\">&copy MIT Science Olympiad, 2019</div>"; // TODO: make this update in code
-// Use innerHTML in the line above to make &copy render correctly
+leftSpan.innerHTML = "<div class=\"level-item\">&copy MIT Science Olympiad 2015-" + date.getFullYear() + "</div>"; 
 
 // Populate lower-nav
 for(var header in outerHeaders) {

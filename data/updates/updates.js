@@ -1,7 +1,7 @@
 var updates = [
     {
         "title": "Tournament Wrap-Up",
-        "date": "January 26, 2019",
+        "date": "January 27, 2019",
         "content": "<p>Thank you to all teams who competed in the fifth annual MIT Invitational! We would like to congratulate Acton-Boxborough Regional High School A as the tournament champion this year. We have mailed out all test packets and medals to those teams who were not able to stay for the awards ceremony, so if you have not yet received yours, please email <a href=\"mailto:scioly@mit.edu\">scioly@mit.edu</a>. Lastly, links to all released materials can be found below. With regards to raw scores, we are releasing the highest raw score in each event in a document with the exams. Thanks again to all who participated, and we hope to see you next year!</p><p><a href=\"https://app.avogadro.ws/invitational/mit-c/\" target=\"_blank\">Tournament Results</a></p><p><a href=\"https://drive.google.com/open?id=1p23UjfzgDuSONOE9DtUlrulLrNeFUm9z\" target=\"_blank\">Tournament Exams and Answer Keys</a></p><p><a href=\"https://photos.app.goo.gl/KRnTJ6FEgE46CCLy5\" target=\"_blank\">Awards Ceremony Photos</a></p><p><a href=\"https://drive.google.com/open?id=1OdZkIjhBfnVuB83avfnDuCfKhsFeKKGd\" target=\"_blank\">Events Photos</a></p><p><a href=\"https://drive.google.com/drive/folders/1zVRNhf7f5WJmI5jJlbLeFj5mXl8rf-bF\" target=\"_blank\">Awards Ceremony Videos</a></p>"
         
     },

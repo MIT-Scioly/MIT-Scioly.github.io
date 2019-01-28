@@ -1,14 +1,10 @@
 var updates = [
-    /*{
-        "title": "Forensics Lab Location Update (TEST POST - REMOVE)",
-        "date": "December 3, 2018",
-        "content": "<p>Forensics for the 2019 MIT Invitational will be held in room 3-14159. Expect to use equipment such as microscopes, bunsen burners, and hot water baths. As always, safety glasses and proper PPE are required. Failing to comply with the rules will result in competitors being asked to leave the lab as well as mockery by the proctors. In the past, people have had trouble finding the lab. There will be signage to direct competitors on the day of, but to avoid stress during the competition, we advise that you find the location of the lab the night before the tournament. We have also included a map below which will be provided with your coach's information packet.</p><img src=\"https://mit-scioly.github.io/images/map.png\" alt=\"Map\" class=\"post-image\">"
-    },
     {
-        "title": "Event Change (TEST POST - REMOVE)",
-        "date": "November 19, 2018",
-        "content": "<p>Competitors should be advised that Game On will be running as an event in the 2019 MIT Invitational in lieu of Chem Lab. Although we always strive to imitate the National comeptition as closely as possible, the MIT Planning Committee felt that the removal of Game On as an event from the National Tournament was an affront to the field of computer science and unfairly discriminates against those enjoy horrible events. As such, we feel that it is only fair to everyone that we replace Chem Lab, an inferior and yearly event, to make space for the ultimate and renowned test of computer science ability.</p> <img src=\"https://mit-scioly.github.io/images/scratch.png\" alt=\"Map\" class=\"post-image\">"
-    },*/
+        "title": "Tournament Wrap-Up",
+        "date": "January 26, 2019",
+        "content": "<p>Thank you to all teams who competed in the fifth annual MIT Invitational! We would like to congratulate Acton-Boxborough Regional High School A as the tournament champion this year. We have mailed out all test packets and medals to those teams who were not able to stay for the awards ceremony, so if you have not yet received yours, please email <a href=\"mailto:scioly@mit.edu\">scioly@mit.edu</a>. Lastly, links to all released materials can be found below. With regards to raw scores, we are releasing the highest raw score in each event in a document with the exams. Thanks again to all who participated, and we hope to see you next year!</p><p><a href=\"https://app.avogadro.ws/invitational/mit-c/\" target=\"_blank\">Tournament Results</a></p><p><a href=\"https://drive.google.com/open?id=1p23UjfzgDuSONOE9DtUlrulLrNeFUm9z\" target=\"_blank\">Tournament Exams and Answer Keys</a></p><p><a href=\"https://photos.app.goo.gl/KRnTJ6FEgE46CCLy5\" target=\"_blank\">Awards Ceremony Photos</a></p><p><a href=\"https://drive.google.com/open?id=1OdZkIjhBfnVuB83avfnDuCfKhsFeKKGd\" target=\"_blank\">Events Photos</a></p><p><a href=\"https://drive.google.com/drive/folders/1zVRNhf7f5WJmI5jJlbLeFj5mXl8rf-bF\" target=\"_blank\">Awards Ceremony Videos</a></p>"
+        
+    },
     {
         "title": "Night Before Announcements!",
         "date": "January 11, 2019",

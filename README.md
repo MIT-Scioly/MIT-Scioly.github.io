@@ -19,10 +19,3 @@ A basic informational site for competitors and coaches to get important informat
 * Use spaces instead of tabs. You should be able to set your text editor to do this (ask me if you're not sure).
 * For html files, use two spaces per tab (keeps the indentation from growing too wide).
 * For css and js, use four spaces per tab
-
-## General TODO
-* Automatically generate the year in the copyright at the bottom.
-* Finish empty pages
-    * About Us
-        * The Team - find out who the past tournament directors were. We might later expand this section to add short bios of each team member.
-

@@ -9,28 +9,28 @@ var outerHeaders = {
     'About Us': ["The Team", "Contact Us", "Archives"]
 };
 
-const base = "../2019/";
+const base = "./";
 
 var links = {
-    "Archives": "../../archives.html",
-    "Awards Ceremony": "awards-ceremony/index.html",
-    "Basic Info": "tournament-schedule/index.html",
-    "Contact Us": "contact-us/index.html",
-    "Event Pages": "event-pages/index.html",
-    "Event Info": "event-pages/index.html",
-    "Health and Safety": "health-and-safety/index.html",
-    "Hotels": "hotels/index.html",
-    "Location": "location/index.html",
-    "Logistics Checklist": "logistics-checklist/index.html",
-    "Registration": "registration/index.html",
-    "Required Forms": "required-forms/index.html",
-    "Rule Clarifications": "rule-clarifications/index.html",
-    "Sponsors": "sponsors/index.html",
-    "Supplies": "supplies/index.html",
-    "The Team": "the-team/index.html",
-    "Tournament Policies": "tournament-policies/index.html",
-    "Travel": "travel/index.html",
-    "Updates": "updates/index.html"
+    "Archives": "archives.html",
+    "Awards Ceremony": "awards-ceremony",
+    "Basic Info": "basic-info",
+    "Contact Us": "contact-us",
+    "Event Pages": "event-pages",
+    "Event Info": "event-info",
+    "Health and Safety": "health-and-safety",
+    "Hotels": "hotels",
+    "Location": "location",
+    "Logistics Checklist": "logistics-checklist",
+    "Registration": "registration",
+    "Required Forms": "required-forms",
+    "Rule Clarifications": "rule-clarifications",
+    "Sponsors": "sponsors",
+    "Supplies": "supplies",
+    "The Team": "the-team",
+    "Tournament Policies": "tournament-policies",
+    "Travel": "travel",
+    "Updates": "updates"
 };
 
 let navbar = document.getElementById("navbar");
@@ -47,7 +47,7 @@ if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad
     let logo = document.createElement('a');
     logo.className = "navbar-item";
     logo.href = base;
-    logo.innerHTML = '<img src="' + base + 'images/logo.svg" width="80px" height="60px" style="vertical-align: middle;">';
+    logo.innerHTML = '<img src="assets/images/logo.svg" width="80px" height="60px" style="vertical-align: middle;">';
     navBrand.appendChild(logo);
     // var navLogo = document.createElement("li");
     // navLogo.className = "navbar-logo";

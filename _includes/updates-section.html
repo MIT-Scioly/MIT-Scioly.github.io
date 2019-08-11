@@ -1,5 +1,10 @@
-<section class="section">
-    <div class="container">
-        <section id="updates"></section>
-    </div>
-</section>
+{% for post in site.posts %}
+    <section class="post">
+        <div class="post-title">{{ post.title }}</div>
+        <div class="post-date">{{ post.date | date: "%B %-d, %Y"}}</div>
+        <div class="post-content">
+            {{ post.content }}
+        </div>
+
+    </section>
+{% endfor %}

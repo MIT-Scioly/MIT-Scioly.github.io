@@ -127,3 +127,7 @@ p {
 	color: #12bbee;
 }
 
+/* Remove underline from post-titles which act as permalinks */
+.post-title a {
+	text-decoration: none;
+}

@@ -1,32 +1,31 @@
 // @ts-check
 
 var outerHeaders = {
-    'Tournament Info': ["Basic Info", "Awards Ceremony", "Registration", "Health and Safety"],
-    'Logistics': ["Location", "Hotels", "Travel", "Logistics Checklist"],
-    'Info for Teams': ["Tournament Policies", "Required Forms", "Event Info", "Rule Clarifications", "Supplies"], // Supplies should provide a list of local hardware stores for teams to purchase last-minute materials if their builds break
+    'Registration': [],
+    'Tournament Info': ['Tournament Policies', 'Required Forms', 'Teams', 'Awards Ceremony', 'Events'],
+    'Logistics': ['Travel', 'Hotels', 'Health and Safety', 'Supplies'],
     'Updates': [],
     'Sponsors': [],
-    'About Us': ["The Team", "Contact Us", "Archives"]
-};
+    'About Us': ['The Team', 'Contact Us', 'Archives']
+}
 
 const base = "./";
 
 var links = {
     "Archives": "archives.html",
     "Awards Ceremony": "awards-ceremony",
-    "Basic Info": "basic-info",
     "Contact Us": "contact-us",
-    "Event Pages": "event-pages",
     "Event Info": "event-info",
+    'Events': 'event-info',
     "Health and Safety": "health-and-safety",
     "Hotels": "hotels",
     "Location": "location",
-    "Logistics Checklist": "logistics-checklist",
     "Registration": "registration",
     "Required Forms": "required-forms",
     "Rule Clarifications": "rule-clarifications",
     "Sponsors": "sponsors",
     "Supplies": "supplies",
+    "Teams": 'teams',
     "The Team": "the-team",
     "Tournament Policies": "tournament-policies",
     "Travel": "travel",

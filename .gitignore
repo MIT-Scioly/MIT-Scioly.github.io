@@ -1,2 +1,6 @@
 _site/
 _drafts/
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
+.vscode/

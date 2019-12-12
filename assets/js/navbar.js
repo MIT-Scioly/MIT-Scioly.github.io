@@ -100,7 +100,7 @@ for(header in outerHeaders) {
             nav_child.className = "navbar-item";
             nav_child.text = child;
             if(child === 'archives') {
-                nav_child.href = 'http://scioly.mit.edu/archives';
+                nav_child.href = 'https://scioly.mit.edu/archives';
             } else {
                 nav_child.href = base + links[child];
             }

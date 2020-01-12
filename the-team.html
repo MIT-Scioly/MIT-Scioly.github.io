@@ -1,70 +1,57 @@
 ---
 title: The Team
-layout: default 
+layout: default
 keywords: 'the-team'
---- 
+custom_css:
+  - assets/css/the-team.css
+---
 
 <p>
-    Science Olympiad at MIT is an undergraduate student group founded in Fall 
-    2013 by Connor Duffy (2017) and Kenny Friedman (2017) with the mission of 
-    improving the Science Olympiad experience of high school students in 
-    Massachusetts and the greater northeast region. MIT Science Olympiad is 
-    entirely run by a team of MIT undergraduate 
-    students. We work around the year both within MIT and in the Massachusetts 
-    area to promote Science Olympiad opportunities for students. The MIT 
-    Invitational would not be possible without the dedication and effort of our 
+    Science Olympiad at MIT is an undergraduate student group founded in Fall
+    2013 by Connor Duffy (2017) and Kenny Friedman (2017) with the mission of
+    improving the Science Olympiad experience of high school students in
+    Massachusetts and the greater northeast region. MIT Science Olympiad is
+    entirely run by a team of MIT undergraduate
+    students. We work around the year both within MIT and in the Massachusetts
+    area to promote Science Olympiad opportunities for students. The MIT
+    Invitational would not be possible without the dedication and effort of our
     members.
 </p>
-<h2>2020 Tournament Directors</h2>
-<p>
-    Alice Lin and Thomas Xiong
-</p>
-<h2>2020 Board Members</h2>
-<p>
-    Julia Clarke: Events Director <br>
-    Madison Sneve: Events Director <br>
-    Junyu Yang: Finance <br>
-    Yoshi Saito: Internal Logistics <br>
-    Ilana Nazari: External Logistics <br>
-    Annie Zhang: External Logistics <br>
-    Elaine Xiao: Publicity <br>
-    Susan Su: Publicity <br>
-    Miles Dai: Webmaster <br>
-    Joshua Segaran: Advisory
-</p>
+{% for team in site.data.board-members %} 
+  <h2>{{ team.name }}</h2>
+  <div class="tile is-ancestor">
+  {% for member in team.members %}
+      <div class="tile is-parent is-6">
+        <div class="card is-child">
+          <div class="card-image">
+            <div class="overlay-container">
+              <figure class="image is-4by3">
+                <img src="./assets/images/headshots/{{ member.image_name }}" alt="{{ member.name }} headshot">
+              </figure>
+              <p class="is-size-6 is-size-7-touch">{{ member.description }}</p>
+            </div>
+          </div>
+          <div class="card-content">
+            <div class="title is-4"> {{ member.name }} </div>
+            <div class="subtitle"> {{ member.year }} </div>
+            <p class="is-size-6 is-size-7-mobile mobile-only-text">{{ member.description }}</p>
+          </div>
+        </div>
+      </div>
+  {% endfor %}
+  </div>
+{% endfor %}
 
-<h2>2019 Tournament Directors</h2>
+<h2>Planning Committee</h2>
 <p>
-    Joshua Segaran and Alice Lin
-</p>
-<h2>2019 Board Members</h2>
-<p>
-    Junyu Yang: Event Director<br>
-    Kedi Hu: Event Director <br>
-    Kevin Tang: Administration Liaison <br>
-    Roger Jin: Finance Officer <br>
-    Miles Dai: Webmaster
-</p>
-
-<h2>2019 Planning Committee</h2>
-<p>
-    Annie Zhang <br>
-    April Xie <br>
-    Ben Nguyen <br>
-    Byron Xu <br>
-    Elaine Xiao <br>
-    Ilana Nazari <br>
-    Julia Clarke <br>
-    Madison Sneve <br>
-    Sarah Dohadwala <br>
-    Susan Su <br>
-    Thomas Xiong <br>
-    Yoshi Saito <br>
-    Yue Zhang
+  {% for pc in site.data.planning-committee %}
+    {{ pc }} <br>
+  {% endfor %}
 </p>
 
 <h2>Past Tournament Directors</h2>
 <ul>
+    <li>2019: Joshua Segaran, Alice Lin</li>
     <li>2018: Katie Shade, Joshua Segaran</li>
     <li>2017: Stephen Tang, Katie Shade</li>
     <li>2016: Connor Duffy, Stephen Tang</li>

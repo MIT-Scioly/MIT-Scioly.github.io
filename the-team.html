@@ -2,6 +2,8 @@
 title: The Team
 layout: default
 keywords: 'the-team'
+custom_css:
+  - assets/css/the-team.css
 ---
 
 <p>
@@ -15,338 +17,41 @@ keywords: 'the-team'
     Invitational would not be possible without the dedication and effort of our
     members.
 </p>
-<h2>2020 Tournament Directors</h2>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\Alice">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Alice Lin</p>
+{% for team in site.data.board-members %} 
+  <h2>{{ team.name }}</h2>
+  <div class="tile is-ancestor">
+  {% for member in team.members %}
+      <div class="tile is-parent is-6">
+        <div class="card is-child">
+          <div class="card-image">
+            <div class="overlay-container">
+              <figure class="image is-4by3">
+                <img src="./assets/images/headshots/{{ member.image_name }}" alt="{{ member.name }} headshot">
+              </figure>
+              <p class="is-size-6 is-size-7-touch">{{ member.description }}</p>
+            </div>
+          </div>
+          <div class="card-content">
+            <div class="title is-4"> {{ member.name }} </div>
+            <div class="subtitle"> {{ member.year }} </div>
+            <p class="is-size-6 is-size-7-mobile mobile-only-text">{{ member.description }}</p>
           </div>
         </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
       </div>
-    </div>
+  {% endfor %}
   </div>
+{% endfor %}
 
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\thomas.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Thomas Xiong</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<h2>2020 Board Members</h2>
-<b> Event Directors </b>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\julia.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Julia Clarke</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\madison.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Madison Sneve</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<b> Publicity Chairs </b>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\susan.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Susan Su</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\elaine.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Elaine Xiao</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<b> Head of External Logistics </b>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\Ilana.jpg">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Ilana Nazari</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\annie.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Annie Zhang</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<b> Head of Internal Logistics</b>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\yoshi.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Yoshi Saito</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<b> Finance Chair </b>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\junyu.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Junyu Yang</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<b> Webmaster </b>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\miles.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Miles Dai</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<b> Advisory </b>
-<div class="tile is-ancestor">
-  <div class="tile is-6 is-parent">
-    <div class="card is-child">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="assets\images\Scioly Headshots\joshua.png">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="media">
-
-          <div class="media-content">
-            <p class="title is-4">Joshua Segaran</p>
-          </div>
-        </div>
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris.
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<h2>2019 Tournament Directors</h2>
+<h2>Planning Committee</h2>
 <p>
-    Joshua Segaran and Alice Lin
-</p>
-<h2>2019 Board Members</h2>
-<p>
-    Junyu Yang: Event Director<br>
-    Kedi Hu: Event Director <br>
-    Kevin Tang: Administration Liaison <br>
-    Roger Jin: Finance Officer <br>
-    Miles Dai: Webmaster
-</p>
-
-<h2>2019 Planning Committee</h2>
-<p>
-    Annie Zhang <br>
-    April Xie <br>
-    Ben Nguyen <br>
-    Byron Xu <br>
-    Elaine Xiao <br>
-    Ilana Nazari <br>
-    Julia Clarke <br>
-    Madison Sneve <br>
-    Sarah Dohadwala <br>
-    Susan Su <br>
-    Thomas Xiong <br>
-    Yoshi Saito <br>
-    Yue Zhang
+  {% for pc in site.data.planning-committee %}
+    {{ pc }} <br>
+  {% endfor %}
 </p>
 
 <h2>Past Tournament Directors</h2>
 <ul>
+    <li>2019: Joshua Segaran, Alice Lin</li>
     <li>2018: Katie Shade, Joshua Segaran</li>
     <li>2017: Stephen Tang, Katie Shade</li>
     <li>2016: Connor Duffy, Stephen Tang</li>

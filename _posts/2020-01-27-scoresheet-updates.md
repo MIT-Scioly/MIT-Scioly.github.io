@@ -21,15 +21,15 @@ These score changes also affect the overall team rankings.
 ## Details About the Error
 The scoring issue occurs when using version 0.4 of the score sheet. The fix has since been applied to version 0.5 which is the current online version as of this post. It also appears that v0.5 unhides the originally hidden columns, so event supervisors should use care to avoid modifying anything in that range.
 
-### Reproducing the Error
+## Reproducing the Error
 By following the steps below, we will show that a team that should receive a zero on the Pitch Score (PS) will in fact receive a perfect PS.
 1. Download version 0.4 of the Sounds of Music [grading scoresheet](https://www.soinc.org/sites/default/files/uploaded_files/Sounds_of_Music_Scoring_Sheet_2020v0.4.xlsx)
 1. Set the TOURNAMENT LEVEL to NATIONAL and the DATA MODE to CENTS.
 1. Enter a team name in Column B (any text is fine)
 1. Enter -200 into each column of the Pitch Testing field for P1 Cents through P8 Cents. Use any Start Note.
-5. In Column AH and Column AI, notice that the IPS Sum and PS column display a perfect score.
+1. In Column AH and Column AI, notice that the IPS Sum and PS column display a perfect score.
 
-### Error Mechanism
+## Error Mechanism
 This mistake is due to an error in the Excel formula used for calculating the Absolute Cents Error in hidden columns BG through BN. If CENTS is selected as the DATA MODE, the formula directly uses the value entered by the Event Supervisor (located columns M through T). According to rule 5.b.iii.1, the correct calculation is to take the absolute value of the error from the target frequency. The formula appears to take the absolute value when FREQUENCY is selected as the DATA MODE, so this error manifests only when cents are used as the unit instead of frequency.
 
 If a team scores below -3, the spreadsheet tests if the Cents value is less than or equal to 3 (as per 5.b.iii.3.c). With the negative value, this conditional evaluates to true and gives the team a full IPS score. This also guarantees a perfect PS. The correct result should display and IPS score of 0.

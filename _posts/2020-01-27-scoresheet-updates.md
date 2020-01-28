@@ -3,7 +3,11 @@ layout: post
 title: Scoresheet Updates 
 ---
 
+<<<<<<< HEAD
 Thank you all for attending our 6th MIT Science Olympiad Invitational this past Saturday. Your fantastic teams are why we choose to run the tournament year after year. We have important information to convey to you all regarding the scoring of the tournament. Since the awards ceremony on Saturday, a few scoring issues were brought to our attention. Over the past few days, we've worked very hard to make sure we were as thorough as possible in ascertaining the situation and wanted to provide you all with an update as soon as possible. This post details the update.
+=======
+Thank you all for attending our 6th MIT Science Olympiad Invitational this past Saturday. Your fantastic teams are why we choose to run the tournament year after year. We have important information to convey to you all regarding the scoring of the tournament. Since the awards ceremony on Saturday, a few scoring issues were brought to our attention. Over the past few days, we've worked very hard to make sure we were as thorough as possible in ascertaining the situation and wanted to provide you all with an update as soon as possible. This email details the update.
+>>>>>>> ae44ec5dd3def2ab0ad4c4ff52a376d9610b0500
 
 During our post-tournament wrap-up, a few errors in the final scoring were discovered. First, two teams had their scores swapped accidentally during grade entry into our scoring system for gravity vehicle. This has since been fixed, and neither medal placements nor trophy placements were impacted. Second, we encountered a major issue with the Excel scoresheet distributed online by the National Science Olympiad website (found [here](https://www.soinc.org/scoresheets)) for Sounds of Music. It was brought to our attention by our Sounds of Music Event Supervisor after the tournament who noticed that the teams with more pitch score error appear to be scoring higher than those with less. After additional investigation, it was found that the formula being used to calculate the pitch score was incorrect if the DATAMODE used on the spreadsheet was CENTS. Because this has potentially impacted several of the tournaments that have already happened, we have included more information below so that tournaments may check if this error occurred in their scoring.
 
@@ -19,7 +23,11 @@ These score changes also affect the overall team rankings.
 * As with the medals, if your team now receives a lower-placing trophy than before, we will be in contact with your team, but you **will not need to take any action** (please keep your higher-placing trophy).
 
 ## Details About the Error
+<<<<<<< HEAD
 The scoring issue occurs when using version 0.4 of the score sheet. The fix has since been applied to version 0.5 which is the current online version as of this post. It also appears that v0.5 unhides the originally hidden columns, so event supervisors should use care to avoid modifying anything in that range.
+=======
+The scoring issue occurs when using version 0.4 of the score sheet. The fix has since been applied to version 0.5 which is the current online version as of this post. It also appears that v0.5 unhides the originally columns, so event supervisors should use care to avoid modifying anything in that range.
+>>>>>>> ae44ec5dd3def2ab0ad4c4ff52a376d9610b0500
 
 ## Reproducing the Error
 By following the steps below, we will show that a team that should receive a zero on the Pitch Score (PS) will in fact receive a perfect PS.

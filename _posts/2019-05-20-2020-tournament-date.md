@@ -13,4 +13,4 @@ Tournament registration will open mid-September. Follow us on [Facebook](https:/
 
 We look forward to welcoming you all next January!
 
-![testimage](/assets/images/2020_Date_Announcement.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:20em"}{:alt="2020 Invite Date Announcement"}
+![2020 Date Announcement](assets/images/2020_Date_Announcement.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:20em"}{:alt="2020 Invite Date Announcement"}

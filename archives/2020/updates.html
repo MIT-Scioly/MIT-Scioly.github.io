@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--For mobile layouts-->
+        <meta name="description" content="Science Olympiad invitational hosted by MIT.">
+        <meta name="keywords" content="Science Olympiad, MIT, Massachusetts Institute of Technology, invitational, competition, updates">
+        <!-- <base href="/archives/2020/"> -->
+
+        <title>Updates - MIT Science Olympiad</title>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Raleway:300,400,500">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="assets/css/global.css">
+        <link rel="stylesheet" href="assets/css/navbar-footer.css">
+        
+            
+            <!-- <link rel="stylesheet" href="/assets/css/assets/css/updates.css.css"> -->
+            <link rel="stylesheet" href="assets/css/updates.css">
+            
+        
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145917612-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145917612-1');
+</script>
+
+    </head>
+    <body>
+        <header id="homepage-nav">
+            <nav class= "navbar is-transparent is-fixed-top" id="navbar"></nav>
+        </header>
+        <section class="section">
+            <div class="container grid">
+                <h1> Updates </h1>
+                
+                
+    <section class="post">
+        <a name="final-results"></a>
+        <div class="post-title">
+            <a href="updates#final-results">
+                Final Results
+            </a>
+        </div>
+
+        <div class="post-date">February 1, 2020</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>Thanks to all teams who participated in the 2020 MIT Science Olympiad Invitational! Full results, exams, answer keys, and other followup items have been posted on our <a href="results">results page</a>.</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="scoresheet-updates"></a>
+        <div class="post-title">
+            <a href="updates#scoresheet-updates">
+                Scoresheet Updates
+            </a>
+        </div>
+
+        <div class="post-date">January 27, 2020</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>Thank you all for attending our 6th MIT Science Olympiad Invitational this past Saturday. Your fantastic teams are why we choose to run the tournament year after year. We have important information to convey to you all regarding the scoring of the tournament. Since the awards ceremony on Saturday, a few scoring issues were brought to our attention. Over the past few days, we’ve worked very hard to make sure we were as thorough as possible in ascertaining the situation and wanted to provide you all with an update as soon as possible. This post details the update.</p>
+
+<p>During our post-tournament wrap-up, a few errors in the final scoring were discovered. First, two teams had their scores swapped accidentally during grade entry into our scoring system for gravity vehicle. This has since been fixed, and neither medal placements nor trophy placements were impacted. Second, we encountered a major issue with the Excel scoresheet distributed online by the National Science Olympiad website (found <a href="https://www.soinc.org/scoresheets">here</a>) for Sounds of Music. It was brought to our attention by our Sounds of Music Event Supervisor after the tournament who noticed that the teams with more pitch score error appear to be scoring higher than those with less. After additional investigation, it was found that the formula being used to calculate the pitch score was incorrect if the DATAMODE used on the spreadsheet was CENTS. Because this has potentially impacted several of the tournaments that have already happened, we have included more information below so that tournaments may check if this error occurred in their scoring.</p>
+
+<p>We have since contacted National Science Olympiad about the error of its scoresheet on the <a href="https://soinc.org">soinc.org</a> website, and National Science Olympiad has since rectified the error and uploaded a corrected spreadsheet (version 0.5).</p>
+
+<h2 id="resolution">Resolution</h2>
+<p>All corrected scores for Sounds of Music have been entered into Avogadro. This changes the medal placements of Sounds of Music.</p>
+<ul>
+  <li>If your team now receives a higher-placing medal than before (for instance, the new scores indicate you are 2nd place, but you originally received a 6th place medal), we will be in contact with your team and mail your team the new (higher-placing) medals. You will not need to send your old (lower-placing) medals to us.</li>
+  <li>If your team now receives a lower-placing medal than before, we will be in contact with your team, but you <strong>will not need to take any action</strong> (please keep your higher-placing medal).</li>
+</ul>
+
+<p>These score changes also affect the overall team rankings.</p>
+<ul>
+  <li>If your team now receives a higher-placing trophy than before, we will be in contact with your team, and we will mail your team the new (higher-placing) trophy. You will not need to send your old (lower-placing) trophy to us.</li>
+  <li>As with the medals, if your team now receives a lower-placing trophy than before, we will be in contact with your team, but you <strong>will not need to take any action</strong> (please keep your higher-placing trophy).</li>
+</ul>
+
+<h2 id="details-about-the-error">Details About the Error</h2>
+<p>The scoring issue occurs when using version 0.4 of the score sheet. The fix has since been applied to version 0.5 which is the current online version as of this post. It also appears that v0.5 unhides the originally hidden columns, so event supervisors should use care to avoid modifying anything in that range.</p>
+
+<h2 id="reproducing-the-error">Reproducing the Error</h2>
+<p>By following the steps below, we will show that a team that should receive a zero on the Pitch Score (PS) will in fact receive a perfect PS.</p>
+<ol>
+  <li>Download version 0.4 of the Sounds of Music <a href="https://www.soinc.org/sites/default/files/uploaded_files/Sounds_of_Music_Scoring_Sheet_2020v0.4.xlsx">grading scoresheet</a></li>
+  <li>Set the TOURNAMENT LEVEL to NATIONAL and the DATA MODE to CENTS.</li>
+  <li>Enter a team name in Column B (any text is fine)</li>
+  <li>Enter -200 into each column of the Pitch Testing field for P1 Cents through P8 Cents. Use any Start Note.</li>
+  <li>In Column AH and Column AI, notice that the IPS Sum and PS column display a perfect score.</li>
+</ol>
+
+<h2 id="error-mechanism">Error Mechanism</h2>
+<p>This mistake is due to an error in the Excel formula used for calculating the Absolute Cents Error in hidden columns BG through BN. If CENTS is selected as the DATA MODE, the formula directly uses the value entered by the Event Supervisor (located columns M through T). According to rule 5.b.iii.1, the correct calculation is to take the absolute value of the error from the target frequency. The formula appears to take the absolute value when FREQUENCY is selected as the DATA MODE, so this error manifests only when cents are used as the unit instead of frequency.</p>
+
+<p>If a team scores below -3, the spreadsheet tests if the Cents value is less than or equal to 3 (as per 5.b.iii.3.c). With the negative value, this conditional evaluates to true and gives the team a full IPS score. This also guarantees a perfect PS. The correct result should display and IPS score of 0.</p>
+
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="important-tournament-info"></a>
+        <div class="post-title">
+            <a href="updates#important-tournament-info">
+                Important Tournament Information
+            </a>
+        </div>
+
+        <div class="post-date">January 21, 2020</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>We hope you are all excited for our tournament this Saturday, January 25! This post contains very important information about the tournament day and registration. The details are summarized here, but please follow all links to make sure you are fully informed.</p>
+
+<h2 id="day-of-registration">Day-Of Registration</h2>
+
+<p>Registration is mandatory for all teams—one coach from each school must come to registration.</p>
+
+<p>You can attend registration on either <strong>Friday, January 24 from 5-7 PM</strong> or on <strong>Saturday, January 25 from 6-8 AM</strong>. You must attend registration during one of these times, but there is no need to go to both times. Registration will be held in HQ: <strong>10-105</strong>, known as the Bush Room.</p>
+
+<p>For more important details, please see <a href="teams">Info for Teams</a>.</p>
+
+<h2 id="safety-and-emergencies">Safety and Emergencies</h2>
+
+<p>Once you are on campus, <strong>if you or any team members as an urgent medical emergency, please call the MIT Police at 617-253-1212. Please do not call 911 because the MIT Police are more familiar with the MIT campus and can respond more quickly.</strong></p>
+
+<p>For more important information about emergency procedures, please read <a href="health-and-safety">Health and Safety</a>.</p>
+
+<p>For any Science Olympiad-related emergencies during the competition, please contact one of the following three members of our team:</p>
+
+<ul>
+  <li>Miles Dai</li>
+  <li>Elaine Xiao</li>
+  <li>Yoshi Saito</li>
+</ul>
+
+<p>Their phone numbers have been included in an email to team coaches. Example emergency situations are: your students are very lost and are about to be late to an event, your homeroom is locked, etc.</p>
+
+<h2 id="accomodations-and-facilities">Accomodations and Facilities</h2>
+
+<p>Please note that there are accessible entrances to all MIT buildings and elevators in all MIT buildings. If you need any specific accommodations, please let us know. If you need help finding an accessible entrance/elevator the day of, please find a volunteer or have someone come to HQ.</p>
+
+<p>There will be a lactation room available at 3-369. If you need to use this room, please respond to this email noting that and we will provide you with the code.</p>
+
+<h2 id="arbitration">Arbitration</h2>
+
+<p>Arbitration will take place in Tournament HQ which is in the Bush Room (10-105). Please see our <a href="tournament-policies">Tournament Policies</a> for the full process.</p>
+
+<h2 id="awards">Awards</h2>
+
+<p>As per the Event Schedule, the Awards Ceremony will take place at <strong>7 PM</strong> in Kresge Auditorium (W16-109). Please note that there is limited seating, so only 15 students + 1 coach will be allowed to enter the main auditorium per team (we will be checking wristbands). There will be assigned seating by team.</p>
+
+<p>Please read all the additional details on our <a href="awards-ceremony">Awards Ceremony page</a>.</p>
+
+<h2 id="brochure">Brochure</h2>
+
+<p>Please check out our <a href="docs/MIT%20Science%20Olympiad%202020%20Brochure.pdf">brochure</a> for the 2020 tournament which contains overviews of all important day-of information.</p>
+
+<h2 id="wristband-policy">Wristband Policy</h2>
+
+<p>Please check out our <a href="tournament-policies">Tournament Policies page</a> for details about our wristband policy.</p>
+
+<h2 id="events">Events</h2>
+
+<p><strong>IMPORTANT: YOU (i.e. anyone related to your team, be it parent, coach, competitor, or alternate, or other) MUST NOT ENTER ANY EVENT ROOMS BEFORE 7:30 AM ON SATURDAY, JANUARY 25. If you do so, your team will be disqualified from the event in question.</strong> This is due to fairness of competition and the specifics of our room reservations—if you enter rooms outside of competition time, we may lose room reservation privileges.</p>
+
+<p>You can find the locations of all events on our <a href="docs/2020%20Events%20Schedule%20-%20MIT%20Science%20Olympiad.pdf">event schedule</a>. As stated on our <a href="tournament-policies">tournament policies page</a>, we will be running national rules for all events.</p>
+
+<p>For detailed information regarding events, please see our <a href="event-info">event info page</a>. This page also contains detailed information about the venues for Wright Stuff and Ping Pong Parachute.</p>
+
+<h2 id="food">Food</h2>
+
+<p>See the <a href="docs/MIT%20Science%20Olympiad%202020%20Brochure.pdf">brochure</a> for nearby food options and attractions. We will be providing breakfast and lunch for coaches—please pick up breakfast and lunch at HQ (10-105, Bush Room).</p>
+
+<h2 id="homerooms">Homerooms</h2>
+
+<p>Homerooms have been finalized. Check the <a href="docs/MIT%20Science%20Olympiad%20Invitational%20Team%20Numbers%202020.pdf">team list</a> for your team number and home room.</p>
+
+<p>Please note the following as classroom policy. Please do not eat or drink in classrooms and notify the Planning Committee at HQ (10-105, Bush room) if there are any major spills/mess made. You can come to our HQ to get additional trash bags; you can leave filled trash bags right outside of your homeroom and the custodial service will collect them throughout the day.</p>
+
+<p>When leaving your homeroom at the end of the day, please make sure to:</p>
+
+<ul>
+  <li>Return the furnishings to the original setup.</li>
+  <li>Chairs should be arranged in rows, facing the front chalkboard (or however you found it)</li>
+  <li>Erase the chalkboards</li>
+  <li>Remove any trash</li>
+  <li>Failure to do so may result in a ban from our competition</li>
+</ul>
+
+<h2 id="parking-and-travel">Parking and Travel</h2>
+
+<p>Please see our <a href="travel">Travel page</a> for more information on parking and commute options.</p>
+
+<h2 id="printing">Printing</h2>
+
+<p>There will be no public printing available on MIT campus.</p>
+
+<h2 id="tours">Tours</h2>
+
+<p>We are still working on scheduling extra tours of MIT campus. As of now, note that there are some MIT tours on Friday: please visit the <a href="http://events.mit.edu/scripts/monthly_ext.pl?groupid=2072&amp;location=http://infocal.mitadmissions.org">website</a> for scheduling.</p>
+
+<h2 id="t-shirts">T-Shirts</h2>
+
+<p>If you preordered t-shirts, you can pick them up on Saturday at HQ (10-105, Bush Room). Please bring cash or check as payment. If you did not preorder t-shirts but would like to purchase them, we will be selling any extra t-shirts we have for $15 each; however, we cannot guarantee we will have extra shirts.</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="venues-announcement"></a>
+        <div class="post-title">
+            <a href="updates#venues-announcement">
+                Venue Details Announcement
+            </a>
+        </div>
+
+        <div class="post-date">January 9, 2020</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>We have finalized our venues for Ping Pong Parachute and Wright Stuff. Ceiling height details and photos can be found on our <a href="event-info">events page</a>.</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="self-scheduling-announcement"></a>
+        <div class="post-title">
+            <a href="updates#self-scheduling-announcement">
+                Self Scheduling Opening Today
+            </a>
+        </div>
+
+        <div class="post-date">December 10, 2019</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>Self scheduling will be opening today (December 10) at 5 PM EST. All teams who filled out the roster form by the December 5 deadline have been added to our Avogadro tournament and should now be able to access the tournament. For more detailed instructions, see this <a href="https://docs.google.com/document/d/1NnbKyfDUmG46N7p-fMm6TEYCeh62gjjDbDYpnZ5Vka4/edit?usp=sharing">step-by-step guide</a>.</p>
+
+<p><strong>If you have any problems during the self-scheduling process, please email <a href="mailto:scioly-web@mit.edu?subject=MIT Scioly Self Scheduling Problem">scioly-web@mit.edu</a> for the fastest response time.</strong></p>
+
+<p>If you have not already filled out the form or did not provide us with your username, then you should fill out that form immediately. Please see the <a href="required-forms">Required Forms</a> page. Self-scheduling slots fill up on a first-come-first serve basis, so we will be monitoring the submission page to try and process late roster form submissions in the order they are received but bear in mind that there may be delays of possibly a couple hours for you to be added.</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="required-forms-update"></a>
+        <div class="post-title">
+            <a href="updates#required-forms-update">
+                Required Forms Posted
+            </a>
+        </div>
+
+        <div class="post-date">December 2, 2019</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>Required forms have been posted on the <a href="required-forms">Required Forms</a> page. The first deadline is this Thursday, December 5, 2019. There is also more information posted about self-scheduling, so be sure to check that out!</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="registration-closed"></a>
+        <div class="post-title">
+            <a href="updates#registration-closed">
+                Registration is Now Closed
+            </a>
+        </div>
+
+        <div class="post-date">September 25, 2019</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>Registration for the 2020 MIT Science Olympiad Tournament is now closed! Thank you to everyone who signed up! Please be on the lookout for an email from us regarding your acceptance status. In the meanwhile, check out the full timeline and details on our <a href="registration">registration page</a>.</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="registration-open"></a>
+        <div class="post-title">
+            <a href="updates#registration-open">
+                Registration is Open
+            </a>
+        </div>
+
+        <div class="post-date">September 18, 2019</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>The registration period for the 2020 MIT Science Olympiad Tournament is now open! Head over to the <a href="https://mit.co1.qualtrics.com/jfe/form/SV_0jK9gSmaIYM5HQV">registration form</a> to sign up! Please keep in mind that this form will be open until September 23, 2019. There is NO semblance of a first-come-first-serve policy. Speed will not be a factor, so please take your time to ensure that your form is completed accurately. For more details, check out the <a href="registration">registration page</a>.</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="es-applications"></a>
+        <div class="post-title">
+            <a href="updates#es-applications">
+                Event Supervisor Applications
+            </a>
+        </div>
+
+        <div class="post-date">August 15, 2019</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>Event Supervisor applications are open! If you are interested in becoming an event supervisor for the 2020 MIT Invite, please fill out one of the two forms below:</p>
+
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScm5VbZkzuGNLGRbAYrUYnH17GVBKNZIxYQtG8bcLbdMlWugA/viewform?usp=sf_link">First-time MIT Supervisors Form (i.e. you have not supervised for us before)</a></p>
+
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSctSFT4fHi5f6LAy3uBv0QYGIH8cOumi6ufCMVIoj2oh9RFGQ/viewform?usp=sf_link">Returning MIT Supervisors Form</a></p>
+
+<p><strong>Applications will close at 9 PM EST on October 1, 2019</strong></p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="registration-announcement"></a>
+        <div class="post-title">
+            <a href="updates#registration-announcement">
+                Registration
+            </a>
+        </div>
+
+        <div class="post-date">August 13, 2019</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p><em>TL;DR: Registration will be open from Wednesday, September 18th, 2019 at 6PM EST to Monday, September 23rd, at 6PM EST. The form is located <a href="https://mit.co1.qualtrics.com/jfe/form/SV_0jK9gSmaIYM5HQV">here</a>.</em></p>
+
+<p>We are pleased to announce that registration for the 6th annual MIT Science Olympiad Invitational Tournament will open on <strong>Wednesday, September 18th, 2019 at 6PM EST</strong>. The form can be accessed <a href="https://mit.co1.qualtrics.com/jfe/form/SV_0jK9gSmaIYM5HQV">here</a> and will close promptly the following <strong>Monday, September 23rd, at 6PM EST</strong>. Teams will be notified of their acceptance on Wednesday, September 25th, and a public list of participating teams will be announced on Wednesday, October 9th.</p>
+
+<p>As stated previously, the tournament will take place on Saturday, January 25th at the MIT campus in Cambridge, Massachusetts. We will be running all 23 Division C national events, including lab and engineering events, with a schedule mirroring the National Tournament schedule as closely as possible. All events will be written, reviewed, and run by Science Olympiad alumni currently at MIT, national tournament event supervisors, and/or former Science Olympiad competitors from the highest level of competition. This means that coaches will not be required to write tests or otherwise volunteer at the invitational, leaving them free to focus solely on coaching their own teams.</p>
+
+<p>A new system of accepting teams will be implemented for this registration cycle. We have eliminated the tier-system, and will instead guarantee acceptance of schools that meet either of the following qualifications:</p>
+
+<ul>
+  <li>Schools that have placed Top 10 at the MIT Invitational the previous year</li>
+  <li>Schools that have placed Top 10 at the National Tournament the previous year</li>
+</ul>
+
+<p>All teams that do not meet the qualifications for guaranteed acceptance will have their acceptance determined by a lottery. As we continue to grow our tournament, we aim to maintain a diverse pool of competitors while also upholding the rigor of our tournament. As such, we still strongly encourage all teams to apply, especially Massachusetts teams, regardless of their reputation or experience level.</p>
+
+<p>Schools that would like to bring two teams can fill out an additional question on the registration form regarding why they need to bring two teams— the answers will be reviewed to make sure as many teams are satisfied as possible.</p>
+
+<p>Please do not hesitate to <a href="contact-us">contact us</a> if you have any questions. We look forward to the upcoming season!</p>
+
+        </div>
+
+    </section>
+
+    <section class="post">
+        <a name="2020-tournament-date"></a>
+        <div class="post-title">
+            <a href="updates#2020-tournament-date">
+                2020 Tournament Date
+            </a>
+        </div>
+
+        <div class="post-date">May 20, 2019</div>
+        
+        <div></div>
+        <div class="post-content">
+            <p>We are pleased to announce that the sixth annual MIT Science Olympiad Invitational Tournament will be held on <strong>Saturday, January 25th, 2020</strong>, on the campus of the Massachusetts Institute of Technology in Cambridge, MA.</p>
+
+<p>We will be running all 23 Division C national events, including lab and engineering events, with a schedule mirroring the National Tournament schedule as closely as possible. All events will be written, reviewed, and run by Science Olympiad alumni currently at MIT, national tournament event supervisors, and/or former Science Olympiad competitors from the highest level of competition.</p>
+
+<p>We would also like to welcome Thomas Xiong (‘21) to join Alice Lin (‘20) as our tournament directors for the 2020 season as we say goodbye to Joshua Segaran (‘19) and wish him luck on his future endeavors.</p>
+
+<p>Tournament registration will open mid-September. Follow us on <a href="https://www.facebook.com/mitscioly">Facebook</a> and <a href="https://www.instagram.com/mit_scioly/">Instagram</a> to stay updated with our team.</p>
+
+<p>We look forward to welcoming you all next January!</p>
+
+<p><img src="assets/images/2020_Date_Announcement.png" alt="2020 Invite Date Announcement" class="post-image" style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:20em" /></p>
+
+        </div>
+
+    </section>
+
+
+                
+            </div>
+        </section>
+        
+        <footer></footer>
+
+        <script src="assets/js/global.js"></script>
+        <script src="assets/js/navbar.js"></script>
+        
+    </body>
+</html>

@@ -1,0 +1,40 @@
+/* Contains styles for index.html */
+
+#homepage-nav .navbar-start {
+	justify-content: space-between;
+}
+
+svg {
+	margin-top: 2em;
+}
+
+
+/* Title text */
+.title {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	/* margin-bottom: 5%; */
+	padding-top: 3%;
+}
+
+.title h1 {
+	font-size: 4.5rem;
+	font-weight: 300;
+  	margin-bottom:10px;
+  	color: #ffffff;
+}
+
+.title h2 {
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 80%;
+	margin-top: 0;
+  margin-bottom:30px;
+}
+
+
+@media screen and (max-width: 768px) {
+	svg {
+		margin-top: 0;
+	}
+}

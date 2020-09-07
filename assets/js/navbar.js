@@ -43,7 +43,7 @@ navBrand.className = "navbar-brand";
 inner_navbar.appendChild(navBrand);
 
 // Super hacky way to check if on title page. If not, add the logo to navBrand
-if(document.getElementsByTagName('title')[0].innerText  != 'MIT Science Olympiad | Welcome') {
+if(!document.getElementById("homepage-nav")) {
     let logo = document.createElement('a');
     logo.className = "navbar-item";
     logo.href = base;
@@ -99,11 +99,7 @@ for(header in outerHeaders) {
             nav_children.appendChild(nav_child);
             nav_child.className = "navbar-item";
             nav_child.text = child;
-            if(child === 'archives') {
-                nav_child.href = 'https://scioly.mit.edu/archives';
-            } else {
-                nav_child.href = base + links[child];
-            }
+            nav_child.href = child === "Archives" ? "archives.html" : base + links[child];
         }
     }
     start.appendChild(nav_item);
@@ -164,7 +160,8 @@ for(var header in outerHeaders) {
             var childName = children[i];
             if(childName in links) {
                 var link = li.appendChild(document.createElement("a"));
-                link.setAttribute("href", base + links[childName]);
+                let path = childName === "Archives" ? "archives.html" : base + links[childName];
+                link.setAttribute("href", path);
                 link.innerText = childName;
             } else {
                 li.innerText = childName;

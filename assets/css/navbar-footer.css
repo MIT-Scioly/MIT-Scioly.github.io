@@ -99,3 +99,7 @@ a.navbar-item:hover {
 .footer strong, .footer b {
 	color: #707070;
 }
+
+.lower-nav {
+	justify-content: space-evenly;
+}

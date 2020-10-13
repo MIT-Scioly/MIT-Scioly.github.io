@@ -1,5 +1,13 @@
 tr{
-    background-color: #000000;
+    background-color: #111111;
+    color: #eeeeee;
+}
+
+.table thead th{
+    color: #eeeeee;
+}
+
+.table tbody th{
     color: #eeeeee;
 }
 

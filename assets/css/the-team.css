@@ -17,6 +17,10 @@
     margin-top: 1em;
 }
 
+.team-card {
+    flex-wrap: wrap;
+}
+
 .overlay-container p {
     display: none;
 }

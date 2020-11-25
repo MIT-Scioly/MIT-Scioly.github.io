@@ -17,7 +17,8 @@ custom_css:
     Invitational would not be possible without the dedication and effort of our
     members.
 </p>
-{% for team in site.data.board-members %} 
+
+{% for team in site.data.pc-members %} 
   <h2>{{ team.name }}</h2>
   <div class="tile is-ancestor team-card">
   {% for member in team.members %}
@@ -32,7 +33,7 @@ custom_css:
             </div>
           </div>
           <div class="card-content">
-            <div class="title is-4"> {{ member.name }} </div>
+            <div class="title is-5"> {{ member.name }} </div>
             <div class="subtitle"> {{ member.year }} </div>
             <p class="is-size-6 is-size-7-mobile mobile-only-text">{{ member.description }}</p>
           </div>
@@ -41,13 +42,6 @@ custom_css:
   {% endfor %}
   </div>
 {% endfor %}
-
-<h2>Planning Committee</h2>
-<p>
-  {% for pc in site.data.planning-committee %}
-    {{ pc }} <br>
-  {% endfor %}
-</p>
 
 <h2>Past Tournament Directors</h2>
 <ul>

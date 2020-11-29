@@ -112,6 +112,11 @@
       image_name: melissa_nie.jpg
       description: >
         Hello! I'm Melissa, class of 2024, and I'm hoping to study biology and computer science. I went to high school in Minnesota, where I participated in Science Olympiad every year and served as captain in senior year. My favorite event was Anatomy & Physiology, although Microbe Mission was a great time too before it was cycled out. Science Olympiad was one of my highlights from high school, and I hope that I can help inspire that same passion in others. Aside from science, I really like to draw! I mostly do digital art and sometimes dabble in graphic design.
+    - name: Melody Wen
+      year: 2024
+      image_name: ../logo.svg
+      description: >
+        Hello! I'm Melody Wen, a freshman from North Carolina. When I was in Science Olympiad (competing with NCSSM), my favorite event was Codebusters and Write it, Do it! In my free time, I love going hiking, swimming, and going on spontaneous adventures. 
     - name: Melody Yu
       year: 2024
       image_name: melody_yu.jpg
@@ -127,3 +132,14 @@
       image_name: sadhana_lolla.jpg
       description: >
         Hi! I'm Sadhana, a freshman at MIT double majoring in CS and math. In high school, I was the captain of my Scioly team and competed in biology and Earth and Space Science events! I’m on the competitor logistics committee and also help out with events. Outside of school and planning committee, I love to bake, cook, and read!!
+    - name: Sarah Lam
+      year: 2022
+      image_name: sarah_lam.jpg
+      description: >
+        Hi! I'm Sarah. I'm a junior in Mechanical Engineering (Course 2). I competed in Science Olympiad from my sophomore year on. My favorite events were Thermodynamics, Mousetrap Vehicle, and Experimental Design. I currently UROP at the D-Lab where I am working on a pressure model for a low-cost cool device. Before quarantine, I loved going out on food adventures and cooking with friends. Recently, I have picked up embroidery and water coloring.
+    - name: Sruthi Parthasarathi  
+      year: 2024
+      image_name: sruthi_parthasarathi.jpg
+      description: >
+        Hello! I'm Sruthi, and I'm a freshman hoping to major in Bioengineering (Course 20) and Mathematics with Computer Science (18C). I competed for Mason (OH) throughout middle and high school, and served as a captain my senior year. Some of my favorite events include Chem Lab, Codebusters, and Forensics! Outside of SciOly, I'm also involved in ESP and SEVT, and enjoy singing, hand lettering, and trying random crafts in my free time.
+    

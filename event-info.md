@@ -24,4 +24,6 @@ Rules coming soon!
 
 ## Trial Event: Write It CAD It
 
+Write It CAD It will be using [FreeCAD](https://www.freecadweb.org/).
+
 Rules coming soon!

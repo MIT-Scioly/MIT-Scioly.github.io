@@ -4,7 +4,7 @@ layout: default
 keywords: 'event-info'
 ---
 
-*Last updated: December 15, 2020*
+*Last updated: December 21, 2020*
 
 This page will continue to be updated as we finalize more details. Be sure to check back later for more information regarding our 2021 events.
 
@@ -14,8 +14,14 @@ Events will be run according to the eligible and replacement events on the [mini
 
 Events will use national-level rules. Any national and invitational event clarifications will be published on our Scilympiad page
 
-## Trial Events (rules coming soon)
+## Trial Event: Digital Structures
 
-* Lean Mean Meme Machine
-* Digital Structures
-* Write It CAD It
+Rules coming soon!
+
+## Trial Event: Lean Mean Meme Machine
+
+Rules coming soon!
+
+## Trial Event: Write It CAD It
+
+Rules coming soon!

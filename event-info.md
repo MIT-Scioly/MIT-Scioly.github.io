@@ -12,7 +12,7 @@ This page will continue to be updated as we finalize more details. Be sure to ch
 
 Events will be run according to the eligible and replacement events on the [miniSO event chart](https://www.soinc.org/sites/default/files/uploaded_files/2021_MiniEvents_090820.pdf), **except for Gravity Vehicle**. Replacement events will be run as trial events.
 
-Events will use national-level rules. Any national and invitational event clarifications will be published on our Scilympiad page
+Events will use national-level rules. Any national and invitational event clarifications will be published on our Scilympiad page.
 
 ## Trial Event: Digital Structures
 

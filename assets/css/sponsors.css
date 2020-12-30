@@ -1,4 +1,4 @@
-#header {
+/* #header {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -12,4 +12,22 @@
 
 .sponsor-hr {
     margin: 10px auto 30px;
+} */
+
+#header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
+
+.company-info {
+    text-align: center;
+    margin: 20px auto 0;
+    max-width: 90%;
+    display: block;
+}
+
+.sponsor-hr {
+    margin: 10px auto 30px;
+}
+

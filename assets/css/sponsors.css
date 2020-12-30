@@ -1,23 +1,15 @@
 #header {
-    margin-bottom: 5%;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .company-info {
-    margin-top: 3%;
-    text-align: justify;
-    padding: 1em;
+    text-align: center;
+    margin: 20px auto 0;
+    max-width: 90%;
 }
 
-@media only screen and (hover:hover) and (min-width: 769px){
-    .company-info {
-        display: block;
-        visibility: hidden;
-        color: rgba(0,0,0,0);
-        transition: color 0.3s ease;
-    }
-
-    .company-logo:hover + .company-info{
-        visibility: visible;
-        color: inherit;
-    }
+.sponsor-hr {
+    margin: 10px auto 30px;
 }

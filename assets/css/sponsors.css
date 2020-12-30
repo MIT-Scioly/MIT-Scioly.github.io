@@ -1,3 +1,23 @@
 #header {
-    padding-bottom: 2%;
+    margin-bottom: 5%;
+}
+
+.company-info {
+    margin-top: 3%;
+    text-align: justify;
+    padding: 1em;
+}
+
+@media only screen and (hover:hover) and (min-width: 769px){
+    .company-info {
+        display: block;
+        visibility: hidden;
+        color: rgba(0,0,0,0);
+        transition: color 0.3s ease;
+    }
+
+    .company-logo:hover + .company-info{
+        visibility: visible;
+        color: inherit;
+    }
 }

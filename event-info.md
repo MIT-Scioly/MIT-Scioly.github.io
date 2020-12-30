@@ -4,7 +4,7 @@ layout: default
 keywords: 'event-info'
 ---
 
-*Last updated: December 21, 2020*
+*Last updated: December 29, 2020*
 
 This page will continue to be updated as we finalize more details. Be sure to check back later for more information regarding our 2021 events.
 
@@ -16,14 +16,14 @@ Events will use national-level rules. Any national and invitational event clarif
 
 ## Trial Event: Digital Structures
 
-Rules coming soon!
+[Digital Structures Rules](docs/DigitalStructuresRules.pdf)
 
 ## Trial Event: Lean Mean Meme Machine
 
-Rules coming soon!
+[Lean Mean Meme Machine Rules](docs/LeanMeanMemeMachineRules.pdf)
 
 ## Trial Event: Write It CAD It
 
-Write It CAD It will be using [FreeCAD](https://www.freecadweb.org/).
+[Write It CAD It Rules](docs/WriteItCADItRules.pdf) 
 
-Rules coming soon!
+Write It CAD It will be using [FreeCAD](https://www.freecadweb.org/).

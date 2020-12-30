@@ -24,6 +24,6 @@ Events will use national-level rules. Any national and invitational event clarif
 
 ## Trial Event: Write It CAD It
 
-[Write It CAD It Rules](docs/WriteItCADItRules.pdf) 
+[Write It CAD It Rules](docs/WriteItCadItRules.pdf) 
 
 Write It CAD It will be using [FreeCAD](https://www.freecadweb.org/).

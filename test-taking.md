@@ -4,11 +4,11 @@ layout: default
 keywords: 'test-taking'
 ---
 
-*Last updated: December 15, 2020*
+*Last updated: January 12, 2021*
 
 This page will continue to be updated as we finalize more details. Be sure to check back later for more information regarding our 2021 events.
 
-Tests will be administered online through Scilympiad. All tests are open-internet and will mainly consist of “critical thinking” (less search-able) questions.
+Tests will be administered online through Scilympiad. All tests, **with the exception of Codebusters**, are open-internet and will mainly consist of “critical thinking” (less search-able) questions.
 
 ## Timing
 

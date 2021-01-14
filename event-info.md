@@ -4,7 +4,7 @@ layout: default
 keywords: 'event-info'
 ---
 
-*Last updated: January 12, 2021*
+*Last updated: January 13, 2021*
 
 This page will continue to be updated as we finalize more details. Be sure to check back later for more information regarding our 2021 events.
 
@@ -34,6 +34,6 @@ The Protein Modeling Exam will be run as closely to how it would have been in an
 
 ## Trial Event: Write It CAD It
 
-[Write It CAD It Rules](docs/WriteItCadItRules.pdf) 
+[Write It CAD It Rules](docs/WriteItCadItRules.pdf)
 
-Write It CAD It will be using [FreeCAD](https://www.freecadweb.org/).
+Write It CAD It will be using [FreeCAD](https://www.freecadweb.org/). There will be two separate events for WICI on Scilympiad: one for the writer and one for the CADer. Please make sure that your coach has assigned the correct person (there should be only one person assigned to each). Writer will first start his/her test and have 25 mins to write the instruction in the provided text box with given screenshots of the build. The CADer will then start his/her test immediately after and have 20 mins to download the CAD files, assemble it, and upload it (instructions for upload and download will be on the test). Scilympiad should automatically handle showing the written instruction from the writer to the CADer.

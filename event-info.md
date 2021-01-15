@@ -4,7 +4,7 @@ layout: default
 keywords: 'event-info'
 ---
 
-*Last updated: January 13, 2021*
+*Last updated: January 15, 2021*
 
 This page will continue to be updated as we finalize more details. Be sure to check back later for more information regarding our 2021 events.
 
@@ -35,6 +35,8 @@ The Sounds of Music event will only consist of the exam portion, and **there wil
 ## Trial Event: Lean Mean Meme Machine
 
 [Lean Mean Meme Machine Rules](docs/LeanMeanMemeMachineRules.pdf)
+
+[Lean Mean Meme Machine Pre-build Prompts](https://docs.google.com/document/d/1GgdTjP4jv3ta-N8NBrLvE7tJ5LKYRHyLvs_75wvc3Tc/edit?usp=sharing)
 
 ## Trial Event: Write It CAD It
 

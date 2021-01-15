@@ -24,6 +24,10 @@ The Codebusters Exam will be a normal test; the timed question has its own way o
 
 The Protein Modeling Exam will be run as closely to how it would have been in an in-person exam. Rules for the 2020-2021 season will be followed. There is NO pre-build section, and points are allotted so that 75% of the total score comes from the exam and 25% comes from an online JMOL computer exploration section, details of which are included in the test itself. All other rules provided by MIT Science Olympiad (open internet, etc) apply as well.
 
+## Sounds of Music
+
+The Sounds of Music event will only consist of the exam portion, and **there will be no device testing.**
+
 ## Trial Event: Digital Structures
 
 [Digital Structures Rules](docs/DigitalStructuresRules.pdf)

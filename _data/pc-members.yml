@@ -58,6 +58,11 @@
       image_name: sophia_chen.jpg
       description: >
         I'm Sophia, Class of 2023, and I'm studying bioengineering (Course 20). I did SciOly with Torrey Pines High School in San Diego, California and my favorite events were Bridge/Boomilever/Towers and Dynamic Planet! I'm currently part of MIT EMS and the dance group MIT Ridonkulous. In my free time I love rock climbing, running, and film-making. 
+    - name: Elizabeth Lee
+      year: 2023
+      image_name: elizabeth_lee.jpg
+      description: >
+        Hello! I’m Elizabeth and I’m studying computer science and brain and cognitive sciences. I’m from New York and competed for Half Hollow Hills East where my favorite events were Geomapping and Disease Detectives. I made some of my fondest memories in science olympiad and it has been incredibly rewarding giving high schoolers this experience. I currently UROP at the MIT Media Lab and in my free time I like to run and play music!
 - finance:
   name: Treasurer
   members:

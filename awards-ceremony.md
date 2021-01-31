@@ -4,6 +4,8 @@ layout: default
 keywords: 'awards ceremony'
 ---
 
+*Last updated: January 30, 2021*
+
 The Awards Ceremony for the 2021 Invitational will take place at **6 pm EST on Sunday, January 31st**. The event will be live-streamed on [Youtube](https://youtu.be/zvihJ5qipSE).
 
 Due to the large number of teams at our competition, we'll be announcing the **top 15 placings** in each event. Medals will be given to the top 10 placings in each event (trial events included).

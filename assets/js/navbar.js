@@ -2,7 +2,7 @@
 
 var outerHeaders = {
     'Registration': [],
-    'Tournament Info': ['Awards Ceremony', 'Events', 'Test-Taking', 'Registered Teams'],
+    'Tournament Info': ['Awards Ceremony', 'Events', 'Test-Taking', 'Registered Teams', 'Results'],
     'Updates': [],
     'About Us': ['The Team', 'Sponsors', 'Contact Us', 'Archives']
 }
@@ -22,6 +22,7 @@ var links = {
     "Registered Teams": "teams",
     "Registration": "registration",
     "Required Forms": "required-forms",
+    "Results": "results",
     "Rule Clarifications": "rule-clarifications",
     "Sponsors": "sponsors",
     "Supplies": "supplies",

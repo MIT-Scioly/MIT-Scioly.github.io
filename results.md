@@ -4,11 +4,12 @@ layout: default
 keywords: 'results'
 ---
 
-Thank you and congratulations to all teams who competed in the 2020 MIT Science Olympiad Invitational! Results and other followups for the 2020 tournament will be posted on this page as we get them ready for release.
+*Last updated: February 19, 2021*
 
-Please also fill out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdhsg6pJWfqjaDI6stJUt7ny_BDDV2VBwLUwbjWCRug2-_S3g/viewform?usp=sf_link) if you participated in the tournament.
+Thank you and congratulations to all teams who competed in the 2021 MIT Science Olympiad Invitational! Final scores and exams have now been released.
 
-* [Final Scores](https://app.avogadro.ws/invitational/mit-c/)
-* [Exams and Answer Keys](https://drive.google.com/drive/folders/12AEJJmEQmMROC9-6dPiK5jUp9RDy_j0J?usp=sharing)
-* [The Lean Mean Meme Machine Highlights](https://docs.google.com/presentation/d/1_EQKccC8Tgi89cueGW8m_ldFUo5-KmPWH9af2wknBpc/edit?usp=sharing)
-* [Tournament Photos](https://www.dropbox.com/sh/7lj71g1mb2q0odq/AAAO_Sfmp7E0Ki0Lbtq2IYcga?dl=0)
+Please also fill out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScWXnlu-ZXJrs6MwyVyr0zJnJlU-NJ8NKham8C0Dzt3qOIEeQ/viewform) if you participated in the tournament.
+
+* [Final Scores](https://scilympiad.com/mit/Info/Results/f7818bd3-00e8-466c-a1d0-fae5973a01cf)
+* [Exams and Answer Keys](https://drive.google.com/drive/folders/1Df2ZJ8tdgUuIBPBEQpBV0iP8MW4paDCk?usp=sharing)
+* [Awards Ceremony](https://www.youtube.com/watch?v=cfdlVexYNvU)

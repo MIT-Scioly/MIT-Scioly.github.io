@@ -2,9 +2,9 @@
 
 var outerHeaders = {
     'Registration': [],
-    'Tournament Info': ['Awards Ceremony', 'Events', 'Test-Taking', 'Registered Teams', 'Results'],
+    'Tournament Info': ['Awards Ceremony', 'Events'],
     'Updates': [],
-    'About Us': ['The Team', 'Sponsors', 'Contact Us', 'Archives']
+    'About Us': ['The Team', 'Contact Us', 'Archives']
 }
 
 const base = "./";

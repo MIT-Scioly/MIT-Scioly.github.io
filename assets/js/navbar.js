@@ -30,7 +30,8 @@ var links = {
     "The Team": "the-team",
     "Tournament Policies": "tournament-policies",
     "Travel": "travel",
-    "Updates": "updates"
+    "Updates": "updates",
+    "Privacy Policy": "privacy"
 };
 
 let navbar = document.getElementById("navbar");
@@ -144,7 +145,8 @@ rightSpan.className = "level-right";
 rightSpan.innerHTML = "Made with &hearts; by MIT Science Olympiad"
 var date = new Date();
 leftSpan.className = "level-left";
-leftSpan.innerHTML = "<div class=\"level-item\">&copy MIT Science Olympiad 2015-" + date.getFullYear() + "</div>";
+leftSpan.innerHTML = "<div class=\"level-item\">&copy MIT Science Olympiad 2015-" + date.getFullYear() + "</div>" 
+    + "<div><a href='privacy'>Privacy Policy</a></div>";
 
 // Populate lower-nav
 for(var header in outerHeaders) {

@@ -1,18 +1,19 @@
 # MIT Science Olympiad Website
-A basic informational site for competitors and coaches to get important information and official updates about the tournament.
 
-## Basic Codebase Rules
+A basic site for competitors and coaches to get important information and official updates about the tournament.
 
-* Always run ```git pull``` before modifying the code to try and avoid merge conflicts.
+## Getting Started
 
-* Always ```git push``` code after you finish modifying anything. Avoid having code checked out and modified for too long on your personal machine as this leads to merge conflicts.
+The site is constructed using [Jekyll](https://jekyllrb.com/), a static site generator.
+To get started, follow the instructions on [Jekyll's installation page](https://jekyllrb.com/docs/installation/).
+To build and serve the site locally, run `bundle exec jekyll serve` from the root of this repository.
 
-* If you have any questions about Git or want help using it, let me know (preferably sooner rather than later). It's almost impossible for you to permanently break anything, but it would also be good to avoid messing stuff up since it could get complicated with multiple people.
+## Contributing
 
-## File Structure and Naming Conventions
-* We will be following Jekyll standards for the most part.
+To contribute to the site, you should get write access to the repo from the online logistics director.
+If multiple people are working on the site, then it is advisable that you use a branch-rebase workflow.
 
-## Code Conventions
-* Use spaces instead of tabs. You should be able to set your text editor to do this (ask me if you're not sure).
-* For html files, use two spaces per tab (keeps the indentation from growing too wide).
-* For css and js, use four spaces per tab
+Code style is dictated in the `.editorconfig` file.
+If you are using VS Code, you can download the [extension](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) to automatically apply the right formatting settings.
+
+See the [EditorConfig documentation](https://editorconfig.org/) for more information and for how to use EditorConfig on different editors.

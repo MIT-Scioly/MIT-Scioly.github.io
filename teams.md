@@ -1,9 +1,9 @@
 ---
 title: Teams
 layout: default
-keywords: 'teams'
+keywords: "teams"
 ---
 
-*Last updated: January 8, 2022*
+_Last updated: January 21, 2022_
 
 The team list can be found [here](docs/MIT_Sci_Oly_2022_Teams.pdf).

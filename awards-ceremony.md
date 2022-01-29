@@ -1,9 +1,9 @@
 ---
 title: Awards Ceremony
 layout: default
-keywords: 'awards ceremony'
+keywords: "awards ceremony"
 ---
 
-*Last updated: August 10, 2021*
+_Last updated: January 29, 2022_
 
-This page will continue to be updated as we finalize more details. Please check back later for more information regarding the 2022 awards ceremony.
+The 2022 Awards Ceremony will be premiered live through the link [here](https://youtu.be/9cz-fXTzkPs) at 5:55 PM ET on January 29, 2022. Hope to see you there!

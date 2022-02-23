@@ -4,7 +4,7 @@ layout: default
 keywords: "results"
 ---
 
-_Last updated: February 20, 2022_
+_Last updated: February 23, 2022_
 
 Thank you and congratulations to all teams who competed in the 2022 MIT Science Olympiad Invitational! You can view the final scores and full results below. Exams and answer keys for public release will be updated soon.
 

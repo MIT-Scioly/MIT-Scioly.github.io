@@ -10,6 +10,6 @@ Thank you and congratulations to all teams who competed in the 2022 MIT Science 
 
 For teams that competed in our tournament, you should be able to view your graded answer sheets on Gradescope.
 
--   [Final Scores](docs/Final Rankings.pdf)
+-   [Final Scores](https://www.duosmium.org/results/2022-01-22_mit_invitational_c)
 -   [Exams and Answer Keys](https://drive.google.com/drive/folders/1t67OdhZRW7FkenNQUKV7svAGme3j5lVG?usp=sharing)
 -   [Awards Ceremony](https://youtu.be/9cz-fXTzkPs)

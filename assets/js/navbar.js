@@ -4,9 +4,7 @@ var outerHeaders = {
     Registration: [],
     "Tournament Info": [
         "Awards Ceremony",
-        "Events",
-        "Registered Teams",
-        "Results",
+        "Events"
     ],
     Updates: [],
     "About Us": ["The Team", "Contact Us", "Archives"],

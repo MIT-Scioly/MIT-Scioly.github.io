@@ -110,7 +110,7 @@ for (header in outerHeaders) {
             nav_child.className = "navbar-item";
             nav_child.text = child;
             nav_child.href =
-                child === "Archives" ? "archives.html" : base + links[child];
+                child === "Archives" ? "/archives.html" : base + links[child];
         }
     }
     start.appendChild(nav_item);
@@ -189,7 +189,7 @@ for (var header in outerHeaders) {
                 var link = li.appendChild(document.createElement("a"));
                 let path =
                     childName === "Archives"
-                        ? "archives.html"
+                        ? "/archives.html"
                         : base + links[childName];
                 link.setAttribute("href", path);
                 link.innerText = childName;

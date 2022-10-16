@@ -6,4 +6,4 @@ keywords: 'event-info'
 
 *Last updated: September 15, 2022*
 
-This page will continue to be updated as we finalize more details. Please check back later for more information regarding the 2023 awards ceremony.
+This page will continue to be updated as we finalize more details. Please check back later for more information regarding events.

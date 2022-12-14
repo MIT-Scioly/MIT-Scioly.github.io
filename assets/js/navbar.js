@@ -2,7 +2,12 @@
 
 var outerHeaders = {
     Registration: [],
-    "Tournament Info": ["Awards Ceremony", "Events", "Registered Teams"],
+    "Tournament Info": [
+        "About",
+        "Events",
+        "Registered Teams",
+        "Awards Ceremony",
+    ],
     Updates: [],
     "About Us": ["The Team", "Contact Us", "Archives"],
 };
@@ -10,26 +15,18 @@ var outerHeaders = {
 const base = "./";
 
 var links = {
-    "About the Tournament": "about.html",
+    About: "about.html",
     Archives: "archives.html",
     "Awards Ceremony": "awards-ceremony",
     "Contact Us": "contact-us",
     "Event Info": "event-info",
     Events: "event-info",
     "Health and Safety": "health-and-safety",
-    Hotels: "hotels",
-    Location: "location",
     "Registered Teams": "teams",
     Registration: "registration",
-    "Required Forms": "required-forms",
-    Results: "results",
     "Rule Clarifications": "rule-clarifications",
-    Sponsors: "sponsors",
-    Supplies: "supplies",
-    "Test-Taking": "test-taking",
     "The Team": "the-team",
     "Tournament Policies": "tournament-policies",
-    Travel: "travel",
     Updates: "updates",
     "Privacy Policy": "privacy",
 };

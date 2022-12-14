@@ -4,8 +4,8 @@ var outerHeaders = {
     Registration: [],
     "Tournament Info": [
         "About",
+        "Tournament Day Info",
         "Events",
-        "Registered Teams",
         "Awards Ceremony",
     ],
     Updates: [],
@@ -22,7 +22,7 @@ var links = {
     "Event Info": "event-info",
     Events: "event-info",
     "Health and Safety": "health-and-safety",
-    "Registered Teams": "teams",
+    "Tournament Day Info": "tournament-day-info",
     Registration: "registration",
     "Rule Clarifications": "rule-clarifications",
     "The Team": "the-team",

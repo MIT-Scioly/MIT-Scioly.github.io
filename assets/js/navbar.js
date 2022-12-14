@@ -24,7 +24,6 @@ var links = {
     "Health and Safety": "health-and-safety",
     "Tournament Day Info": "tournament-day-info",
     Registration: "registration",
-    "Rule Clarifications": "rule-clarifications",
     "The Team": "the-team",
     "Tournament Policies": "tournament-policies",
     Updates: "updates",

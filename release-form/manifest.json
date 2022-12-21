@@ -1,6 +1,6 @@
 {
-    "short_name": "MIT Release Form",
-    "name": "MIT Science Olympiad 2022 Release Form",
+    "short_name": "MIT 2023 Release Form",
+    "name": "MIT Science Olympiad 2023 Release Form",
     "icons": [
         {
             "src": "favicon.ico",
@@ -20,6 +20,6 @@
     ],
     "start_url": ".",
     "display": "standalone",
-    "theme_color": "#12BBEE",
-    "background_color": "#364F68"
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
 }

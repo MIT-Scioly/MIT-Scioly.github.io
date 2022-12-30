@@ -5,9 +5,11 @@ var outerHeaders = {
     "Tournament Info": [
         "About",
         "Tournament Day Info",
+        "Tournament Policies",
         "Events",
         "Awards Ceremony",
     ],
+    Logistics: ["Required Materials", "Travel", "Health and Safety"],
     Updates: [],
     "About Us": ["The Team", "Contact Us", "Archives"],
 };
@@ -28,12 +30,14 @@ var links = {
     "Tournament Policies": "tournament-policies",
     Updates: "updates",
     "Privacy Policy": "privacy",
+    Travel: "travel",
+    "Required Materials": "required-materials",
 };
 
 let navbar = document.getElementById("navbar");
 let inner_navbar = document.createElement("div");
 inner_navbar.className = "container";
-navbar.appendChild(inner_navbar);
+navbar?.appendChild(inner_navbar);
 
 var navBrand = document.createElement("div");
 navBrand.className = "navbar-brand";

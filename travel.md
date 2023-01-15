@@ -4,7 +4,7 @@ layout: default
 keywords: "travel"
 ---
 
-_Last updated: December 30, 2022_
+_Last updated: January 14, 2023_
 
 ## Arriving by Plane
 
@@ -14,11 +14,13 @@ Ride-sharing services (e.g. Uber, Lyft) or rental cars are also feasible options
 
 ## Arriving by Bus
 
-Buses should drop off students along Amherst Street (facing west). We recommend setting your GPS to 32 Massachusetts Avenue, Cambridge, MA to find the correct Amherst Street because there are two Amherst Streets in Cambridge. Please note that buses may only stop along the westbound side of Amherst Street, accessible only from Massachusetts Avenue.
+Buses should drop off students along Amherst Street (facing west). We recommend setting your GPS to 32 Massachusetts Avenue, Cambridge, MA to find the correct Amherst Street because there are two Amherst Streets in Cambridge. **Please note that buses may only stop along the westbound side of Amherst Street, accessible only from Massachusetts Avenue.**
 
-Parking info is being finalized. This page will be updated with parking info soon.
+Afterwards, buses should proceed to 65 Waverly Lot. If this space fills, then buses will need to find parking outside of campus.
 
 Buses should pick up students on Amherst Street at the conclusion of the awards ceremony in the evening.
+
+See the "Bus Drop-Off & Parking" page of [this document](https://web.mit.edu/facilities/transportation/docs/MIT%20Recreation%20Parking%20Instructions_All.pdf) for a detailed map.
 
 ## Arriving by Car
 

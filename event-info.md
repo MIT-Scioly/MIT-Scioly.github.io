@@ -4,7 +4,7 @@ layout: default
 keywords: "event-info"
 ---
 
-_Last updated: December 30, 2022_
+_Last updated: January 14, 2023_
 
 This page will continue to be updated as we finalize more details. Please check back later for more information regarding events.
 
@@ -14,7 +14,9 @@ Self scheduling will open at **3 PM EST on January 9th, 2023** via our coach por
 
 ## Flight
 
-The venue details will be announced in January.
+Flight will be held in the Morss Hall of Walker Memorial (Building 50). The ceiling height is approximately 28 ft and the room is approximately 91 ft by 52 ft for the area without the columns. See below for an image of the venue (the hall will be setup for the event on tournament day).
+![Walker Memorial](assets/images/walker.png)
+_Image from MIT Medical_
 
 ## Chemistry Lab, Forensics, Environmental Chemistry
 

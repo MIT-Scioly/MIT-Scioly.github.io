@@ -4,15 +4,19 @@ layout: default
 keywords: "tournament day info"
 ---
 
-_Last updated: December 30, 2022_
+_Last updated: January 19, 2023_
 
 ## Teams
 
-The team list with team numbers can be found [here](docs/2023_teams.pdf).
+The team list with team numbers can be found [here](docs/2023_teams.pdf). For a light version for printing, please see [here](docs/2023_teams_light.pdf).
 
 ## Schedule
 
 A full event schedule for the tournament day can be found [here](docs/2023_schedule.pdf).
+
+## Campus Map
+
+A labeled campus map for the tournament can be found [here](docs/2023_map.pdf).
 
 ## Registration
 

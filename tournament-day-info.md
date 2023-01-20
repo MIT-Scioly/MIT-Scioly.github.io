@@ -25,7 +25,7 @@ You can attend registration on either Friday, January 20th from 5-7 PM or on Sat
 
 ## Campus Access
 
-All participants, including coaches, must sign up for Tim Tickets (link coming soon) to gain access to campus on tournament day. Please do this at least one day before you arrive on competition day.
+All coaches must sign up for Tim Tickets (links have been sent out via email) to gain access to campus on tournament day. Please do this at least one day before you arrive on competition day. Note that due to updated MIT policies, Tim Tickets are now only intended for use by adults (i.e. coaches and parent chaperones). When entering MIT buildings, competitors should be with coaches/parents with Tim Tickets or ask nearby MIT Science Olympiad staff/volunteers.
 
 IMPORTANT: Please also note that any member of your team (competitors, coach, parent, etc.) may not access homerooms before 6 AM on Saturday, January 21st, and any event rooms before 8 AM on Saturday, January 21st (unless impounding in which case you may not enter before 7 AM). If you do so, your team will be disqualified from the event in question. This is due to fairness of competition and the specifics of our room reservations.
 

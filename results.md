@@ -9,5 +9,5 @@ Thank you and congratulations to all teams who competed in the 2023 MIT Science 
 -   [Final Scores](https://www.duosmium.org/results/2023-01-21_mit_invitational_c/)
 -   Feedback Forms (coming soon)
 -   Exams and Answer Keys (coming soon)
--   Awards Ceremony Video (coming soon)
+-   [Awards Ceremony](https://youtu.be/3BENdz075f0)
 -   Discord Link (distributed via email)

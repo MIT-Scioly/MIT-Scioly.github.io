@@ -4,6 +4,6 @@ layout: default
 keywords: "awards ceremony"
 ---
 
-_Last updated: September 15, 2022_
+_Last updated: July 21, 2023_
 
-This page will continue to be updated as we finalize more details. Please check back later for more information regarding the 2023 awards ceremony.
+This page will continue to be updated as we finalize more details. Please check back later for more information regarding the 2024 awards ceremony.

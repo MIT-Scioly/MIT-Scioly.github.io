@@ -8,7 +8,7 @@ _Last updated: October 18, 2023_
 
 ## Teams
 
-The team list with team numbers can be found [here](docs/2024_teams.pdf).
+The team list can be found [here](docs/2024_teams.pdf).
 ## Schedule
 
 Please check back later for more information on the full event schedule for the tournament.

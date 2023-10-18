@@ -4,15 +4,15 @@ layout: default
 keywords: "tournament day info"
 ---
 
-_Last updated: January 19, 2023_
+_Last updated: October 18, 2023_
 
 ## Teams
 
-The team list with team numbers can be found [here](docs/2023_teams.pdf). For a light version for printing, please see [here](docs/2023_teams_light.pdf).
+The team list with team numbers can be found [here](docs/2024_teams.pdf). For a light version for printing, please see [here](docs/2023_teams_light.pdf).
 
 ## Schedule
 
-A full event schedule for the tournament day can be found [here](docs/2023_schedule.pdf).
+Please check back later for more information on the full event schedule for the tournament.
 
 ## Campus Map
 
@@ -20,8 +20,7 @@ A labeled campus map for the tournament can be found [here](docs/2023_map.pdf).
 
 ## Registration
 
-Registration is mandatory for all teams — one coach from each school must come to registration.
-You can attend registration on either Friday, January 20th from 5-7 PM or on Saturday, January 21st from 6-8 AM. You must attend registration during one of these times, but there is no need to go to both times. Registration will be held in the tournament HQ: 10-105, known as the Bush Room. At registration, you will receive wristbands and other documents such as maps and schedules.
+Please check back later for more information regarding registration.
 
 ## Campus Access
 

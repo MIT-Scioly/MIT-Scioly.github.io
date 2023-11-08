@@ -1,54 +1,44 @@
 - tds:
   name: 2023 Tournament Directors
   members:
-      - name: Julie Meng
-        year: 2023
-        image_name: julie_meng.jpg
-        description: >
-            I'm Julie, a junior studying Computer Science (6-3) and minoring in Brain & Cognitive Sciences (9). While competing in Div C (Palo Alto), I really enjoyed Anatomy & Physiology, Geologic Mapping, and Herpetology. It’s been incredibly rewarding to give back to the organization that helped me make so many good memories and friends. I'm also involved with Asian Dance Team, MedLinks, and Pi Beta Phi. In my free time, I love to bake, run (aka prevent baked goods from turning me into a potato), and play the ukulele.
       - name: Melody Yu
         year: 2024
         image_name: melody_yu.jpg
         description: >
-            I'm Melody, a junior studying Biology (Course 7). I really enjoyed competing in Science Olympiad in Southern California, and my favorite events were Anatomy & Physiology, Cell Biology, and Invasive Species! I've loved being able to give back to Science Olympiad, which made many special memories for me. I'm also involved with Asian Dance Team, Global Health Alliance, BrainTrust, and the Symphony Orchestra. In my free time, I enjoy kpop and playing with my cats!
+            I'm Melody, a senior studying Biology (Course 7). I enjoyed competing in Science Olympiad in Southern California, and a few of my favorite events were Designer Genes, Cell Biology, and Invasive Species! I've loved being able to give back to Science Olympiad, which made many meaningful memories for me. I'm also involved with the Asian Dance Team, Global Health Alliance, BrainTrust, and research. In my free time, I enjoy dance and playing with my cats.
+      - name: Amber Luo
+        year: 2026
+        image_name: amber_luo.jpg
+        description: >
+            Hi! I’m Amber, a sophomore majoring in Computer Science and Math (6-3 + 18), with specific interests in computational biology. I was Captain of Ward Melville Science Olympiad and competed in Science Olympiad for 4 years, where my favorite events were Anatomy & Physiology and Protein Modeling. I’ve also supervised A & P for BirdSO and SOLVI. In addition to MIT Scioly, I’m also a member of the MIT Asian Dance Team and Momentum AI, and am conducting a UROP on RNA splicing in the Burge Lab. In my free time, I enjoy binge-watching TV shows and playing Super Smash Bros.
 - events:
   name: Events
   members:
-      - name: Yoshi Saito
-        year: 2022
-        image_name: yoshi_saito.jpg
-        description: >
-            Hello, I'm Yoshi! I was a tournament director for the 2021 and 2022 MIT tournament, and I graduated MIT in 2022 with a physics major and math, cs minor. I am currently doing condensed matter physics research at Harvard. In my time as a high schooler, I competed for Marriotts Ridge High School (Mariottsville, MD), and my favorite events are Astronomy and Materials Science! I'm a big soccer fan and on weekends you can catch me either playing with my friends or watching games (mostly Premier League and La Liga)!
       - name: Rebecca Zhang
         year: 2024
         image_name: rebecca_zhang.jpg
         description: >
             I’m Rebecca, Class of 2024, and I’m studying biology (Course 7). My favorite SciOly event during high school was Disease Detectives. I competed in both Division B (Gelinas) and Division C (Ward Melville) and I got involved in MIT Science Olympiad because I want to give back to the organization that means so much to me and I loved my experience at the MIT Science Olympiad Invitationals. I am also involved with HMMT, BoSTEM, and ARCTAN.
-      - name: Kenneth Choi
-        year: 2025
-        image_name: kenneth_choi.jpg
-        description: >
-            Hi, I'm Kenneth! I'm a sophomore at MIT majoring in Computer Science and Engineering (6-3) and Mathematics (18). This year, I'm on the Planning Committee as one of the Events Heads. I'm originally from Connecticut, where I was involved in Science Olympiad as my team's president and later as an invitational director. My favorite event is Sounds of Music (rip sounds). Outside Scioly, I'm also involved in Korean Cultural Association and ADT. Feel free to reach out if you want to talk about Scioly, MIT, or life in general!
       - name: Ananthan Sadagopan
-        year: 2025
+        year: 2024
         image_name: anan_sadagopan.jpg
         description: >
-            Hey! I'm Anan, a sophomore studying course 5-7 (chemistry and biology). I'm from Massachusetts and competed for Westborough High School; my favorite events were Chem Lab and Materials Science. Outside of SciOly, I'm part of Leadership Training Institute (LTI) and the Sigma Alpha Epsilon fraternity. I enjoy playing basketball, tennis, spike ball, and listening to new albums.
+            Hey! I'm Anan, a senior studying course 5-7 (chemistry and biology). I'm from Massachusetts and competed for Westborough High School; my favorite events were Chem Lab and Materials Science. Outside of SciOly, I'm part of Leadership Training Institute (LTI) and the Chemistry Undergraduate Association. I enjoy lifting, sailing, and playing tennis in my free time.
       - name: Elisa Xia
         year: 2026
         image_name: elisa_xia.jpg
         description: >
-            Hi! I'm Elisa, and I am a freshman at MIT planning on majoring in Computer Science and Biology (Course 6-7). In high school, I was a Captain for the Chattahoochee HS Science Olympiad team in Georgia where I competed for 4 years. My favorite events were Forensics, Codebusters, and Chemistry Lab. Science Olympiad was a major part of my high school experience, and I am excited to contribute back to the community through the MIT SciOly!
+            Hi! I'm Elisa, and I am a sophomore at MIT majoring in Artificial Intelligence & Decision Making (Course 6-4). In high school, I was a Captain for the Chattahoochee HS Science Olympiad team in Georgia where I competed for 4 years. My favorite events were Forensics, Codebusters, and Chemistry Lab. Science Olympiad was a major part of my high school experience, and I am excited to contribute back to the community through the MIT SciOly! Outside of SciOly, I'm also involved with the MIT Biotech Group and MIT IEEE/ACM.
       - name: Amber Wang
         year: 2026
         image_name: amber_wang.jpg
         description: >
-            Hi! My name is Amber, and I'm currently a freshman studying computer science (6-3). I'm from Southern California, where I competed for 3 years in high school as part of Troy's Science Olympiad team. My favorite events are definitely Codebusters and Experimental Design. In school, I'm involved in Asian Dance Team and Pistoling Club. Outside of class, I enjoy playing music (flute and erhu!), writing short stories, and exploring Boston!
+            Hi! My name is Amber, and I'm currently a sophomore studying computer science (6-3). I'm from Southern California, where I competed for 3 years in high school as part of Troy's Science Olympiad team. My favorite events are definitely Codebusters and Experimental Design. In school, I'm involved in Asian Dance Team and Pistoling Club. Outside of class, I enjoy playing music (flute and erhu!), writing short stories, and exploring Boston!
       - name: Tyler Matsuzaki
         year: 2026
         image_name: tyler_matsuzaki.jpg
         description: >
-            Hi! I'm Tyler, a freshman from Hawaii studying biological engineering (Course 20). Before MIT, I competed for Iolani where my favorite events were Astronomy, Cell Biology, and Protein Modeling. I'm also in Pi Lambda Phi and play tuba for MIT Wind Ensemble and the Video Game Orchestra. I also enjoy picking up new hobbies - this semester, I became SCUBA certified and learned how to solve a Rubix's Cube. In my spare time, I usually chase Derek Chen around to get help on homework.
+            Hi! I'm Tyler, a sophomore from Hawaii studying biological engineering (Course 20). Before MIT, I competed for Iolani where my favorite events were Astronomy, Cell Biology, and Protein Modeling. I'm also in Pi Lambda Phi and play tuba for MIT Wind Ensemble and the Video Game Orchestra. I also enjoy picking up new hobbies - last semester, I became SCUBA certified and learned how to solve a Rubix's Cube. In my spare time, I usually chase Derek Chen around to get help on homework.
       - name: Arthur Liang
         year: 2026
         image_name: arthur_liang.jpg
@@ -58,7 +48,17 @@
         year: 2026
         image_name: derek_chen.jpg
         description: >
-            Hello! I'm Derek Chen, a freshman interested in computer science, mathematics, and biology. I competed for four years for Belmont High School in MA in many events. Some of my favorite events included Fossils (<3), Circuit Lab, Cell Biology, and Remote Sensing. Besides MIT Science Olympiad, I am also involved with a capella, dance, and HMMT.
+            Hello! I'm Derek Chen, a sophomore majoring in computer science and biology. I competed for four years for Belmont High School in MA in many events. Some of my favorite events included Fossils (<3), Circuit Lab, Cell Biology, and Remote Sensing. Besides MIT Science Olympiad, I am also involved with HMMT, Traders@MIT, and dance.
+      - name: Inimai Subramanian
+        year: 2026
+        image_name: inimai_subramanian.jpg
+        description: >
+            Hi! I'm Inimai, a sophomore majoring in 6-2 (EECS) and minoring in 12 (Earth & Planetary Science). I competed in Science Olympiad since 7th grade and was the senior captain of Mission San Jose High School's teams. I specialize in Earth Science events; some of my favorites include Rocks & Minerals, Dynamic Planet, and Astronomy. Outside of SciOly, I am involved in the Bhangra dance team and Women in EECS. In my free time, I enjoy dancing, reading, and finding new specimens for my rock collection.
+      - name: Basil Liu
+        year: 2027
+        image_name: basil_liu.jpg
+        description: >
+            Hey, I'm Basil, a freshman without a major in mind! I competed on Troy's varsity SciOly team for four years, two of them as captain. I love ecology and ID events, though I've ended up doing all three chem events as well. Fun fact: I've done an event from every subject category in SciOly. I've helped run Troy Invite in the past, and if you've suffered through a Water Quality, Green Gen, Crime Busters, or Ornithology test, it might have been at my hands. Outside of SciOly, I like birdwatching, drawing, and singing musical theatre.
 - publicity:
   name: Publicity
   members:
@@ -66,34 +66,40 @@
         year: 2026
         image_name: nik_sandu.jpg
         description: >
-            I'm Nik! I'm a current freshman who's thinking of majoring in Course 12 and 5 (EAPS and Chemistry). I started Science Olympiad my 7th grade year and competed in Chicago till 12th grade. My favorite events are Ornithology and Water Quality. Outside of school, I love reading with a nice cup of tea as well as baking and cooking.
+            I'm Nik, a current sophomore from Chicago majoring in Course 3A with hopes to double in 12. I competed in Science Olympiad my 7th through 12th grade years, and my favorite events were Ornithology and Water Quality. Outside of SciOly and class, I'm on the MIT fencing team and you'll also find me hiking or baking depending on the weather!
       - name: Hannah Wang
         year: 2026
         image_name: hannah_wang.jpg
-        description: I'm Hannah, a freshman planning on studying Biological Engineering and minoring in Computer Science. In high school, I was the co-president of our Science Olympiad club, where my favorite part was the community and watching everyone work collaboratively on science. In the three years I did SciO, I have probably participated in more than 15 events! In my free time, I love taking film pictures, hiking and skiing.
+        description: I'm Hannah, a sophomore planning on studying Biological Engineering and minoring in Computer Science. In high school, I was the co-president of our Science Olympiad club, where my favorite part was the community and watching everyone work collaboratively on science. In the three years I did SciO, I have probably participated in more than 15 events! In my free time, I love taking film pictures, hiking and skiing.
       - name: Angela Jiao
         year: 2026
         image_name: angela_jiao.jpg
         description: >
-            Hi! I'm Angela, and I'm a freshman from California interested in biology and chemistry. I competed in SciOly for seven years, and I was president of the Lynbrook High School Science Olympiad Club. Some of my favorite events were Anatomy & Physiology (!!), Herpetology, and Rocks & Minerals! Outside of classes, I dance way too much, dabble in digital art, and mentor with Amphibious Achievement.
+            Hi! I'm Angela, and I'm a sophomore from California studying Biological Engineering. I competed in SciOly for seven years, and I was president of Lynbrook High School's Science Olympiad Club. Some of my favorite events were Anatomy & Physiology, Herpetology, and Rocks & Minerals! Outside of classes, I dance way too much, dabble in digital art, and mentor with Amphibious Achievement.
 - external:
   name: Competitor Logistics
   members:
-      - name: Reed Robinson
-        year: 2023
-        image_name: reed_robinson.jpg
-        description: >
-            Hi! I'm Reed, a senior at MIT studying Biological Engineering. My favorite events are Remote Sensing and Hydrogeology (and favorite Div A event is pasta bridge building!).
-      - name: Yitian Zhu
-        year: 2025
-        image_name: yitian_zhu.jpg
-        description: >
-            Hi! My name is Yitian, & I am a current freshman, major undecided (probably chemical engineering, materials science, or chemistry, but too early to tell!) I’m also interested in political science and maybe neuroscience. In high school, I was a Seven Lakes HS captain; I competed in Chem Lab, Sounds of Music, and Forensics. Oh, also EXD and WIDI… :) Outside of Scioly, I did marching band and USNCO/IChO. I enjoy skateboarding, playing in the Symphony Orchestra, and am a member of the sailing team!
-      - name: Amber Luo
+      - name: Greycen Ren
         year: 2026
-        image_name: amber_luo.jpg
+        image_name: logo.jpg
         description: >
-            Hi! I’m Amber, a freshman planning to major in Computer Science and Math (6-3 + 18), with specific interests in computational biology. I was Captain of Ward Melville Science Olympiad and competed in Science Olympiad for 4 years, where my favorite events were Anatomy & Physiology and Protein Modeling. I’ve also supervised A & P for BirdSO and SOLVI. In addition to MIT Scioly, I’m also a member of the MIT Asian Dance Team and Momentum AI, and am conducting a UROP on RNA splicing in the Burge Lab. In my free time, I enjoy binge-watching TV shows and playing Super Smash Bros.
+            i like frogs :)
+      - name: Allison Eto
+        year: 2027
+        image_name: logo.jpg
+        description: >
+            Hello!! My name is Allison, and I’m a freshman from Hawaii planning to study… something fun that is still TBD! In high school I competed for ‘Iolani and most enjoyed Astronomy, Machines, and Circuit Lab (may they rest in peace). Outside of Sci Oly, I love baking with friends, writing, and generally engaging with the chaos and spontaneity of MIT.
+      - name: Heidi Zhang
+        year: 2027
+        image_name: logo.jpg
+        description: >
+            Hi, I’m Heidi! I’m a freshman thinking about majoring in some combination of math and computer science, but still very undecided.  In high school, I competed and captained for Belmont High School and my favorite event was Rocks and Minerals (<333). I also really enjoyed Codebusters, Write It Do It/CAD It, and Dynamic Planet. Outside of SciOly, I’m also involved with the Ohms (an a cappella group!), HMMT, and Asian Dance Team! In my free time, you can find me doing crosswords, imagining working out at the gym, and fully taking advantage of P/NR.
+      - name: Jonah Xu
+        year: 2027
+        image_name: jonah_xu.jpg
+        description: >
+            Hello! I’m Jonah, a freshman planning to major in Biology (7). While I competed for 7 years, most recently for duPont Manual HS, my favorite events were Anatomy, Cell Biology, Designer Genes, and Protein Modeling (come back ;-;). I’m excited to give back to the Scioly community by helping plan and craft questions for this competition! On campus, I am involved with Science Bowl, MIT ESP, and ACF. In my free time, you can find me folding (or half-folding) creations at Origami Club, frying eggs, or exploring the greenery around Boston!
+
 - internal:
   name: Administration Logistics
   members:
@@ -101,22 +107,17 @@
         year: 2024
         image_name: ian_chen.jpg
         description: >
-            Hi, I'm Ian, and I'm currently a junior studying course 3 and 6-14. I competed in Science Olympiad for all 4 years in high school in Northern California and joined the MIT Science Olympiad PC freshman year. My primary events as a competitor were Chemistry Lab, Forensics, and Materials Science. Outside of class, I enjoy playing poker, pool, and basketball.
-      - name: Amy Wang
-        year: 2026
-        image_name: amy_wang.jpg
-        description: >
-            Hi! I'm Amy, a freshman studying Brain and Cognitive Sciences (Course 9). I'm from NJ, where I competed for Hillsborough High School in my favorite events such as Anatomy and Physiology, Disease Detectives, Codebusters, and Sounds of Music. In addition to Science Olympiad, I am a member of the a cappella group Syncopasian and Asian Dance Team, and I enjoy listening to music, reading, and stargazing.
-      - name: Ria Verma
-        year: 2026
-        image_name: ria_verma.jpg
-        description: >
-            Hi! I'm Ria, a freshman majoring in 6-7 (Computer Science and Molecular Biology). I competed with WW-P HSN Science Olympiad in high school in primarily biology events, and my favorite events were Disease Detectives, Protein Modeling, and Anatomy and Physiology. I'm also a part of MURJ and the MIT Biotech Group, and like to lift or read in my free time!
+            Hi, I'm Ian, and I'm currently a senior studying course 3 and 6-14. I competed in Science Olympiad for all 4 years in high school in Northern California and joined the MIT Science Olympiad PC freshman year. My primary events as a competitor were Chemistry Lab, Forensics, and Materials Science. Outside of class, I enjoy playing poker, pool, and basketball.
       - name: Olivia Chen
         year: 2026
         image_name: olivia_chen.jpg
         description: >
             Hi! I'm Olivia and I'm from New York City. I competed with Stuyvesant High School for three years; my favorite events were Geologic mapping <3 and Rocks & Minerals. Outside of classes, I enjoy archery, trying out new cafes, and videography.
+      - name: Annabel Tiong
+        year: 2027
+        image_name: annabel_tiong.jpg
+        description: >
+            Hi! I'm Annabel and I'm a freshman from SoCal interested in studying Bioengineering (Course 20). I've competed in Science Olympiad for 4 years in both Div B (Sierra Vista) and Div C (Northwood), where I served as team captain. My favorite events are Cell Biology, Green Gen, and A&P. (Although an honorable mention goes to Detector Building.) I'm also a part of ADT, HackMed, and Biotech Group, and I like to cafe-hop, listen to new music, and solve crosswords.
 - finance:
   name: Treasurer
   members:
@@ -124,12 +125,17 @@
         year: 2026
         image_name: renee_chang.jpg
         description: >
-            Hi besties! I'm Renee, a freshman planning on majoring in Biology (course 7). I competed in Division C Science Olympiad in Los Angeles for all 4 years of high school. My favorite events were Designer Genes, Cell Biology, and Anatomy and Physiology. Currently, I am currently working on a UROP studying cancer metabolism. Outside of school, I love to do digital art, bake, and play tennis!
+            Hi besties! I'm Renee, a sophomore planning on majoring in Biology (course 7). I competed in Division C Science Olympiad in Los Angeles for all 4 years of high school. My favorite events were Designer Genes, Cell Biology, and Anatomy and Physiology. Currently, I am currently working on a UROP studying cancer metabolism. Outside of school, I love to do digital art, bake, and play tennis!
       - name: Maggie Lin
         year: 2026
         image_name: maggie_lin.jpg
         description: >
-            Hello! I'm Maggie and I'm a freshman at MIT planning on majoring in Mathematics with Computer Science. I'm from Columbia, MO, where I competed for Rock Bridge High School. My favorite events were Sounds of Music, Dynamic Planet, and Write it Do it! Aside from SciOly, I'm also involved in Club Tennis and Alpha Chi Omega. In my free time, I enjoy baking, painting, picnics, and long hikes!
+            I'm Maggie, a sophomore studying Mathematics with Computer Science. I'm from Columbia, MO, where I competed for Rock Bridge High School. My favorite events were Sounds of Music, Dynamic Planet, and Write it Do it. Aside from SciOly, I'm also involved in Club Tennis, HackMIT, and Alpha Chi Omega. In my free time, I enjoy reading, picnics, and walks!
+      - name: Andrew Van Dusen
+        year: 2027
+        image_name: andrew_vandusen.jpg
+        description: >
+            Hey! I’m Andrew, a freshman from New Jersey studying course 20 (biological engineering). I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and Science Bowl. In my free time, I enjoy hiking, listening to music, and watching baseball.
 - web:
   name: Online Logistics
   members:
@@ -137,9 +143,19 @@
         year: 2023
         image_name: nten_nyiam.jpg
         description: >
-            Hi! I'm Nten, a senior studying Computer Science and Molecular Biology (Course 6-7) and Mathematics (Course 18). I'm from New York, NY where I competed for Stuyvesant High School. My favorite events are Disease Detectives and Anatomy and Physiology. I am currently working on a UROP where I study spatial transcriptomics. In my free time, I like puzzle hunts, rock climbing, and playing board games.
+            Hi! I'm Nten, an MEng studying Computer Science and Molecular Biology (Course 6-7) and Mathematics (Course 18). I'm from New York, NY where I competed for Stuyvesant High School. My favorite events are Disease Detectives and Anatomy and Physiology. I am currently working on a UROP where I study spatial transcriptomics. In my free time, I like puzzle hunts, rock climbing, and playing board games.
       - name: Jansen Wong
         year: 2026
         image_name: jansen_wong.jpg
         description: >
-            I'm Jansen, a freshman studying Computer Science (6-3). I'm from Long Island, New York, where I competed for the Great Neck South High School Science Olympiad Team (Div C). My favorite events were definitely Trajectory, Detector Building, and Disease Detectives. Besides working on my UROP at MIT, I am also involved with HackMIT and Next Sing. In my free time, I like to bike and spend time with my friends.
+            I'm Jansen, a sophomore studying Computer Science (6-3). I'm from Long Island, New York, where I competed for the Great Neck South High School Science Olympiad Team (Div C). My favorite events were definitely Trajectory, Detector Building, and Disease Detectives. Besides working on my UROP at MIT, I am also involved with HackMIT and Next Sing. In my free time, I like to bike and spend time with my friends.
+      - name: Hailey Pan
+        year: 2027
+        image_name: hailey_pan.jpg
+        description: >
+            I'm Hailey, a freshman studying Computer Science (Course 6-3). I competed in Division C Science Olympiad in Fairfax, VA for 3 years of high school. My favorite events were Codebusters and Detector Building. Outside of SciOly, I'm currently working on a Computational Biology UROP as well as a mobile app startup. In my free time, I enjoy exploring nature, reading, playing tennis, and listening to Taylor Swift.
+      - name: Annie Wang
+        year: 2027
+        image_name: logo.jpg
+        description: >
+            Hey! I'm Annie, a freshman interested in math & cs. I competed and captained for Acton Boxborough SciOly for 4 years, where my favorite event was forensics (but I also love codebusters). Outside SciOly, I'm in HackMIT and Poker Club Committee.

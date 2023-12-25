@@ -4,7 +4,7 @@ layout: default
 keywords: "tournament day info"
 ---
 
-_Last updated: October 31, 2023_
+_Last updated: December 25, 2023_
 
 ## Teams
 
@@ -12,11 +12,11 @@ The team list can be found [here](docs/2024_teams.pdf).
 
 ## Schedule
 
-Please check back later for more information on the full event schedule for the tournament.
+A full event schedule for the tournament can be found [here](docs/2024_events_schedule.pdf).
 
 ## Campus Map
 
-A labeled campus map for the tournament can be found [here](docs/2023_map.pdf).
+Please check back later for a labeled campus map for the tournament.
 
 ## Registration
 
@@ -24,9 +24,9 @@ Please check back later for more information regarding registration.
 
 ## Campus Access
 
-All coaches must sign up for Tim Tickets (links have been sent out via email) to gain access to campus on tournament day. Please do this at least one day before you arrive on competition day. Note that due to updated MIT policies, Tim Tickets are now only intended for use by adults (i.e. coaches and parent chaperones). When entering MIT buildings, competitors should be with coaches/parents with Tim Tickets or ask nearby MIT Science Olympiad staff/volunteers.
+All coaches must sign up for Tim Tickets to gain access to campus on tournament day. Please do this at least one day before you arrive on competition day. Note that due to updated MIT policies, Tim Tickets are only intended for use by adults (i.e. coaches and parent chaperones). When entering MIT buildings, competitors should be with coaches/parents with Tim Tickets or ask nearby MIT Science Olympiad staff/volunteers.
 
-IMPORTANT: Please also note that any member of your team (competitors, coach, parent, etc.) may not access homerooms before 6 AM on Saturday, January 21st, and any event rooms before 8 AM on Saturday, January 21st (unless impounding in which case you may not enter before 7 AM). If you do so, your team will be disqualified from the event in question. This is due to fairness of competition and the specifics of our room reservations.
+IMPORTANT: Please also note that any member of your team (competitors, coach, parent, etc.) may not access homerooms before 6 AM on Saturday, January 20th, and any event rooms before 8:30 AM on Saturday, January 20th (unless impounding in which case you may not enter before 7:15 AM). If you do so, your team will be disqualified from the event in question. This is due to fairness of competition and the specifics of our room reservations.
 
 ### Instructions for Tim Tickets Sign Up
 

@@ -10,6 +10,7 @@ var outerHeaders = {
         "Awards Ceremony",
     ],
     Logistics: ["Required Materials", "Travel", "Health and Safety"],
+    Sponsors: [],
     Updates: [],
     "About Us": ["The Team", "Contact Us", "Archives"],
 };
@@ -28,6 +29,7 @@ var links = {
     Registration: "registration",
     "The Team": "the-team",
     "Tournament Policies": "tournament-policies",
+    Sponsors: "sponsors",
     Updates: "updates",
     "Privacy Policy": "privacy",
     Travel: "travel",

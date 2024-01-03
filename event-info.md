@@ -10,7 +10,7 @@ _Last updated: December 25, 2023_
 
 1. Figure That - [Rules](docs/figure_that_rules.pdf)
 2. Pokemon Pset - [Rules](docs/pokemon_pset_rules.pdf)
-3. TBD
+3. Tournament Tycoon - [Rules](docs/tournament_tycoon_rules.pdf)
 
 ## Flight Venue
 

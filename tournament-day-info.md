@@ -16,7 +16,7 @@ A full event schedule for the tournament can be found [here](docs/2024_events_sc
 
 ## Campus Map
 
-The campus map and suggested paths can be found [here](docs/2023_map.pdf).
+The campus map and suggested paths can be found [here](docs/2024_map.pdf).
 
 ## Registration
 

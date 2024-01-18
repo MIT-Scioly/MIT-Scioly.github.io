@@ -16,11 +16,13 @@ A full event schedule for the tournament can be found [here](docs/2024_events_sc
 
 ## Campus Map
 
-Please check back later for a labeled campus map for the tournament.
+The campus map and suggested paths can be found [here](docs/2023_map.pdf).
 
 ## Registration
 
-Please check back later for more information regarding registration.
+Registration is mandatory for all teams — one coach from each school must come to registration.
+
+You can attend registration on either Friday, January 19th from 5-7 PM or on Saturday, January 20th from 6:30-8 AM. You must attend registration during one of these times, but there is no need to go to both times. Registration will be held in the tournament HQ: 10-105, known as the Bush Room. At registration, you will receive wristbands and other documents such as maps and schedules.
 
 ## Campus Access
 

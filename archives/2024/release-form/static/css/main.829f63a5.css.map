@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.829f63a5.css","mappings":"AAAA,UAKI,kCAAmC,CACnC,iCAAkC,CAJlC,kBAAmB,CAEnB,gBAAmB,CADnB,QAIJ","sources":["index.css"],"sourcesContent":["html,\nbody {\n    background: #364f68;\n    margin: 0;\n    font-family: \"Lato\";\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n}\n"],"names":[],"sourceRoot":""}

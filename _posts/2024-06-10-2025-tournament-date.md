@@ -3,11 +3,11 @@ layout: post
 title: "2025 Tournament Date"
 ---
 
-We are pleased to announce that the 11th annual MIT Science Olympiad Invitational Tournament will take place in-person on **Saturday, January 25th, 2025** at the MIT campus. We will be running all 23 Division C national events, including lab and engineering events. All events will be written, reviewed, and run by Science Olympiad alumni currently at MIT, national tournament event supervisors, and/or former Science Olympiad competitors from the highest level of competition. This means that coaches will not be required to write tests or otherwise volunteer at the invitational, leaving them free to focus solely on coaching their own teams.
+Check back in later for more details about the tournament date and registration!
 
-More details about registration will be released soon!
+<!--We are pleased to announce that the 11th annual MIT Science Olympiad Invitational Tournament will take place in-person on **Saturday, January 25th, 2025** at the MIT campus. We will be running all 23 Division C national events, including lab and engineering events. All events will be written, reviewed, and run by Science Olympiad alumni currently at MIT, national tournament event supervisors, and/or former Science Olympiad competitors from the highest level of competition. This means that coaches will not be required to write tests or otherwise volunteer at the invitational, leaving them free to focus solely on coaching their own teams.
 
-<!--Registration will open on **Friday, September 15th, 2023 at 6 PM ET** and will close the following **Monday, September 25th at 6 PM ET**. More details about registration will be available on our website shortly. Teams will be notified of their acceptance on Monday, October 2nd, and a public list of participating teams will be announced on Monday, October 9th.
+Registration will open on **Friday, September 15th, 2023 at 6 PM ET** and will close the following **Monday, September 25th at 6 PM ET**. More details about registration will be available on our website shortly. Teams will be notified of their acceptance on Monday, October 2nd, and a public list of participating teams will be announced on Monday, October 9th.
 
 We will guarantee acceptance of schools that meet either of the following qualifications:
 

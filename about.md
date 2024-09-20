@@ -4,7 +4,7 @@ layout: default
 keywords: "about"
 ---
 
-The tenth annual MIT Science Olympiad Invitational Tournament will be held on Saturday, January 20th, 2024 on the campus of the Massachusetts Institute of Technology in Cambridge, Massachusetts. As a tournament we pride ourselves for being as accessible to teams competing for the first time as teams competing for the hundredth time while delivering an experience you can only get at MIT. A few features of our tournament that we think you’ll like:
+The eleventh annual MIT Science Olympiad Invitational Tournament will be held on Saturday, January 25th, 2025 on the campus of the Massachusetts Institute of Technology in Cambridge, Massachusetts. As a tournament we pride ourselves for being as accessible to teams competing for the first time as teams competing for the hundredth time while delivering an experience you can only get at MIT. A few features of our tournament that we think you’ll like:
 
 -   **A full competition experience.** We will run all 23 Division C national events, including lab and engineering events! Each school will have its own home room for the day, and our tournament will conclude with an award ceremony, complete with medals and trophies for top individuals and teams.
 

@@ -1,29 +1,19 @@
 - tds:
-  name: 2023 Tournament Directors
+  name: 2025 Tournament Directors
   members:
-      - name: Melody Yu
-        year: 2024
-        image_name: melody_yu.jpg
-        description: >
-            I'm Melody, a senior studying Biology (Course 7). I enjoyed competing in Science Olympiad in Southern California, and a few of my favorite events were Designer Genes, Cell Biology, and Invasive Species! I've loved being able to give back to Science Olympiad, which made many meaningful memories for me. I'm also involved with the Asian Dance Team, Global Health Alliance, BrainTrust, and research. In my free time, I enjoy dance and playing with my cats.
       - name: Amber Luo
         year: 2026
         image_name: amber_luo.jpg
         description: >
             Hi! I’m Amber, a sophomore majoring in Computer Science and Math (6-3 + 18), with specific interests in computational biology. I was Captain of Ward Melville Science Olympiad and competed in Science Olympiad for 4 years, where my favorite events were Anatomy & Physiology and Protein Modeling. I’ve also supervised A & P for BirdSO and SOLVI. In addition to MIT Scioly, I’m also a member of the MIT Asian Dance Team and Momentum AI, and am conducting a UROP on RNA splicing in the Burge Lab. In my free time, I enjoy binge-watching TV shows and playing Super Smash Bros.
+      - name: Derek Chen
+        year: 2026
+        image_name: derek_chen.jpg
+        description: >
+            Hello! I'm Derek Chen, a junior majoring in computer science and biology. I competed for four years for Belmont High School in MA. Some of my favorite events included Fossils (<3), Circuit Lab, Cell Biology, and Remote Sensing. Besides MIT Science Olympiad, I am also involved with HMMT and Traders@MIT. I'm really excited to be co-directing MIT SciOly for this year!
 - events:
   name: Events
   members:
-      - name: Rebecca Zhang
-        year: 2024
-        image_name: rebecca_zhang.jpg
-        description: >
-            I’m Rebecca, Class of 2024, and I’m studying biology (Course 7). My favorite SciOly event during high school was Disease Detectives. I competed in both Division B (Gelinas) and Division C (Ward Melville) and I got involved in MIT Science Olympiad because I want to give back to the organization that means so much to me and I loved my experience at the MIT Science Olympiad Invitationals. I am also involved with HMMT, BoSTEM, and ARCTAN.
-      - name: Ananthan Sadagopan
-        year: 2024
-        image_name: anan_sadagopan.jpg
-        description: >
-            Hey! I'm Anan, a senior studying course 5-7 (chemistry and biology). I'm from Massachusetts and competed for Westborough High School; my favorite events were Chem Lab and Materials Science. Outside of SciOly, I'm part of Leadership Training Institute (LTI) and the Chemistry Undergraduate Association. I enjoy lifting, sailing, and playing tennis in my free time.
       - name: Elisa Xia
         year: 2026
         image_name: elisa_xia.jpg
@@ -39,21 +29,6 @@
         image_name: tyler_matsuzaki.jpg
         description: >
             Hi! I'm Tyler, a sophomore from Hawaii studying biological engineering (Course 20). Before MIT, I competed for Iolani where my favorite events were Astronomy, Cell Biology, and Protein Modeling. I'm also in Pi Lambda Phi and play tuba for MIT Wind Ensemble and the Video Game Orchestra. I also enjoy picking up new hobbies - last semester, I became SCUBA certified and learned how to solve a Rubix's Cube. In my spare time, I usually chase Derek Chen around to get help on homework.
-      - name: Arthur Liang
-        year: 2026
-        image_name: arthur_liang.jpg
-        description: >
-            I'm Arthur, a 2026 studying CS+Neuro (Course 6-9). In high school, I competed for Stuyvesant High School and my favorite events are A&P, Disease Detectives, and Water Quality. At MIT, I UROP with the Synthetic Neurobiology Group and am involved in MedLinks, Sport Taekwondo, and the Korean Cultural Association. In my free time, I enjoy bingeing K-dramas, hitting shuttlecocks, and drinking boba.
-      - name: Derek Chen
-        year: 2026
-        image_name: derek_chen.jpg
-        description: >
-            Hello! I'm Derek Chen, a sophomore majoring in computer science and biology. I competed for four years for Belmont High School in MA in many events. Some of my favorite events included Fossils (<3), Circuit Lab, Cell Biology, and Remote Sensing. Besides MIT Science Olympiad, I am also involved with HMMT, Traders@MIT, and dance.
-      - name: Inimai Subramanian
-        year: 2026
-        image_name: inimai_subramanian.jpg
-        description: >
-            Hi! I'm Inimai, a sophomore majoring in 6-2 (EECS) and minoring in 12 (Earth & Planetary Science). I competed in Science Olympiad since 7th grade and was the senior captain of Mission San Jose High School's teams. I specialize in Earth Science events; some of my favorites include Rocks & Minerals, Dynamic Planet, and Astronomy. Outside of SciOly, I am involved in the Bhangra dance team and Women in EECS. In my free time, I enjoy dancing, reading, and finding new specimens for my rock collection.
       - name: Basil Liu
         year: 2027
         image_name: basil_liu.jpg

@@ -46,7 +46,7 @@
         year: 2027
         image_name: heidi_zhang.jpg
         description: >
-            Hi, I’m Heidi! I’m a sophomore in some combination of 6-4, 12, and 18. In high school, I competed and captained for Belmont High School -- my favorite event was Rocks and Minerals (<333). I also really enjoyed Codebusters, Write It Do It/CAD It, and Dynamic Planet. Outside of SciOly, I’m floor chair for Conner 3 and I'm also involved with the Ohms (an a cappella group!) In my free time, you can find me doing the Squaredle, painting, and lamenting the loss of P/NR.
+            heyheyhey, I’m Heidi! I’m a sophomore in some combination of 6-4, 12, and 18. In high school, I competed and captained for Belmont High School -- my favorite event was Rocks and Minerals (<333). I also really enjoyed Codebusters, Write It Do It/CAD It, and Dynamic Planet. Outside of SciOly, I’m floor chair for Conner 3 and I'm also involved with the Ohms (an a cappella group!) In my free time, you can find me doing the Squaredle, painting, and lamenting the loss of P/NR.
       - name: Nik Sandu
         year: 2026
         image_name: nik_sandu.jpg
@@ -107,6 +107,11 @@
         image_name: andrew_vandusen.jpg
         description: >
             Hey! I’m Andrew, a freshman from New Jersey studying course 20 (biological engineering). I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and Science Bowl. In my free time, I enjoy hiking, listening to music, and watching baseball.
+      - name: Smruti Patil
+        year: 2027
+        image_name: smruti_patil.jpg
+        description: >
+            Hi everyone! My name's Smruti and I'm planning on studying something in Course 6 (Computer Science), but still too early to tell. I competed for Enloe Science Olympiad in NC all 4 years and am so excited to be on planning committee! My favorite events are Water Quality, Codebusters, and Experimental Design. Outside of SciOly, I'm in involved in the orchestra, MIT Tech Consulting, and MIT Entrepreneurship Club. In my free time, I enjoy dancing, watching TV, reading, and playing volleyball.
 # - web:
 #  name: Online Logistics
 #  members:

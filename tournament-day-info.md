@@ -4,11 +4,13 @@ layout: default
 keywords: "tournament day info"
 ---
 
-_Last updated: December 25, 2023_
+_Last updated: October 16, 2024_
 
 ## Teams
 
-The team list can be found [here](docs/2024_teams.pdf).
+The team list can be found [here](docs/2025_teams.pdf).
+
+<!--
 
 ## Schedule
 
@@ -53,3 +55,5 @@ There is no public printing available on MIT campus. Teams should print out all 
 We will not be providing food on-site for competitors on tournament day. Breakfast and lunch will be available for coaches at our HQ, room 10-105.
 
 For competitors, many restaurants are open around campus. Locations near Kresge Auditorium (W16) include dining services within the Stratton Student Center (W20) and various restaurants on Massachusetts Avenue such as Roxy’s, Saloniki Greek, Oath Pizza, and Flour. More restaurants are found on the East side of campus in and around Kendall Square. These locations include Cava, Life Alive, Vester, Chipotle, Dumpling Daughter, and many more.
+
+-->

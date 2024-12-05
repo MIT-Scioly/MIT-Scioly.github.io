@@ -13,7 +13,7 @@ var outerHeaders = {
     Logistics: ["Required Materials", "Travel", "Health and Safety"],
     Sponsors: [],
     Updates: [],
-    "About Us": ["The Team", "Contact Us", "Archives"],
+    "About Us": ["The Team", "Event Supervisors", "Contact Us", "Archives"],
 };
 
 const base = "./";
@@ -25,6 +25,7 @@ var links = {
     "Results": "results",
     "Contact Us": "contact-us",
     "Event Info": "event-info",
+    "Event Supervisors": "event-supervisors",
     Events: "event-info",
     "Health and Safety": "health-and-safety",
     "Tournament Day Info": "tournament-day-info",

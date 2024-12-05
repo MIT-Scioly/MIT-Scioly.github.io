@@ -4,7 +4,7 @@ layout: default
 keywords: "event_supervisors"
 ---
 
-Our tournament would not be possible without the help of our volunteer Event Supervisors! Each Event Supervisor is listed below with their event and affiliation.
+Our tournament would not be possible without the help of our volunteer Event Supervisors! Each Event Supervisor is credited below with their university/affiliation.
 
 **Air Trajectory**
 

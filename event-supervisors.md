@@ -1,7 +1,7 @@
 ---
 title: Event Supervisors
 layout: default
-keywords: "event_supervisors"
+keywords: "event-supervisors"
 ---
 
 Our tournament would not be possible without the help of our volunteer Event Supervisors! Each Event Supervisor is credited below with their university/affiliation.
@@ -78,7 +78,7 @@ Our tournament would not be possible without the help of our volunteer Event Sup
 - Arjun Patel - *Boston University*
 - Evan Lan - *University of Pittsburgh*
 
-**Geologic Mapping*
+**Geologic Mapping**
 
 - Aidan York - *University of Pittsburgh*
 - Araneesh Pratap

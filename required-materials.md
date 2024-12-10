@@ -3,13 +3,14 @@ title: Required Materials
 layout: default
 keywords: "required materials"
 ---
-_Last updated: December 7, 2024_
+_Last updated: December 9, 2024_
 
 ## Checklist
 
 ### Coaches
 
 - Fill out the [Team Info](https://forms.gle/aSSYiCS2rEWrQ7Qi6) Form by **1/6/25**
+- If applicable, fill out the [Bus Parking Form](https://forms.gle/xZKPjYAveHDi2C83A) by **12/13/24** (one form per school).
 - Sign up for self-scheduled events (open on **3 PM EST on 1/6/25** via Isotope)
 - Download the [Atlas App](https://all.atlas-apps.mit.edu/xSVKaeJ1TvaTqHRw7) (Tim Ticket) before tournament
 - Sign up for [MIT Alert](https://www.smart911.com/smart911/ref/reg.action?pa=mitalert) before tournament
@@ -17,7 +18,7 @@ _Last updated: December 7, 2024_
 ### Competitors
 
 - Fill out the competitor release form by 1/6/25 (will be released soon)
-- Check out [Event-Specific Information](https://docs.google.com/document/d/1buU0R1WqisXhJCWdUqsbYQhLvNH5faRsusdN44o-Lyw/edit#heading=h.r42yxrfmvqcs)
+- Check out [Event-Specific Information](https://docs.google.com/document/d/1tH8LA9tisBfvWvJZKc0wgOFSC53xOD5X_xR1sqoYh0E/edit?tab=t.0#heading=h.r42yxrfmvqcs)
 - Sign up for [MIT Alert](https://www.smart911.com/smart911/ref/reg.action?pa=mitalert) before tournament
 
 ## Release Forms

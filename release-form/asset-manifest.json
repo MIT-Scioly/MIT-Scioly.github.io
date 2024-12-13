@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/release-form/static/css/main.829f63a5.css",
-    "main.js": "/release-form/static/js/main.5cdb78c5.js",
+    "main.js": "/release-form/static/js/main.7c0f104c.js",
     "static/js/787.7c29bda4.chunk.js": "/release-form/static/js/787.7c29bda4.chunk.js",
     "static/media/scioly_logo.png": "/release-form/static/media/scioly_logo.b579bca2d8bb33265abd.png",
     "index.html": "/release-form/index.html",
     "main.829f63a5.css.map": "/release-form/static/css/main.829f63a5.css.map",
-    "main.5cdb78c5.js.map": "/release-form/static/js/main.5cdb78c5.js.map",
+    "main.7c0f104c.js.map": "/release-form/static/js/main.7c0f104c.js.map",
     "787.7c29bda4.chunk.js.map": "/release-form/static/js/787.7c29bda4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.829f63a5.css",
-    "static/js/main.5cdb78c5.js"
+    "static/js/main.7c0f104c.js"
   ]
 }

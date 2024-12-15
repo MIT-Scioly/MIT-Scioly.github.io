@@ -3,12 +3,19 @@ title: Tournament Day Info
 layout: default
 keywords: "tournament day info"
 ---
-
-_Last updated: October 16, 2024_
+_Last updated: December 14, 2024_
 
 ## Teams
 
-The team list can be found [here](docs/2025_teams.pdf).
+The updated team list with team numbers can be found [here](docs/2025_teams.pdf). Homerooms will be added closer to the tournament date.
+
+## Schedule
+
+A full event schedule for the tournament can be found [here](docs/2025_events_schedule.pdf). Event rooms will be added closer to the tournament date.
+
+## Campus Map
+
+A campus map with suggested paths can be found [here](docs/2025_map.png).
 
 <!--
 

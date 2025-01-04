@@ -29,8 +29,10 @@ The location of Helicopter is in W34-201, Johnson Indoor Track (shown below). Th
 
 The three Trial Events for our 2025 tournament are Fermi Countdown, Pokémon Pset, and Picture This. Rules will be updated shortly.
 
+By popular demand, MIT Scioly is bringing back Fermi Questions as a trial - with a twist! In addition to the usual written test taking place during event blocks, top finishers will be invited before the awards ceremony to compete in a live bracket-style Countdown round, where teams race head-to-head to score points as quickly as possible. Stay tuned for detailed rules to be released in the coming days!
+
 | Event           | Rules                                                                                                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fermi Countdown | TBA                                                                                                                                                           |
 | Pokémon Pset   | [Link](https://drive.google.com/file/d/117AIl28toFFcWWeYRC3T-OUo6WO3y6H7/view?usp=sharing)<br />Note: Major change this year is we are disallowing cheat sheets. |
-| Picture This    | TBA                                                                                                                                                           |
+| Picture This    | [Link](https://drive.google.com/file/d/1j9z1twNv9ipU26IkzXCgKsDjn8ETp99M/view)|

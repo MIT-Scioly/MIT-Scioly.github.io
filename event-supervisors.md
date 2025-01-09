@@ -68,6 +68,11 @@ Our tournament would not be possible without the help of our volunteer Event Sup
 - Manas Choure - *University of Pennsylvania*
 - Satvik Kumar - *California Institute of Technology*
 
+**Fermi Countdown (Trial Event)**
+
+- Edward Xiong - *Massachusetts Institute of Technology*
+- Rich Wang - *Massachusetts Institute of Technology*
+
 **Forensics**
 
 - Eric Wu - *University of California, Berkeley*
@@ -103,6 +108,14 @@ Our tournament would not be possible without the help of our volunteer Event Sup
 **Optics**
 
 - Michael Voigt - *Massachusetts Institute of Technology*
+
+**Picture This (Trial Event)**
+
+- MIT Science Olympiad Planning Committee - *Massachusetts Institute of Technology*
+
+**Pokemon PSet (Trial Event)**
+
+- Amber Luo - *Massachusetts Institute of Technology*
 
 **Robot Tour**
 

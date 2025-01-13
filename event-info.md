@@ -35,4 +35,4 @@ By popular demand, MIT Scioly is bringing back Fermi Questions as a trial - with
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fermi Countdown | [Link](https://drive.google.com/file/d/1sUuSIl_eE2HbjcWVEponJ4TLDQMdTppQ/view)                                                                                |
 | Pokémon Pset   | [Link](https://drive.google.com/file/d/117AIl28toFFcWWeYRC3T-OUo6WO3y6H7/view?usp=sharing)<br />Note: Major change this year is we are disallowing cheat sheets. |
-| Picture This    | [Link](https://drive.google.com/file/d/1j9z1twNv9ipU26IkzXCgKsDjn8ETp99M/view)|
+| Picture This    | [Link](https://drive.google.com/file/d/1Q2nKKKXlnB3gKfZrr-8GhFqJEdwhvshJ/view)|

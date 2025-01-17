@@ -15,15 +15,19 @@ Updates on other events may be added in the future.
 
 For the 2025 Invitational, we are requiring teams to bring necessary lab equipment outlined in the 2025 Division C Rules Manual and appropriate PPE for all Lab events.
 
-### Materials Science
-
-For the 2025 Invitational, all necessary equipment will be provided by Event Supervisors. Teams do not have to bring lab equipment for this event.
-
 ### Helicopter
 
 The location of Helicopter is in W34-201, Johnson Indoor Track (shown below). The ceiling height is approximately 21 ft beneath ceiling scaffolding.
 
-![Panoramic image of Johnson Track](assets\images\johnson_track_pano.png)
+### Materials Science
+
+For the 2025 Invitational, all necessary equipment will be provided by Event Supervisors. Teams do not have to bring lab equipment for this event.
+
+Because MIT Invitational is following National-level rules, the puck thickness should be a maximum of 0.5 cm.
+
+### Tower
+
+For the 2025 Invitational, the Event Supervisors plan to use the same Test Apparatus (as defined in rule 5.) from prior years (see photo 1, which shows the setup for Boomilever) with modifications to the Test Base layout to meet current specifications (in rules 5.a.i-v.). Sand will be used for the free-flowing material (as specified in rule 5.c.). The event will be in a different room, 26-100 (see photo2), from prior years. All participants must bring their own type "B" eye protection. While the Event Supervisors will make every effort to run the event as planned, competitors should be prepared for any adjustments from prior years' setup that may be necessary to allow the event to run; these may include but are not limited to changes to the Test Apparatus, changes to the free-flowing material, and changes to how sand is loaded.
 
 ## Trial Events
 

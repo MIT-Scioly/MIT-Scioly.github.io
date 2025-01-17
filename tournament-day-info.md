@@ -11,7 +11,7 @@ The updated team list with team numbers can be found [here](docs/2025_teams.pdf)
 
 ## Schedule
 
-A full event schedule for the tournament can be found [here](docs/2025_events_schedule.pdf). Event rooms will be added closer to the tournament date.
+A full event schedule for the tournament can be found [here](docs/2025_Events_Schedule.pdf). Event rooms will be added closer to the tournament date.
 
 ## Campus Map
 

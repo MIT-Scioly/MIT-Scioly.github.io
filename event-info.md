@@ -3,7 +3,7 @@ title: Event Information
 layout: default
 keywords: "event-info"
 ---
-_Last updated: December 27, 2024_
+_Last updated: January 17, 2024_
 
 ## Event-Specific Information
 

@@ -37,7 +37,7 @@ For the 2025 Invitational, the Event Supervisors plan to use the same Test Appar
 
 The three Trial Events for our 2025 tournament are Fermi Countdown, Pokémon Pset, and Picture This. Rules will be updated shortly.
 
-By popular demand, MIT Scioly is bringing back Fermi Questions as a trial - with a twist! In addition to the usual written test taking place during event blocks, top finishers will be invited before the awards ceremony to compete in a live bracket-style Countdown round, where teams race head-to-head to score points as quickly as possible. Stay tuned for detailed rules to be released in the coming days!
+By popular demand, MIT Scioly is bringing back Fermi Questions as a trial - with a twist! In addition to the usual written test taking place during event blocks, top finishers will be invited before the awards ceremony to compete in a live bracket-style Countdown round, where teams race head-to-head to score points as quickly as possible.
 
 | Event           | Rules                                                                                                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

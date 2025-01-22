@@ -15,9 +15,9 @@ Updates on other events may be added in the future.
 
 For the 2025 Invitational, we are requiring teams to bring necessary lab equipment outlined in the 2025 Division C Rules Manual and appropriate PPE for all Lab events.
 
-### Helicopter
+### Helicopter and Air Trajectory
 
-The location of Helicopter is in W34-201, Johnson Indoor Track (shown below). The ceiling height is approximately 21 ft beneath ceiling scaffolding.
+The location of Helicopter and Air Trajectory is in W34-201, Johnson Indoor Track (shown below). The ceiling height is approximately 21 ft beneath ceiling scaffolding.
 
 ![Panoramic image of Johnson Track](assets\images\Johnson_track_images.png)
 
@@ -41,6 +41,6 @@ By popular demand, MIT Scioly is bringing back Fermi Questions as a trial - with
 
 | Event           | Rules                                                                                                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fermi Countdown | [Link](https://drive.google.com/file/d/1sUuSIl_eE2HbjcWVEponJ4TLDQMdTppQ/view)                                                                                |
+| Fermi Countdown | [Link](https://drive.google.com/file/d/1sUuSIl_eE2HbjcWVEponJ4TLDQMdTppQ/view)                                                                                   |
 | Pokémon Pset   | [Link](https://drive.google.com/file/d/117AIl28toFFcWWeYRC3T-OUo6WO3y6H7/view?usp=sharing)<br />Note: Major change this year is we are disallowing cheat sheets. |
-| Picture This    | [Link](https://drive.google.com/file/d/1Q2nKKKXlnB3gKfZrr-8GhFqJEdwhvshJ/view)|
+| Picture This    | [Link](https://drive.google.com/file/d/1Q2nKKKXlnB3gKfZrr-8GhFqJEdwhvshJ/view)                                                                                   |

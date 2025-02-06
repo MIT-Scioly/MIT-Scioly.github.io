@@ -4,6 +4,6 @@ layout: default
 keywords: "awards ceremony"
 ---
 
-_Last updated: July 21, 2023_
+_Last updated: February 6, 2025_
 
-This page will continue to be updated as we finalize more details. Please check back later for more information regarding the 2024 awards ceremony.
+Go watch our awards ceremony for the 2025 tournament [here](https://www.youtube.com/watch?v=R6PdbhHaCu4)!.

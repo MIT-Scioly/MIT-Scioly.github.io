@@ -12,6 +12,6 @@ The eleventh annual MIT Science Olympiad Invitational Tournament will be held on
 
 -   **Unparalleled quality.** All of our tests are written by former Science Olympians who have competed at the highest levels. In addition, each test is vetted extensively by members of our Planning Committee to ensure that students only receive the best.
 
--   **Worry-free tournament.** With ten years of the MIT Science Olympiad Invitational already in the books and years of collective national-level experience under our belts, we know how invitationals work. Sit back, relax, and be treated to a tournament that neither wind, rain, nor fire alarms can stop.
+-   **Worry-free tournament.** With ten years of the MIT Science Olympiad Invitational already in the books and years of collective national-level experience under our belts, we know how invitationals work. Sit back, relax, and be treated to a tournament that neither wind, rain, nor snow can stop.
 
 -   **Nationals schedule.** Tired of navigating the changes in event conflicts from tournament to tournament? Our tournament will mirror the event conflicts of the national tournament as closely as possible, allowing teams to put their best foot forward on competition day.

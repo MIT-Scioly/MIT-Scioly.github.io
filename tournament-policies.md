@@ -4,7 +4,7 @@ layout: default
 keywords: "tournament policies"
 ---
 
-_Last updated: December 30, 2022_
+_Last updated: February 23, 2025_
 
 ## Academic Integrity
 
@@ -12,12 +12,12 @@ During events, you are not allowed to communicate with anyone other than your pa
 
 ## General Rules
 
-Teams must abide by the Science Olympiad code of ethics and general rules specified here. In particular:
+Teams must abide by the Science Olympiad code of ethics and National Tournament rules specified here. In particular:
 
 -   If a student does not follow accepted safety procedures, he/she will be penalized or disqualified.
 -   All pre-built devices presented for judging must be constructed, impounded, and operated by one or more of the 15 current team members unless stated otherwise in the rules.
 -   If a device has been removed from the event area, appeals related to that device will not be considered. See Arbitration below.
--   Teams should observe the 7 seniors per team rule.
+-   Teams should observe the 7 seniors (12th-grade students) per team rule.
 -   Teams may have up to 5 alternates, but alternates may not compete in the main 23 events.
 -   Both alternates and regular team members are eligible to participate in trial events.
 -   Each team member may be a part of only one team.
@@ -43,7 +43,7 @@ Each block has a 15-minute buffer for competitors to navigate campus and locate 
 
 ## Arbitration/Appeal
 
-Arbitration can be conducted if a competitor or coach feels that an event was not run in accordance with the rules. Please observe the following notes about arbitration.
+Arbitration can be conducted if a competitor or coach feels that an event was not run in accordance with the National Tournament rules. Please observe the following notes about arbitration.
 
 -   Should you choose to arbitrate an event, first inform the Event Supervisor(s) so that they can note the details of what happened.
 -   Bring your complaint to the tournament HQ (Room 10-105) where the Arbitration Committee will be. You will be asked to write down a description of your dispute as well as the particular rule(s) you believe were violated.

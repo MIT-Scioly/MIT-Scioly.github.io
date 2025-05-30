@@ -1,0 +1,80 @@
+table {
+    border-collapse: separate;
+    border-spacing: 1vw;
+    /* margin: 0 auto; */
+}
+
+tr {
+    height: 7em;
+}
+
+td {
+    border: 3px solid #ffffff;
+    width: 7em;
+    max-width: 7em;
+    min-width: 7em;
+    padding: 0;
+    text-align: center;
+    vertical-align: middle;
+    hyphens: manual;
+    cursor: pointer;
+
+    -webkit-transition: all 0.1s ease;
+	-moz-transition: all 0.1s ease;
+	-o-transition: all 0.1s ease;
+	transition: all 0.1s ease;
+}
+
+.study-event:hover {
+    background-color: #111111;
+    color: white;
+}
+
+.study-event { 
+    background-color: #66c7f1;
+    color: #111111;
+    border-color: #66C7F1;
+}
+
+.lab-event:hover {
+    background-color: #111111;
+    color: white;
+}
+
+.lab-event {
+    background-color: #dd0b70;
+    color: #111111;
+    border-color: #DD0B70;
+}
+
+.build-event:hover {
+    background-color: #111111;
+    color: white;
+}
+
+.build-event {
+    background-color: #9fff56;
+    color: #111111;
+    border-color: #9FFF56;
+}
+
+.inquiry-event:hover {
+    color: white;
+    background-color: #111111;
+}
+
+.inquiry-event {
+    background-color: #fa8e42;
+    color: #111111;
+    border-color: #FA8E42;
+}
+
+
+body {
+    /* When the modal opens on the events page, we disable scrolling on the background. 
+    This causes the scrollbar on the right to disappear which causes content to shfit to the right
+    each time the modal opens. To prevent this, we pad the left side to take up this room and prevent
+    the shifting. 100vw gives the total width including the scrollbar and 100% gives the width without
+    the scrollbar. */
+    padding-left: calc(100vw - 100%); 
+}

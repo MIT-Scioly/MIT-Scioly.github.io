@@ -1,17 +1,17 @@
-{% for blog in site.blogs %}
-<section class="blog">
-    <a name="{{ blog.slug }}"></a>
-    <div class="blog-title">
-        <a href="updates#{{ blog.slug }}">
-            {{ blog.title }}
+{% for post in site.blogs %}
+<section class="post">
+    <a name="{{ post.slug }}"></a>
+    <div class="post-title">
+        <a href="updates#{{ post.slug }}">
+            {{ post.title }}
         </a>
     </div>
 
-    <div class="blog-date">{{ blog.date | date: "%B %-d, %Y"}}</div>
+    <div class="post-date">{{ post.date | date: "%B %-d, %Y"}}</div>
 
     <div></div>
-    <div class="blog-content">
-        {{ blog.content | markdownify}}
+    <div class="post-content">
+        {{ post.content | markdownify}}
     </div>
 
 </section>

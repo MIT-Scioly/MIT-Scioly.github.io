@@ -2,3 +2,8 @@ name: MIT Science Olympiad
 markdown: kramdown
 incremental: true
 exclude: ['README.md', 'TODO.md']
+
+collections:
+    blogs:
+        output: true
+        permalink: /blogs/:name/

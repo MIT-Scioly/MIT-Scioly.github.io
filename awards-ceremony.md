@@ -4,6 +4,6 @@ layout: default
 keywords: "awards ceremony"
 ---
 
-_Last updated: February 6, 2025_
+_Last updated: June 10, 2025_
 
-Go watch our awards ceremony for the 2025 tournament [here](https://www.youtube.com/watch?v=R6PdbhHaCu4)!.
+Come back after the 2026 Tournament to find the awards ceremony recording.

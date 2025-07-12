@@ -1,18 +1,14 @@
-{% for post in site.blogs %}
-<section class="post">
-    <a name="{{ post.slug }}"></a>
-    <div class="post-title">
-        <a href="blogs#{{ post.slug }}">
-            {{ post.title }}
-        </a>
-    </div>
-
-    <div class="post-date">{{ post.date | date: "%B %-d, %Y"}}</div>
-
-    <div></div>
-    <div class="post-content">
-        {{ post.content | markdownify}}
-    </div>
-
-</section>
+{% for post in site.blogs reversed %}
+  <section class="post-teaser">
+    <h2 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <p class="post-date">
+      {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+    {#--  Optional one-line snippet  --#}
+    {#-- <p>{{ post.excerpt }}</p> --#}
+  </section>
 {% endfor %}

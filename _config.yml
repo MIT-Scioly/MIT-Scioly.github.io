@@ -7,3 +7,10 @@ collections:
     blogs:
         output: true
         permalink: /blogs/:name/
+
+defaults:
+  - scope:
+      path: ""     # every file
+      type: blogs  # in the blogs collection
+    values:
+      layout: blog

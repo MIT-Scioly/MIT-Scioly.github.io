@@ -3,6 +3,8 @@ markdown: kramdown
 incremental: true
 exclude: ['README.md', 'TODO.md']
 
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 collections:
     blogs:
         output: true

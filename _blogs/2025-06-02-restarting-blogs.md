@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2025-06-02
 title: Restarting Blogs
 ---
 

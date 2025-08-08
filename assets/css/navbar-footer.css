@@ -1,105 +1,111 @@
 /* Navbar and Footer CSS Code*/
 
 #navbar {
-	background-color: #111111;
-	font-size: 14px;
+    background-color: #111111;
+    font-size: 14px;
 }
 
 .navbar-menu {
-	background-color: #111111;
+    background-color: #111111;
 }
 
 .navbar-link {
-	color: #c4c4c4;
-	padding-right: 12px;
-	background-color: #111111;
-	text-decoration: none;
+    color: #c4c4c4;
+    padding-right: 12px;
+    background-color: #111111;
+    text-decoration: none;
 }
 
-
 .navbar-link::after {
-	border-color: #c4c4c4;
-	display: none;
+    border-color: #c4c4c4;
+    display: none;
 }
 
 .navbar-link:hover {
-	color: #707070;
+    color: #707070;
 }
 
 .navbar-start {
-	width: 100%;
-	justify-content: flex-end;
+    width: 100%;
+    justify-content: flex-end;
 }
 
 .navbar-dropdown {
-	background-color: #111111;
-	border-top: none;
+    background-color: #111111;
+    border-top: none;
 }
 
 .navbar-item {
-	color: #c4c4c4;
-	background-color: #111111;
+    color: #c4c4c4;
+    background-color: #111111;
 }
 .navbar-item.has-dropdown:hover .navbar-link {
-	color: #c4c4c4;
-	cursor: default;
+    color: #c4c4c4;
+    cursor: default;
 }
 
 .navbar-item.has-dropdown .navbar-link:hover {
-	background-color: #111111;
+    background-color: #111111;
 }
 
 a.navbar-item {
-	transition: background-color linear 0.1s; /* Transition back when pointer is no longer hovering */
-	text-decoration: none;
+    transition: background-color linear 0.1s; /* Transition back when pointer is no longer hovering */
+    text-decoration: none;
 }
 
 a.navbar-item:hover {
-	color: #eeeeee;
-	background-color: #555555;
-	transition: background-color linear 0.1s;
+    color: #eeeeee;
+    background-color: #555555;
+    transition: background-color linear 0.1s;
 }
 
 .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
-	color: #eeeeee;
+    color: #eeeeee;
 }
 
 .navbar-menu.is-active .navbar-item > .navbar-link {
-	padding-top: 0.25rem;
-	padding-bottom: 0;
+    padding-top: 0.25rem;
+    padding-bottom: 0;
 }
 
 /* Footer */
 .footer {
-	padding-bottom: 3%;
-	background-color: inherit;
-	color: #707070;
-	font-size: 12px;
+    padding-bottom: 3%;
+    background-color: inherit;
+    color: #707070;
+    font-size: 12px;
 }
 
 .footer .fa {
-	width: 50px;
-	font-size: 20px;
-	color: #707070
+    width: 50px;
+    font-size: 20px;
+    color: #707070;
 }
 
 .footer .fa:hover {
-	color: #c4c4c4;
+    color: #c4c4c4;
 }
 
 .footer ul {
-	list-style-type: none;
-	padding-left: 0;
+    list-style-type: none;
+    padding-left: 0;
 }
 
 .footer a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
-.footer strong, .footer b {
-	color: #707070;
+.footer strong,
+.footer b {
+    color: #707070;
 }
 
 .lower-nav {
-	justify-content: space-evenly;
+    justify-content: space-evenly;
+}
+
+.lower-nav .column {
+    flex: 1;
+    min-width: max-content;
+    white-space: nowrap;
 }

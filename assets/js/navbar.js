@@ -8,21 +8,22 @@ var outerHeaders = {
         "Tournament Policies",
         "Events",
         "Awards Ceremony",
-        "Results"
+        "Results",
     ],
     Logistics: ["Required Materials", "Travel", "Health and Safety"],
     Sponsors: [],
     Updates: [],
+    Blogs: [],
     "About Us": ["The Team", "Event Supervisors", "Contact Us", "Archives"],
 };
 
-const base = "./";
+const base = "/";
 
 var links = {
-    About: "about.html",
-    Archives: "archives.html",
+    About: "about",
+    Archives: "archives",
     "Awards Ceremony": "awards-ceremony",
-    "Results": "results",
+    Results: "results",
     "Contact Us": "contact-us",
     "Event Info": "event-info",
     "Event Supervisors": "event-supervisors",
@@ -37,6 +38,7 @@ var links = {
     "Privacy Policy": "privacy",
     Travel: "travel",
     "Required Materials": "required-materials",
+    Blogs: "blogs",
 };
 
 let navbar = document.getElementById("navbar");
@@ -54,7 +56,7 @@ if (!document.getElementById("homepage-nav")) {
     logo.className = "navbar-item";
     logo.href = base;
     logo.innerHTML =
-        '<img src="assets/images/logo.svg" width="80px" height="60px" style="vertical-align: middle;">';
+        '<img src="/assets/images/logo.svg" width="80px" height="60px" style="vertical-align: middle;">';
     navBrand.appendChild(logo);
     // var navLogo = document.createElement("li");
     // navLogo.className = "navbar-logo";
@@ -69,7 +71,7 @@ burger.id = "burger";
 burger.setAttribute("data-target", "navbar");
 burger.setAttribute(
     "onclick",
-    "document.querySelector('.navbar-menu').classList.toggle('is-active');document.querySelector('#burger').classList.toggle('is-active')"
+    "document.querySelector('.navbar-menu').classList.toggle('is-active');document.querySelector('#burger').classList.toggle('is-active')",
 );
 let first_blank_span = document.createElement("span");
 let second_blank_span = document.createElement("span");
@@ -109,8 +111,7 @@ for (header in outerHeaders) {
             nav_children.appendChild(nav_child);
             nav_child.className = "navbar-item";
             nav_child.text = child;
-            nav_child.href =
-                child === "Archives" ? "archives.html" : base + links[child];
+            nav_child.href = base + links[child];
         }
     }
     start.appendChild(nav_item);
@@ -132,7 +133,7 @@ footer_container.appendChild(document.createElement("hr"));
 var socialMedia = footer_container.appendChild(document.createElement("div"));
 socialMedia.className = "columns";
 var socialMediaLeftBuffer = socialMedia.appendChild(
-    document.createElement("div")
+    document.createElement("div"),
 );
 socialMediaLeftBuffer.className = "column is-one-third";
 var socialMediaCol = socialMedia.appendChild(document.createElement("div"));
@@ -140,17 +141,17 @@ socialMediaCol.className = "column has-text-centered social-media";
 addSMIcon(
     socialMediaCol,
     "fa fa-facebook",
-    "https://www.facebook.com/mitscioly"
+    "https://www.facebook.com/mitscioly",
 );
 addSMIcon(
     socialMediaCol,
     "fa fa-instagram",
-    "https://www.instagram.com/mit_scioly/"
+    "https://www.instagram.com/mit_scioly/",
 );
 addSMIcon(socialMediaCol, "fa fa-medium", "https://medium.com/@mit_scioly");
 addSMIcon(socialMediaCol, "fa fa-envelope-o", "mailto:scioly@mit.edu");
 var socialMediaRightBuffer = socialMedia.appendChild(
-    document.createElement("div")
+    document.createElement("div"),
 );
 socialMediaRightBuffer.className = "column is-one-third";
 
@@ -176,7 +177,7 @@ leftSpan.innerHTML =
 // Populate lower-nav
 for (var header in outerHeaders) {
     var col = lowerNav.appendChild(document.createElement("div"));
-    col.className = "column is-2 has-text-centered";
+    col.className = "column has-text-centered";
     var children = outerHeaders[header];
     if (children.length > 0) {
         // Header has a dropdown menu
@@ -216,5 +217,5 @@ var socialMediaImport = document
 socialMediaImport.setAttribute("rel", "stylesheet");
 socialMediaImport.setAttribute(
     "href",
-    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
 );

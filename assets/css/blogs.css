@@ -1,0 +1,66 @@
+/* Blog posts grid layout */
+.blog-posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1.5rem;
+    margin-top: 2rem;
+    width: 100%;
+}
+
+/* Override global grid column constraint for blog cards */
+.blog-posts-grid .blog-post-card {
+    grid-column: auto;
+}
+
+.blog-post-card {
+    background: #191919;
+    border: 1px solid #161310;
+    border-radius: 8px;
+    padding: 1.5rem;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    box-sizing: border-box;
+}
+
+.blog-post-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #bbbbbb;
+}
+
+.blog-post-card:hover {
+    background: #161310;
+    border: 1px solid #12bbee;
+}
+
+.blog-post-card:hover h3 {
+    color: #eeeeee;
+}
+
+.blog-post-card .post-date {
+    color: #999999;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+.blog-post-card .post-excerpt {
+    color: #999999;
+    line-height: 1.5;
+    margin-bottom: 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .blog-posts-grid {
+        grid-template-columns: 1fr;
+        grid-gap: 1rem;
+    }
+
+    .blog-post-card {
+        padding: 1rem;
+    }
+}

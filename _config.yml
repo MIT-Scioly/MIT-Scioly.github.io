@@ -1,7 +1,7 @@
 name: MIT Science Olympiad
 markdown: kramdown
 incremental: true
-exclude: ['README.md', 'TODO.md']
+exclude: ["README.md", "TODO.md"]
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -9,10 +9,3 @@ collections:
     blogs:
         output: true
         permalink: /blogs/:name/
-
-defaults:
-  - scope:
-      path: ""     # every file
-      type: blogs  # in the blogs collection
-    values:
-      layout: blog

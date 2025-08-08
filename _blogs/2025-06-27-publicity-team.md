@@ -18,7 +18,7 @@ Ultimately, the vision we have is for the tournament to present a high-quality e
 
 **Marketing**
 
-Our biggest audience comes from our Instagram account @mit_scioly, which I believe is the second-largest SciOly related Instagram account (HUSO, I’m coming for you). We also have a small presence on Discord – this year, I kind of took on the role of “Unofficial MIT SciOly liaison”. A very chill job overall, I just did a search every once in a while in the Science Olympiad-related servers to see if there were any questions or misconceptions floating around about us.
+Our biggest audience comes from our Instagram account [@mit_scioly](https://www.instagram.com/mit_scioly/?hl=en), which I believe is the second-largest SciOly related Instagram account (HUSO, I’m coming for you). We also have a small presence on Discord – this year, I kind of took on the role of “Unofficial MIT SciOly liaison”. A very chill job overall, I just did a search every once in a while in the Science Olympiad-related servers to see if there were any questions or misconceptions floating around about us.
 
 Again, MIT SciOly is lucky to be a pretty well-known tournament already; ES and competitor recruitment are two things we usually don’t have to worry about too much. So, that lets us spend a lot more time on fun initiatives – this year, the account has been the most active it’s ever been and we sort of had a different focus/project for every month of the year.
 
@@ -28,14 +28,14 @@ October: New member intros done by Keona and Eleni! We welcomed 13(!) new PC mem
 
 November: We had around ten PC members do Instagram takeovers on our story! Credit goes to UCSD Science Olympiad(?) for being the first college SciOly club to do takeovers (that I saw). I think takeovers are super fun for both the audience and the person doing the takeover, but they can get a little stale after a while. However, it definitely boosted our engagement a lot.
 
-![Publicity 1](assets/images/publicity-blog-image-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 1"}
+![Publicity 1](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Publicity 1"}
 
 December: Volunteer recruitment is actually something we stress out a lot about — our goal is usually to recruit at least 100 volunteers to keep our tournament running smoothly. Definitely something we need to keep working on. For this, we advertise on Instagram, Discord, MIT mailing lists, and physical flyers.
 
 January: Unsurprisingly our busiest month on social media. We started doing the 7-day countdown two years ago with daily posts for the seven days leading up to the tournament. This year, we upgraded (thanks Keona!) both graphically and content-wise. Last year, I had to learn how to (very badly) use Adobe Illustrator and we just posted the names of a few event supervisors every day. This year, since the list of Event Supervisor was already public on the website, we wanted to make the countdown more interesting! We alternated between PC and ES
 introductions and also gave some insight into what each of the PC committees do.
 
-![Publicity 2](assets/images/publicity-blog-image-2.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 2"}
+![Publicity 2](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-2.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Publicity 2"}
 
 As for making reels, I really just wanted to try something different. Nothing too crazy since we were just trying stuff out, but the reels we did make seemed to be pretty popular with our audience, though the event supervisors really upstaged the planning committee in terms of reel performance… Huge thanks to the PC and ESs who appeared in the videos either voluntarily or involuntarily though! Can’t wait to make more videos soon and finally achieve my dreams of becoming a famous influencer! Just kidding, but you can feel free to send me ideas for new videos at heidi@mit.edu.
 
@@ -43,7 +43,7 @@ Post-tournament: After our tournament concluded, we’ve been a lot less active 
 
 We also did an April Fool’s post that quickly became our most-liked and most-shared post by a wide margin! Shoutout to Elisa for the idea and Richard for helping out with the writing.
 
-![Publicity 3](assets/images/publicity-blog-image-3.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 3"}
+![Publicity 3](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-3.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 3"}
 
 Our most viewed content: the April Fool’s Post, the tournament day + thank you posts, volunteering, and two of our reels! This is pretty much exactly what we expected/what we would want which is great.
 

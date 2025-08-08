@@ -13,8 +13,8 @@
 }
 
 .blog-post-card {
-    background: #f8f9fa;
-    border: 1px solid #e9ecef;
+    background: #191919;
+    border: 1px solid #161310;
     border-radius: 8px;
     padding: 1.5rem;
     cursor: pointer;
@@ -28,26 +28,27 @@
     margin-bottom: 0.5rem;
     font-size: 1.25rem;
     font-weight: 600;
-    color: #333;
+    color: #bbbbbb;
 }
 
 .blog-post-card:hover {
-    background: #e9ecef;
+    background: #161310;
+    border: 1px solid #12bbee;
 }
 
 .blog-post-card:hover h3 {
-    color: #007bff;
+    color: #eeeeee;
 }
 
 .blog-post-card .post-date {
-    color: #6c757d;
+    color: #999999;
     font-size: 0.875rem;
     margin-bottom: 1rem;
     font-style: italic;
 }
 
 .blog-post-card .post-excerpt {
-    color: #495057;
+    color: #999999;
     line-height: 1.5;
     margin-bottom: 0;
 }

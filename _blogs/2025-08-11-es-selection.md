@@ -32,6 +32,8 @@ This year, we had **62 first-time applicants** and **29 returning applicants**. 
 
 ## Exam Events
 
+*Writer? I hardly know her!*  
+
 Teams from across the country come to our tournament due to our high test quality and attention to detail. We aim for exams that let competitors both show the fruits of their impressive dedication and learn something new in the process of competing. We select ESs and review exams with this high standard in mind.  
 
 For exam events, our primary selection criteria remains quite similar to 2018 with more emphasis on the sample questions the ESs provide. As of 2025, the main change from 2018 is that we do not conduct interviews as we mostly prioritize the sample questions that applicants provide and their form responses to our ES approach questions. If necessary, we reach out to applicants asking for more specific sample questions to gauge their test-writing ability better.  
@@ -72,7 +74,7 @@ In the future, we plan to put more emphasis on day-of-logistical planning skills
 
 This can be quite a difficult task, especially when grading 72 exams that are individually more than 30 pages long! One day, maybe the MIT tournament will be able to start awards on time…  
 
-If you are interested in applying to be an ES for our tournament, check our website in August! We usually post the application link around mid-August, with the deadline typically being late September. We look forward to seeing your application!
+If you are interested in applying to be an ES for our tournament, applications are OPEN NOW! Please go to our [home page](https://scioly.mit.edu/) to access the application. We look forward to seeing your application!
 
 ![Events 3](/assets/blogs/2025-08-11-es-selection/events-3.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Events 3"}
 

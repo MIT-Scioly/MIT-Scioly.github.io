@@ -12,10 +12,14 @@ Since 2018, we accept more ESs per event, with the vast majority of events havin
 
 This year, we had **62 first-time applicants** and **29 returning applicants**. The returning applicant acceptance rate was slightly higher at **62%** compared to **42%** for first-time applicants.\*
 
+![Events 1](/assets/blogs/2025-08-11-es-selection/events-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Events 1"}
 
-Figure 1. Number of applicants per event. Note that each applicant can apply for multiple events so the sum of applicants across all events is greater than the total number of applicants.*
 
-Figure 2. ES Applicants by highest level of competition.*
+*Figure 1. Number of applicants per event. Note that each applicant can apply for multiple events so the sum of applicants across all events is greater than the total number of applicants.**
+
+![Events 2](/assets/blogs/2025-08-11-es-selection/events-2.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Events 2"}
+
+*Figure 2. ES Applicants by highest level of competition.**
 
 **Bonus fun stats about 2025 ES Selection:**
 - In 2025, there was a 100% acceptance rate for ESs named Andrew (3/3)
@@ -70,5 +74,7 @@ This can be quite a difficult task, especially when grading 72 exams that are in
 
 If you are interested in applying to be an ES for our tournament, check our website in August! We usually post the application link around mid-August, with the deadline typically being late September. We look forward to seeing your application!
 
-Figure 3. Useful and truthful Venn diagram.
+![Events 3](/assets/blogs/2025-08-11-es-selection/events-3.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Events 3"}
+
+*Figure 3. Useful and truthful Venn diagram.*
 

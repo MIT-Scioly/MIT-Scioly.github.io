@@ -1,5 +1,3 @@
-## ES Applications Open
-
 We're excited to announce that applications are now open to event supervise for the 2026 MIT Science Olympiad Invitational on January 24, 2026!
 
 The application for **first-time event supervisors** (i.e. you haven’t supervised for MIT before) can be found [here](https://forms.gle/NcFr6c53xVGrL4jK9).  

@@ -1,42 +1,67 @@
+
+
+This blog post is an epilogue to our [2018 blog](https://medium.com/@mit_scioly/how-to-select-event-supervisors-part-i-statistics-caa98b84102e) about ES selection with similar statistics of our 2025 ES selection process as well as a reflection over how the process has evolved 7 years later. 
+
+## ES Applicant Statistics
+
+Since 2018, we accept more ESs per event, with the vast majority of events having 2 ESs to share the workload. While we have more applicants now (**92 in 2025** vs **65 in 2018**), we accept more ESs overall, leading to a higher overall acceptance rate (**47% in 2025** vs **37% in 2018**).  
+
+This year, we had **62 first-time applicants** and **29 returning applicants**. The returning applicant acceptance rate was slightly higher at **62%** compared to **42%** for first-time applicants.\*
+
+
+Figure 1. Number of applicants per event. Note that each applicant can apply for multiple events so the sum of applicants across all events is greater than the total number of applicants.*
+
+Figure 2. ES Applicants by highest level of competition.*
+
+**Bonus fun stats about 2025 ES Selection:**
+- In 2025, there was a 100% acceptance rate for ESs named Andrew (3/3)
+- Of the selected ESs, the most represented states by high schools of origin were **CA, NY, PA, GA, and MA** (in order by number of ESs)
+- **26** (out of 48) of the selected ESs were first-time MIT ESs  
+
+\*These statistics and graphs do not include 4 ESs with incomplete data.
+
 ---
-layout: blog
-date: 2025-08-11
-title: An Overview of the Events Committee
+
+## Exam Events
+
+Teams from across the country come to our tournament due to our high test quality and attention to detail. We aim for exams that let competitors both show the fruits of their impressive dedication and learn something new in the process of competing. We select ESs and review exams with this high standard in mind.  
+
+For exam events, our primary selection criteria remains quite similar to 2018 with more emphasis on the sample questions the ESs provide. As of 2025, the main change from 2018 is that we do not conduct interviews as we mostly prioritize the sample questions that applicants provide and their form responses to our ES approach questions. If necessary, we reach out to applicants asking for more specific sample questions to gauge their test-writing ability better.  
+
+For sample questions, we look at the creativity of the questions and how they encourage problem-solving skills and analytical thinking. Rather than testing how much rote knowledge a team might have, we look for questions that push teams to apply their knowledge cleverly. Ideally, questions should be challenging but not unreasonably hard, within the scope of what a high schooler can learn with online resources and not just a copy of the ES’s past chemistry p-set.  
+
+The sample questions should ideally represent the ES’s best test-writing capabilities and how they would approach writing a “MIT-quality” exam. While there is more flexibility in the exam’s difficulty for our tournament compared to smaller regional invitationals, the exam should have good diversity of questions in both content and difficulty to distinguish team placements properly across ~72 teams.  
+
+Another key but often overlooked criterion of ES selection is the ES’s organizational ability, which we can generally gather from the ES’s form responses and past experiences if they ESed for us in the past. From the Events Committee’s perspective, we greatly appreciate if the ES submits exams within the deadline and is responsive to our feedback. We are quite particular regarding the formatting and layout of the exams to optimize both printing and the student’s exam-taking experience.  
+
+Generally, we prioritize those with extensive ES experience, especially in larger in-person tournaments due to the complex day-of challenges of ESing a tournament of our scale. However, we do accept many first-time ESs, as many of our applicants are just starting college. For first-time applicants, we emphasize both Div C SciOly achievements (like national/state medals) and past Div B/C exam writing experience — with the quality of the applicant’s sample questions being the most important consideration.  
+
+In recent years, we have been quite successful in taking small risks investing in younger ESs with relatively limited experience to be guided by their more experienced co-ES.  
+
 ---
 
-We are the Events committee, MIT Science Olympiad’s largest sub-committee and the backbone of the tournament! We manage all logistics related to the tournament’s 23 events and 3 trial events. While competitors rarely interact with us directly, you can see the impact of the decisions we make during the tournament itself from the exams that went through our thorough event review process to the venues and materials we acquired to host each event. 
+## Build Events
 
+*Builder? I hardly know her!*  
 
-Our responsibilities range from big decisions like selecting the current season’s event supervisors (ESs) to smaller yet essential tasks like getting MIT admin approval for our build and lab events. While our committee only has 10 members, we work closely with other committees whether it’s Admin Logs booking event venues/assisting with MIT admin approval, Comp Logs communicating Events details with coaches, or Finance reimbursing ES travel and purchasing materials. 
+Unlike test events, where we can screen applicants based on the quality and creativity of their test questions, build events don’t have the same luxury. Instead, event supervisors are judged more on their past experiences and success as competitors (and supervisors, if they have experience).  
 
-From the competitor's side, we may seem mysterious, so we hope this blog post gives both competitors and aspiring MIT ESs a good sense of what we do behind the scenes. Another aim is to show other invitationals how we organize our tournament structure so that we can all provide better experiences for future SciOly kids. 
+Although any ordinary person can technically learn the rules quickly to run a build event, we have found that experienced competitors can predict potential challenges and obstacles before the day of the tournament based on their own time as competitors, thinking through and planning for many different scenarios.  
 
+This can involve suggestions for the venue, equipment, or general set-up, which can save the Planning Committee from needing to run to Home Depot at 5 am on the day of the tournament. For instance, any balsa wood builder knows the importance of having a level platform, which may not be obvious to someone who has never spent grueling hours constructing a tower, only to see it fail early due to imbalanced forces from an uneven floor (RIP prototype #3…).  
 
-One major benefit of organizing for MIT Science Olympiad is that we have years of past expertise and documentation to guide us through the process. For instance, we are eternally grateful for Yoshihiro Saito, 2021-22 Tournament Director, who still continues to help us by answering our numerous questions, coordinating some day-of logistics, and, of course, ESing.
+We also ensure that all build events have two event supervisors to handle the logistical challenges and the intense nature of running 72 different teams in our limited time frames. We have found that finding volunteers for an entire 8-hour time block can be difficult, so having experienced builders who can quickly train new volunteers is a huge advantage.  
 
-*Figure 1. A photo of Yoshihiro Saito on the ceiling of Building 36 from the 2023 MIT Invitational’s Saito Search. Photographed in November 2023, 10 months after the tournament.*
+Additionally, these ESs are often trained to resolve any appeals (there are always a few!) that can come up during the tournament. This year, out of our lovely 12 purely build event supervisors, 10/12 had competed at Nationals, and all of them had past experience event supervising for other tournaments.  
 
-At the end of the day, we are all college students being perpetually blasted by the MIT firehose, but we volunteer for SciOly because we are passionate about providing a meaningful experience for high schoolers around the country. 
+---
 
-## Events Committee Timeline
+## Reflections
 
-This is the Events Committee’s general timeline for planning each year’s tournament, which is an overview of general tasks we aim to complete within the given time frame.
+*Supervisor? I hardly know her!*  
 
-| Month       | Tasks |
-|-------------|-------|
-| **Sept – Oct** | On-boarding new Planning Committee (PC) members<br>ES Selection → ES Orientation<br>Fall inventory |
-| **Nov – Dec** | ES travel approval<br>ES materials request → New materials acquisition<br>Event review process<br>Select event venues & trial events<br>MIT admin & EHS approval |
-| **Jan** | Finalize exam review & room assignments<br>Coordinate ES hosting<br>Week-of prep<br>Tournament day! |
-| **Feb – Mar** | Exam release<br>Spring inventory<br>Post-tournament discussions & documentation |
+In the future, we plan to put more emphasis on day-of-logistical planning skills when selecting ESs, since we have found this to be just as important as test creativity. For instance, having a set grading plan (which questions should volunteers grade and which should the ESs grade) can streamline the process and ensure the event results finish on time.  
 
-## A Series of Blog Posts
+This can be quite a difficult task, especially when grading 72 exams that are individually more than 30 pages long! One day, maybe the MIT tournament will be able to start awards on time…  
 
-Over the next few weeks, we plan to release the following series of blog posts for you to see the complete behind the scenes of the MIT Science Olympiad Events Committee. These blog posts are all co-written by various members of the Events Committee.
-
-1. An Overview of the Events Committee *(this blog post!)*
-2. ES Selection: Statistics & Behind the Scenes
-3. Managing ESs
-4. Inventory & Event-Specific Tasks
-5. Tournament Week
-
-Feel free to email us at [scioly@mit.edu](mailto:scioly@mit.edu) if you have any questions you would like the Events Committee to answer through these blog posts!
+If you are interested in applying to be an ES for our tournament, check our website in August! We usually post the application link around mid-August, with the deadline typically being late September. We look forward to seeing your application!

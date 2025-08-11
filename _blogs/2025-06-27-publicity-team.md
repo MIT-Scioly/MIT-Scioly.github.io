@@ -1,8 +1,9 @@
 ---
 layout: blog
 date: 2025-06-27
-title: Publicity Team
+title: HELLOOOOOO
 ---
+testinggggggggg
 
 The Publicity committee at MIT SciOly takes care of the media presence and outward appearance of the club! We basically decide how MIT SciOly wants to present itself to the general public, which is honestly a lotttt of power.
 

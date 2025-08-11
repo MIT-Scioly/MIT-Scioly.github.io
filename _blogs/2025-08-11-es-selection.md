@@ -15,11 +15,11 @@ This year, we had **62 first-time applicants** and **29 returning applicants**. 
 ![Events 1](/assets/blogs/2025-08-11-es-selection/events-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Events 1"}
 
 
-*Figure 1. Number of applicants per event. Note that each applicant can apply for multiple events so the sum of applicants across all events is greater than the total number of applicants.**
+*Figure 1. Number of applicants per event. Note that each applicant can apply for multiple events so the sum of applicants across all events is greater than the total number of applicants.\**
 
 ![Events 2](/assets/blogs/2025-08-11-es-selection/events-2.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Events 2"}
 
-*Figure 2. ES Applicants by highest level of competition.**
+*Figure 2. ES Applicants by highest level of competition.\**
 
 **Bonus fun stats about 2025 ES Selection:**
 - In 2025, there was a 100% acceptance rate for ESs named Andrew (3/3)

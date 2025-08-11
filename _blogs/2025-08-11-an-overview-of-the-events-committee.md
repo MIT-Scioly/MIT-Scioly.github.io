@@ -14,6 +14,8 @@ From the competitor's side, we may seem mysterious, so we hope this blog post gi
 
 One major benefit of organizing for MIT Science Olympiad is that we have years of past expertise and documentation to guide us through the process. For instance, we are eternally grateful for Yoshihiro Saito, 2021-22 Tournament Director, who still continues to help us by answering our numerous questions, coordinating some day-of logistics, and, of course, ESing.
 
+![Yoshi on the ceiling](/assets/blogs/2025-08-10-events-overview/yoshi-ceiling.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Yoshi on the ceiling"}
+
 *Figure 1. A photo of Yoshihiro Saito on the ceiling of Building 36 from the 2023 MIT Invitational’s Saito Search. Photographed in November 2023, 10 months after the tournament.*
 
 At the end of the day, we are all college students being perpetually blasted by the MIT firehose, but we volunteer for SciOly because we are passionate about providing a meaningful experience for high schoolers around the country.

@@ -21,6 +21,7 @@
     text-decoration: none;
     display: block;
     box-sizing: border-box;
+    transition: all 0.3s ease;
 }
 
 .blog-post-card h3 {

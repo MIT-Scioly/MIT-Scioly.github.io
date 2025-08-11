@@ -1,4 +1,8 @@
-
+---
+layout: blog
+date: 2025-08-11
+title: ES Selection - Statistics & Behind the Scenes
+---
 
 This blog post is an epilogue to our [2018 blog](https://medium.com/@mit_scioly/how-to-select-event-supervisors-part-i-statistics-caa98b84102e) about ES selection with similar statistics of our 2025 ES selection process as well as a reflection over how the process has evolved 7 years later. 
 
@@ -65,3 +69,6 @@ In the future, we plan to put more emphasis on day-of-logistical planning skills
 This can be quite a difficult task, especially when grading 72 exams that are individually more than 30 pages long! One day, maybe the MIT tournament will be able to start awards on time…  
 
 If you are interested in applying to be an ES for our tournament, check our website in August! We usually post the application link around mid-August, with the deadline typically being late September. We look forward to seeing your application!
+
+Figure 3. Useful and truthful Venn diagram.
+

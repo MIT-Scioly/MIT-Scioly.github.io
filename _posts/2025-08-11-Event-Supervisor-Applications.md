@@ -8,4 +8,4 @@ Applications will close on **September 26, 2025 at 11:59 PM EST**.
 
 As always, feel free to reach out to us at [scioly@mit.edu](mailto:scioly@mit.edu) with any questions or concerns. We look forward to seeing you apply!
 
-By the way... if you'd like to learn more about our selection process before submitting your application, check out our latest blog!
+By the way... if you'd like to learn more about our selection process before submitting your application, check out our latest blog! (You can find our newly added blogs page linked in the navigation bar above).

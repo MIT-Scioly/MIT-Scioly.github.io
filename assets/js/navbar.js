@@ -13,7 +13,7 @@ var outerHeaders = {
     Logistics: ["Required Materials", "Travel", "Health and Safety"],
     Sponsors: [],
     Updates: [],
-    // Blogs: [],
+    Blogs: [],
     "About Us": ["The Team", "Event Supervisors", "Contact Us", "Archives"],
 };
 

@@ -22,13 +22,13 @@ _October_: New member intros -- we welcomed 13(!) new PC members this year and w
 
 _November_: We had around ten PC members do Instagram takeovers on our story. Credit goes to UCSD Science Olympiad(?) for being the first college SciOly club to do takeovers (that I saw). 
 
-![Publicity 1](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:5em;margin-bottom:5em; max-height:100em;max-width:40em;width:100%"}{:alt="Publicity 1"}
+![Publicity 1](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:3em;margin-bottom:3em; max-height:100em;max-width:40em;width:100%"}{:alt="Publicity 1"}
 
 _December_: Volunteer recruitment is actually something we stress out a lot about — our goal is usually to recruit at least 100 volunteers to keep our tournament running smoothly. I think we usually fall a little short of how many volunteers we actually need, so it's definitely something we need to keep working on. For this, we advertise on Instagram, Discord, MIT mailing lists, with physical flyers, and begging our friends.
 
 _January_: Unsurprisingly our busiest month on social media. We started doing the 7-day countdown two years ago with daily posts for the seven days leading up to the tournament. This year, we upgraded (thanks Keona!) both graphically and content-wise. Last year, we just posted the names of a few event supervisors every day. This year, since the list of Event Supervisor was already public on the website, we alternated between PC and ES introductions and also gave some insight into what each of the PC committees do.
 
-![Publicity 2](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-2.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Publicity 2"}
+![Publicity 2](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-2.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:3em;margin-bottom:3em; max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 2"}
 
 The reels we made this year seemed to be pretty popular with our audience, though the event supervisors really upstaged the planning committee in terms of reel performance… Huge thanks to the PC and ESs who appeared in the videos either voluntarily or involuntarily though. Can’t wait to make more videos soon and finally achieve my dreams of becoming a famous influencer! Just kidding, but you can feel free to send me ideas for new videos at heidi@mit.edu. 10k followers and I start trying to become a famous studytok influencer. 
 
@@ -40,7 +40,7 @@ We also did an April Fool’s post that quickly became our most-liked and most-s
 
 _UPDATE_: So our 2026 tournament announcement post did quite well... reaching 90,000 views and completely smashing the most-liked/most-shared record from April Fool's. That was unexpected -- I think we gained nearly 1000 followers just from that one post. Unfortunately, I'm not sure if we reached the correct audience as it seems like most of the people getting the post recommended were either college students or international high schoolers. However, it was still super cool to see the likes and shares racking up by the day.
 
-![Publicity 3](/assets/blogs/2025-06-27-publicity-team/publicity_blog_image_3.jpg){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 3"}
+![Publicity 3](/assets/blogs/2025-06-27-publicity-team/publicity_blog_image_3.jpg){:class="post-image"}{:style="display:block;margin:auto;margin-top:3em;margin-bottom:3em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 3"}
 
 ## Conclusion
 

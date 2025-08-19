@@ -22,7 +22,7 @@ _October_: New member intros -- we welcomed 13(!) new PC members this year and w
 
 _November_: We had around ten PC members do Instagram takeovers on our story. Credit goes to UCSD Science Olympiad(?) for being the first college SciOly club to do takeovers (that I saw). 
 
-![Publicity 1](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:40em;width:100%"}{:alt="Publicity 1"}
+![Publicity 1](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-1.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:5em;margin-bottom:5em; max-height:100em;max-width:40em;width:100%"}{:alt="Publicity 1"}
 
 _December_: Volunteer recruitment is actually something we stress out a lot about — our goal is usually to recruit at least 100 volunteers to keep our tournament running smoothly. I think we usually fall a little short of how many volunteers we actually need, so it's definitely something we need to keep working on. For this, we advertise on Instagram, Discord, MIT mailing lists, with physical flyers, and begging our friends.
 

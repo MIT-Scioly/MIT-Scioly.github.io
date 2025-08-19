@@ -4,17 +4,17 @@ date: 2025-06-27
 title: PUB PUB PUB
 ---
 
-The Publicity committee at MIT SciOly takes care of the media presence and outward appearance of the club! We shape how MIT SciOly presents itself to the public, which is honestly a lotttt of power. Some of the main things we do include managing our social media and designing merchandise. The specifics of what we do is mostly up to the individual members to initiate — part of the reason I love Publicity is I can do whatever I want and people go along with it :D In this post, I’ll specifically cover the social media/marketing side of Publicity, which has been my main role so far. 
+The Publicity committee at MIT SciOly takes care of the media presence and outward appearance of the club! We shape how MIT SciOly presents itself to the public, which is honestly a lot of power if you think about it. Some of the main things we do include managing our social media and designing merchandise. The specifics of what we do is mostly up to the individual members to initiate — part of the reason I love Publicity is I can do whatever I want and people go along with it. In this post, I’ll specifically cover the social media/marketing side of Publicity, which has been my main role so far. 
 
 **Branding**
 
-When thinking about how we want to brand our tournament, MIT SciOly is lucky to have carved out a niche for itself already. Being generally recognized for having difficult (but high-quality) tests and attracting top-tier teams is both good and bad: It’s awesome that our tournament is overall highly regarded, but we also don’t want to be super unapproachable. In addition, if something goes wrong (cough cough awards), everyone knows about it which can be a little scary.
+When thinking about how we want to brand our tournament, MIT SciOly is lucky to have carved out a niche for itself already. Being generally recognized for having difficult (but high-quality) tests and attracting so many competitive teams is both good and bad: It’s awesome that our tournament is overall highly regarded, but we also don’t want to be super unapproachable. In addition, if something goes wrong (cough cough awards), everyone knows about it which can be a little scary.
 
 Ultimately, the vision we have is for the tournament to present a high-quality experience from the first time you hear about MIT SciOly to the moment you leave our campus. It’s of course not something we succeed in completely, but as a club we do work very hard towards this goal. Over the past two years, I think we’ve been trying to push our graphics and marketing materials towards being more representative of our tournament as a whole: cohesive (think our bright-color-against-black color scheme + the green-blue gradient logo), professional, but still fun and exciting.
 
 **Marketing**
 
-Our biggest audience comes from our Instagram account [@mit_scioly](https://www.instagram.com/mit_scioly/?hl=en), which I believe is the second-largest SciOly related Instagram account (@harvard_scioly we are coming for you). Again, MIT SciOly is really fortunate to be a pretty well-known tournament already; ES and competitor recruitment are two things we usually don’t have to worry about too much. So, that lets us spend a lot more time on fun initiatives – this year, the account has been the most active it’s ever been and we sort of had a different focus/project for every month of the year.
+Our biggest audience comes from our Instagram account [@mit_scioly](https://www.instagram.com/mit_scioly/?hl=en), which I believe is the second-largest SciOly related Instagram account (@harvard_scioly we are coming for you). Again, MIT SciOly is really fortunate to be a pretty well-known tournament already; ES and competitor recruitment are two things we usually don’t have to worry about too much. So, that lets us spend a lot more time on fun initiatives – this year, the account has been the most active it’s ever been and we've taken on a new initiative nearly every month of the year.
 
 **Timeline**
 
@@ -32,7 +32,7 @@ _January_: Unsurprisingly our busiest month on social media. We started doing th
 
 The reels we made this year seemed to be pretty popular with our audience, though the event supervisors really upstaged the planning committee in terms of reel performance… Huge thanks to the PC and ESs who appeared in the videos either voluntarily or involuntarily though. Can’t wait to make more videos soon and finally achieve my dreams of becoming a famous influencer! Just kidding, but you can feel free to send me ideas for new videos at heidi@mit.edu. 10k followers and I start trying to become a famous studytok influencer. 
 
-Post-tournament: After our tournament concluded, we’ve been a lot less active on the Instagram account. We posted some pictures from the tournament and then decided to chill out a bit. Except… we were actually working on blogs! Throughout March, we were setting up and writing drafts of blog posts, which will be coming
+_Post-tournament_: After our tournament concluded, we’ve been a lot less active on the Instagram account. We posted some pictures from the tournament and then decided to chill out a bit. Except… we were actually working on blogs! Throughout March, we were setting up and writing drafts of blog posts, which will be coming
 
 We also did an April Fool’s post that quickly became our most-liked and most-shared post by a wide margin!* Shoutout to Elisa for the idea and Richard for helping out with the writing.
 

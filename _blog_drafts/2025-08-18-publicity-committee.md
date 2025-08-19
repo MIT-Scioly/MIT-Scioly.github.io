@@ -32,15 +32,13 @@ _January_: Unsurprisingly our busiest month on social media. We started doing th
 
 The reels we made this year seemed to be pretty popular with our audience, though the event supervisors really upstaged the planning committee in terms of reel performance… Huge thanks to the PC and ESs who appeared in the videos either voluntarily or involuntarily though. Can’t wait to make more videos soon and finally achieve my dreams of becoming a famous influencer! Just kidding, but you can feel free to send me ideas for new videos at heidi@mit.edu. 10k followers and I start trying to become a famous studytok influencer. 
 
-_Post-tournament_: After our tournament concluded, we’ve been a lot less active on the Instagram account. We posted some pictures from the tournament and then decided to chill out a bit. Except… we were actually working on blogs! Throughout March, we were setting up and writing drafts of blog posts, which will be coming
+## Post-Tournament
+
+After our tournament concluded, we’ve been a lot less active on the Instagram account. We posted some pictures from the tournament and then decided to chill out a bit. Except… we were actually working on blogs! Throughout March, we were setting up and writing drafts of blog posts, which are now being released!
 
 We also did an April Fool’s post that quickly became our most-liked and most-shared post by a wide margin!* Shoutout to Elisa for the idea and Richard for helping out with the writing.
 
-![Publicity 3](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-3.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 3"}
-
-Our most viewed content*: the April Fool’s Post, the tournament day + thank you posts, volunteering, and two of our reels! This is pretty much exactly what we expected/what we would want which is great.
-
-_UPDATE_: So our 2026 tournament announcement post did quite well... reaching 90,000 views and completely smashing the most-liked/most-shared record from April Fool's. That was unexpected -- I think we gained nearly 1000 followers just from that one post. Unfortunately, I'm not sure if we reached the correct audience as it seems like most of the people getting the post recommended were either college students or international high schoolers. However, it was still super cool to see the likes and shares racking up by the day. Hopefully,  
+_UPDATE_: So our 2026 tournament announcement post did quite well... reaching 90,000 views and completely smashing the most-liked/most-shared record from April Fool's. That was unexpected -- I think we gained nearly 1000 followers just from that one post. Unfortunately, I'm not sure if we reached the correct audience as it seems like most of the people getting the post recommended were either college students or international high schoolers. However, it was still super cool to see the likes and shares racking up by the day.
 
 ## Conclusion
 

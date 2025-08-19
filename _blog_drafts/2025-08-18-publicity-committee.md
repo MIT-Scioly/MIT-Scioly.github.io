@@ -6,17 +6,17 @@ title: PUB PUB PUB
 
 The Publicity committee at MIT SciOly takes care of the media presence and outward appearance of the club! We shape how MIT SciOly presents itself to the public, which is honestly a lot of power if you think about it. Some of the main things we do include managing our social media and designing merchandise. The specifics of what we do is mostly up to the individual members to initiate — part of the reason I love Publicity is I can do whatever I want and people go along with it. In this post, I’ll specifically cover the social media/marketing side of Publicity, which has been my main role so far. 
 
-##Branding
+## Branding
 
 When thinking about how we want to brand our tournament, MIT SciOly is lucky to have carved out a niche for itself already. Being generally recognized for having difficult (but high-quality) tests and attracting so many competitive teams is both good and bad: It’s awesome that our tournament is overall highly regarded, but we also don’t want to be super unapproachable. In addition, if something goes wrong (cough cough awards), everyone knows about it which can be a little scary.
 
 Ultimately, the vision we have is for the tournament to present a high-quality experience from the first time you hear about MIT SciOly to the moment you leave our campus. It’s of course not something we succeed in completely, but as a club we do work very hard towards this goal. Over the past two years, I think we’ve been trying to push our graphics and marketing materials towards being more representative of our tournament as a whole: cohesive (think our bright-color-against-black color scheme + the green-blue gradient logo), professional, but still fun and exciting.
 
-##Marketing
+## Social Media
 
 Our biggest audience comes from our Instagram account [@mit_scioly](https://www.instagram.com/mit_scioly/?hl=en), which I believe is the second-largest SciOly related Instagram account (@harvard_scioly we are coming for you). Again, MIT SciOly is really fortunate to be a pretty well-known tournament already; ES and competitor recruitment are two things we usually don’t have to worry about too much. So, that lets us spend a lot more time on fun initiatives – this year, the account has been the most active it’s ever been and we've taken on a new initiative nearly every month of the year.
 
-##Timeline
+## Timeline
 
 _October_: New member intros -- we welcomed 13(!) new PC members this year and we were very excited to introduce them. 
 
@@ -42,6 +42,6 @@ Our most viewed content*: the April Fool’s Post, the tournament day + thank yo
 
 _UPDATE_: So our 2026 tournament announcement post did quite well... reaching 90,000 views and completely smashing the most-liked/most-shared record from April Fool's. That was unexpected -- I think we gained nearly 1000 followers just from that one post. Unfortunately, I'm not sure if we reached the correct audience as it seems like most of the people getting the post recommended were either college students or international high schoolers. However, it was still super cool to see the likes and shares racking up by the day. Hopefully,  
 
-##Conclusion
+## Conclusion
 
 There are so many different roles that go into running a tournament, and each one is essential. I usually joke that all I do is “make the silly little Instagram posts,” but publicity truly is an important part of the team. And you don’t have to stick to just one area! While my main focus has been with this committee that I love dearly, I’ve also had the chance to help out and learn from nearly every other group (sorry Admin Logs). Overall, I’d highly recommend getting involved —whether that’s volunteering at a local invitational, ES'ing or taking on an exec position—if you’re looking to build new skills and take on a bigger role in the SciOly community post-high school.

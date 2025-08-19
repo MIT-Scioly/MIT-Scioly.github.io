@@ -40,6 +40,8 @@ We also did an April Fool’s post that quickly became our most-liked and most-s
 
 _UPDATE_: So our 2026 tournament announcement post did quite well... reaching 90,000 views and completely smashing the most-liked/most-shared record from April Fool's. That was unexpected -- I think we gained nearly 1000 followers just from that one post. Unfortunately, I'm not sure if we reached the correct audience as it seems like most of the people getting the post recommended were either college students or international high schoolers. However, it was still super cool to see the likes and shares racking up by the day.
 
+![Publicity 3](/assets/blogs/2025-06-27-publicity-team/publicity-blog-image-3.png){:class="post-image"}{:style="display:block;margin:auto;margin-top:1em;max-height:100em;max-width:30em;width:100%"}{:alt="Publicity 3"}
+
 ## Conclusion
 
 There are so many different roles that go into running a tournament, and each one is essential. I usually joke that all I do is “make the silly little Instagram posts,” but publicity truly is an important part of the team. And you don’t have to stick to just one area! While my main focus has been with this committee that I love dearly, I’ve also had the chance to help out and learn from nearly every other group (sorry Admin Logs). Overall, I’d highly recommend getting involved —whether that’s volunteering at a local invitational, ES'ing or taking on an exec position—if you’re looking to build new skills and take on a bigger role in the SciOly community post-high school.

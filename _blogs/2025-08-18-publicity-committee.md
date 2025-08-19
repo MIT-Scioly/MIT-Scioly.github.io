@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2025-08-18
-title: PUB PUB PUB
+title: what's the pubbub all about?
 ---
 
 The Publicity committee at MIT SciOly takes care of the media presence and outward appearance of the club! We shape how MIT SciOly presents itself to the public, which is honestly a lot of power if you think about it. Some of the main things we do include managing our social media and designing merchandise. The specifics of what we do is mostly up to the individual members to initiate — part of the reason I love Publicity is I can do whatever I want and people go along with it. In this post, I’ll specifically cover the social media/marketing side of Publicity, which has been my main role so far. 

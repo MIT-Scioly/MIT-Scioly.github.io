@@ -14,7 +14,7 @@ Ultimately, the vision we have is for the tournament to present a high-quality e
 
 ## Social Media
 
-Our biggest audience comes from our Instagram account [@mit_scioly](https://www.instagram.com/mit_scioly/?hl=en), which I believe is the second-largest SciOly related Instagram account (@harvard_scioly we are coming for you). Again, MIT SciOly is really fortunate to be a pretty well-known tournament already; ES and competitor recruitment are two things we usually don’t have to worry about too much. So, that lets us spend a lot more time on fun initiatives – this year, the account has been the most active it’s ever been and we've taken on a new initiative nearly every month of the year.
+Our biggest audience comes from our Instagram account [@mit_scioly](https://www.instagram.com/mit_scioly/?hl=en), which I believe is the second-largest SciOly related Instagram account (HUSO we are coming for you). Again, MIT SciOly is really fortunate to be a well-known tournament already; ES and competitor recruitment are two things we usually don’t have to worry about too much. So, that lets us spend a lot more time on fun initiatives – this year, the account has been the most active it’s ever been and we've taken on a new initiative nearly every month of the year.
 
 ## Timeline
 

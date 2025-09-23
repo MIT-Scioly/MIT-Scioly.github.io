@@ -6,7 +6,7 @@ title: Thoughts from 2025 ESes
 
 APPLY TO EVENT SUPERVISE FOR 2026!!!
 
-Given that ES applications for this year's tournament are closing this week, we asked some of our 2025 ESes to share on their exoerience from last year's tournament. Here's what they had to say -- if you are selected to ES you may get to experience such things as well :D 
+Given that ES applications for this year's tournament are closing this week, we asked some of our 2025 ESes to share on their experience from last year's tournament. Here's what they had to say -- if you are selected to ES you may get to experience such things as well :D 
 
 ---
 

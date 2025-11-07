@@ -3,7 +3,7 @@ title: Tournament Day Info
 layout: default
 keywords: "tournament day info"
 ---
-_Last updated: October 6, 2025_
+_Last updated: November 6, 2025_
 
 ## Teams
 

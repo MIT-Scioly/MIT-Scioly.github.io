@@ -3,9 +3,13 @@ title: Tournament Day Info
 layout: default
 keywords: "tournament day info"
 ---
-_Last updated: June 10, 2025_
+_Last updated: October 6, 2025_
 
-More information will be released closer to the tournament date.
+## Teams
+
+The updated team list with team numbers can be found [here](docs/2026_teams.pdf). Homerooms will be added closer to the tournament date.
+
+More information will be released closer to the tournament date.Teams
 
 <!--
 

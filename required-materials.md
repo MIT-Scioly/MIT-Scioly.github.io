@@ -3,8 +3,11 @@ title: Required Materials
 layout: default
 keywords: "required materials"
 ---
-_Last updated: December 9, 2024_
+_Last updated: November 6, 2026_
 
+This page will be updated with more information as the tournament date approaches.
+
+<!-- 
 ## Checklist
 
 ### Coaches
@@ -47,4 +50,4 @@ Self scheduling will open at **3 PM EST on January 6th, 2025**. You will be able
 
 ## MIT Alert
 
-Though not required, we highly encourage coaches, competitors, and parents of competitors to sign up for [MIT Alert](https://www.smart911.com/smart911/ref/reg.action?pa=mitalert). Once signed up, you will be able to receive notifications of any on-campus emergencies and safety information.
+Though not required, we highly encourage coaches, competitors, and parents of competitors to sign up for [MIT Alert](https://www.smart911.com/smart911/ref/reg.action?pa=mitalert). Once signed up, you will be able to receive notifications of any on-campus emergencies and safety information. -->

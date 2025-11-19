@@ -3,12 +3,12 @@
   members:
       - name: Jonah Xu
         year: 2027
-        image_name: jonah_xu.jpg
+        image_name: jonah.jpg
         description: >
             Hello! I’m Jonah, a junior majoring in Biological Engineering (Course 20). I competed for duPont Manual HS and my favorite events were Anatomy, Designer Genes, and Protein Modeling. Scioly was the bedrock of my high school years, so I’m excited to give back at MIT! On campus, you can also find me culturing bacteria in the BioMaker Space, studying kinases, and waiting in a stir fry line. Off campus, I’m likely slurping ramen with friends, on the Green Line, or attempting to grind in Boston Public Library!
       - name: Derek Chen
         year: 2026
-        image_name: derek_chen.jpg
+        image_name: derek.jpg
         description: >
             Hello! I'm Derek Chen, a senior majoring in computer science and biology. I competed for four years for Belmont High School in MA. Some of my favorite events included Fossils (<3), Circuit Lab, Cell Biology, and Remote Sensing. Besides MIT Science Olympiad, I am also involved with HMMT and Traders@MIT. I'm really excited to be co-directing MIT SciOly for this year!
 - events:
@@ -16,31 +16,31 @@
   members:
       - name: Elisa Xia
         year: 2026
-        image_name: elisa_xia.jpg
+        image_name: elisa.jpg
         description: >
             Hi! I’m Elisa, a dual senior and MEng studying AI (Course 6-4). I was captain of Chattahoochee HS in GA, and my favorite events were Forensics and Codebusters. Outside of SciOly, I enjoy drawing/painting and baking. I also do research in healthcare AI and TA MIT’s Intro to Machine Learning course. I’m super excited for my 3rd year as Events Director for MIT SciOly and hope you all enjoy the tournament! 
       - name: Tyler Matsuzaki
         year: 2026
-        image_name: tyler_matsuzaki.jpg
+        image_name: tyler.jpg
         description: >
             Hi! I'm Tyler, a senior from Hawaii studying biological engineering (Course 20). Before MIT, I competed for Iolani where my favorite events were Astronomy, Cell Biology, and Protein Modeling. My number one activity on PC is asking Richard Deng to solve a problem. In my spare time, I play tuba and bass guitar for the MIT Wind Ensemble and the Video Game Orchestra, and chase plastic discs around in MIT ultimate frisbee.
       - name: Richard Deng
         year: 2028
-        image_name: richard_deng.jpg
+        image_name: richard.jpg
         description: >
             Hi! I'm Richard, a sophomore studying chemistry and biology (course 5-7). In high school, I was a captain for Belmont, MA where my favorite events included A&P, Chem Lab, and Fermi Questions. In my free time, I enjoy watching movies, mixing condiments, and planning trips and outings. Throughout my experience competing in Scioly, I appreciated the opportunity to make new friends, learn new things, and share lots of memories, and I'm excited to keep contributing to this community!
       - name: Basil Liu
         year: 2027
-        image_name: basil_liu.jpg
+        image_name: basil.jpg
         description: >
             Hi everyone! I’m Basil, a ‘27 majoring in math with computer science. I competed on Troy's varsity SciOly team for four years, two of them as captain. I love ecology and ID events, though I've also done three chem events and one event from every subject category. I've helped run Troy Invite in the past, and if you've suffered through an Ecology, Water Quality, Green Gen, Crime Busters, or Ornithology test, it might have been at my hands. Outside of SciOly, I love birdwatching, books, and singing musical theatre.
         year: 2028
-        image_name: wendy_geng.jpg
+        image_name: wendy.jpg
         description: >
             Hi! I’m Wendy, a sophomore majoring in chemistry and bioogy (5-7). In high school, I competed in Science Olympiad on LASA’s team in TX. My favorite events were Chemistry Lab, Environmental Chemistry, and Dynamic Planet. I’m also involved in MIT EMS, immunology research, and Pi Beta Phi. In my free time, I like collecting smiskis, thrifting t-shirts, and cooking.
       - name: Phoenix Wu
         year: 2027
-        image_name: phoenix_wu.jpg
+        image_name: phoenix2.jpg
         description: >
             I'm Phoenix, a junior studying Computer Science (Course 6-4). I enjoyed competing in Texas, and some of my favorite events were Hovercraft, Optics, and Chemistry Lab! Science Olympiad has been a huge part of my life, and I'm glad to be able to continue being a part of the community into college. In my free time, I enjoy playing frisbee, cooking for my suitemates, and singing in MIT's choirs.
       - name: Bill Sun

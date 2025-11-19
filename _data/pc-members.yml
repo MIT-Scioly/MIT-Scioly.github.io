@@ -45,22 +45,22 @@
             I'm Phoenix, a junior studying Computer Science (Course 6-4). I enjoyed competing in Texas, and some of my favorite events were Hovercraft, Optics, and Chemistry Lab! Science Olympiad has been a huge part of my life, and I'm glad to be able to continue being a part of the community into college. In my free time, I enjoy playing frisbee, cooking for my suitemates, and singing in MIT's choirs.
       - name: Bill Sun
         year: 2029
-        image_name: 
+        image_name: bill.jpg
         description: >
             Hi! I'm Bill, a freshman planning to study Computational Biology (Course 6-7). I competed with Seven Lakes HS for four years, and my favorite events were WIDI, Microbe Mission, and Cell Biology. In my free time, I enjoy playing frisbee and cooking.
       - name: Carolina Kusumanegara
         year: 2029
-        image_name:
+        image_name: carolina.jpg
         description: >
             Hi! I'm Carolina, a freshman planning on doing Course 6-7 (Computer Science + Molecular Biology) or 20 (BioE). I competed for Seven Lakes High School for four years, one of them as captain. My favorite events were Forensics, Fossils, and Dynamic Planet! At MIT, you could find me reading 3D genomics papers, writing for Infinite (fashion magazine), or trying new monthly flavors at Berryline. 
       - name: Joanna Liu
         year: 2029
-        image_name:
+        image_name: joanna.jpg
         description: >
             Hi! I'm Joanna, and I'm a freshman planning to major in math and computer science. I was the co-president of Clark Science Olympiad in Las Vegas, and my favorite events were flight, helicopter, tower, experimental design, and codebusters! Outside of SciOly, I'm also invovled in SBC and Pistol Club :0 In my free time, I love playing video games and watching cdramas, and I'm super excited to be a part of the planning committee this year!
       - name: Jennifer Lin
         year: 2029
-        image_name:
+        image_name: jennifer.jpg
         description: >
             Hi, I'm Jennifer! I'm a freshman and I'm planning to study Chemical Biological Engineering (course 10b). I've led and competed for Brooklyn Tech Science Olympiad in NYC for 3 years and I'm so excited to be on the Planning Committee here at MIT! Some of the events I enjoyed doing are Bridge, Tower, and Air Trajectory. 
 - publicity:

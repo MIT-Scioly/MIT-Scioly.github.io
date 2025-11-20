@@ -115,7 +115,7 @@
         year: 2029
         image_name: melody.jpg
         description: >
-            [insert bio]
+            Hi, I’m Melody! I’m a freshman at MIT from New York with plans to major in math (Course 18). I previously competed with MacArthur High School, during which my favorite events were Cell Biology, Anatomy and Physiology, and Microbe Mission. On campus, I’m also a member of MIT Vocal Jazz Ensemble (VJE) and Pistol Club; off-campus, I love cafe-hopping, doing all things creative, and collecting rubber ducks!
       - name: Jayne Chen
         year: 2029
         image_name: jayne1.jpg
@@ -168,7 +168,7 @@
         description: >
             Hi everyone! My name's Smruti and I'm planning on studying something in Course 6 (Computer Science), but still too early to tell. I competed for Enloe Science Olympiad in NC all 4 years and am so excited to be on planning committee! My favorite events are Water Quality, Codebusters, and Experimental Design. Outside of SciOly, I'm in involved in the orchestra, MIT Tech Consulting, and MIT Entrepreneurship Club. In my free time, I enjoy dancing, watching TV, reading, and playing volleyball.
       - name: Ben Kuchma
-        year: 2030
+        year: 
         image_name: ben.jpg
         description: >
             Hi! I'm Ben, a first-year PhD student in electrical engineering and computer science (EECS) from Winchester, MA. Over the past few years, I played a hand in running the competition at UMass Amherst, and now at MIT, I'm excited to do the same! I love all the events, but I have a special place in my heart for build events, ornithology, and forensics. When not running MITSO or doing lab work, you can find me either grabbing food with friends, doing karaoke, or looking for birds!
@@ -193,6 +193,7 @@ members:
         year: 
         image_name: yoshi_saito.jpg
         description: >
+            Hi, I’m Yoshi! I’m currently a physics PhD student at Harvard doing condensed matter theory. In undergrad, I also was part of the MIT Science Olympiad Planning Committee, and I’m excited to be helping MIT SciOly this year again!
 # - web:
 #  name: Online Logistics
 #  members:

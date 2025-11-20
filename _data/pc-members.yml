@@ -174,8 +174,8 @@
             Hi! I'm Ben, a first-year PhD student in electrical engineering and computer science (EECS) from Winchester, MA. Over the past few years, I played a hand in running the competition at UMass Amherst, and now at MIT, I'm excited to do the same! I love all the events, but I have a special place in my heart for build events, ornithology, and forensics. When not running MITSO or doing lab work, you can find me either grabbing food with friends, doing karaoke, or looking for birds!
 
 - social: 
-name: Social
-members: 
+  name: Social
+  members: 
       - name: Renee Chang
         year: 2026
         image_name: renee_chang.jpg
@@ -187,8 +187,8 @@ members:
         description: >
             I like frogs
 - advisor:
-name: Advisor
-members:
+  name: Advisor
+  members:
       - name: Yoshi Saito
         year: 2022
         image_name: yoshi_saito.jpg

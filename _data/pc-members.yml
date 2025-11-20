@@ -95,7 +95,7 @@
         year: 2027
         image_name: allison.jpg
         description: >
-            Hello!! My name is Allison, and I’m a junnior from Hawaii studying computer science! In high school I competed for ‘Iolani and most enjoyed Astronomy, Machines, and Circuit Lab (hooray for their revival!). Outside of Sci Oly, I love baking with friends, writing, and generally engaging with the chaos and spontaneity of MIT.      - name: Stephanie Mei
+            Hello!! My name is Allison, and I’m a junior from Hawaii studying computer science! In high school, I competed for ‘Iolani and most enjoyed Astronomy, Machines, and Circuit Lab (hooray for their revival!). Outside of Sci Oly, I love baking with friends, writing, and generally engaging with the chaos and spontaneity of MIT.      - name: Stephanie Mei
       - name: Stephanie Mei
         year: 2028
         image_name: stephanie.jpg
@@ -124,27 +124,31 @@
 - internal:
   name: Administration Logistics
   members:
-      - name: Olivia Chen
-        year: 2026
-        image_name: olivia_chen.jpg
-        description: >
-            Hi! I'm Olivia and I'm from New York City. I competed with Stuyvesant High School for three years; my favorite events were Geologic mapping <3 and Rocks & Minerals. Outside of classes, I enjoy archery, trying out new cafes, and videography.
-      - name: Annabel Tiong
-        year: 2027
-        image_name: annabel_tiong.jpg
-        description: >
-            Hi! I'm Annabel and I'm a sophomore from SoCal studying Bioengineering (Course 20). I've competed in Science Olympiad for 4 years in both Div B (Sierra Vista) and Div C (Northwood), where I served as team captain. My favorite events are Cell Biology, Green Gen, and A&P. (Although an honorable mention goes to Detector Building.) I'm also a part of MIT Hacking Medicine, Capital Partners, ADT, and Biotech Group, and I like to cafe-hop, attempt to reconnect with nature, and nap. 
-      - name: Michael Voigt
-        year: 2028
-        image_name: michael_voigt.jpg
-        description: >
-            Hi! I'm Michael, a freshman studying Physics and Computer Science (Course 6 & 8). I was a captain for the Science Olympiad team in Belmont, MA during high school and enjoyed competing in Optics, Codebusters, and Dynamic Planet. I look forward to planning and writing for Science Olympiad competitions during college! In my free time, I like to play tennis, practice taekwondo and chill with my cats.
       - name: Amy Chen
         year: 2028
         image_name: amy_chen.jpg
         description: >
             Hey! I’m Amy, and I’m planning on studying electrical engineering (course 6)! I competed in SciOly for 6 years, and in high school I was a captain for duPont Manual SciOly! My favorite events were Dynamic Planet and Remote Sensing. Outside of SciOly, I am part of SEVT, and I like to do photography, birdwatch, and write stories!
-
+      - name: Annabel Tiong
+        year: 2027
+        image_name: annabel.jpg
+        description: >
+            Hi! I'm Annabel and I'm a sophomore from SoCal studying Bioengineering (Course 20). I've competed in Science Olympiad for 4 years in both Div B (Sierra Vista) and Div C (Northwood), where I served as team captain. My favorite events are Cell Biology, Green Gen, and A&P. (Although an honorable mention goes to Detector Building.) I'm also a part of MIT Hacking Medicine, Capital Partners, ADT, and Biotech Group, and I like to cafe-hop, attempt to reconnect with nature, and nap. 
+      - name: Olivia Chen
+        year: 2026
+        image_name: olivia.jpg
+        description: >
+            Hi! I'm Olivia and I'm from New York City. I competed with Stuyvesant High School for three years; my favorite events were Geologic mapping <3 and Rocks & Minerals. Outside of classes, I enjoy archery, trying out new cafes, and videography.
+      - name: Ananya Balaji
+        year: 2029
+        image_name: ananya.jpg
+        description: >
+            Hi! I’m Ananya, a freshman planning on studying Biological Engineering! I competed for Ames High School in Iowa for 4 years and was captain last year. My favorite events were Disease Detectives, Chem Lab, and Ornithology! In my free time I love to dance, read, and watch movies. 
+      - name: Miranda Li
+        year: 2029
+        image_name: miranda.jpg
+        description: >
+            Hello! My name is Miranda and I'm a freshman planning on majoring in either course 6-3 or 6-14! I've competed in Science Olympiad for 7 years, starting from 6th grade, and was the captain for my team last year. My favorite event by far is Experimental Design, and some close contenders are It's About Time and Chem Lab. Besides MIT SciOly, I'm also on the logistics committee for M[IT]^2 and I like to read, sketch, and play violin in my free time. I'm excited to help organize the MIT Invite on the Admin Logs Committee this year :)
 - finance:
   name: Finance
   members:

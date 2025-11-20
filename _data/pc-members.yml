@@ -186,6 +186,13 @@ members:
         image_name: greycen.jpg
         description: >
             [insert description]
+- advisor:
+name: Advisor
+members:
+      - name: Yoshi Saito
+        year: 
+        image_name: yoshi_saito.jpg
+        description: >
 # - web:
 #  name: Online Logistics
 #  members:

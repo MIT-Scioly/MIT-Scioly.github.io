@@ -69,12 +69,12 @@
   members:
       - name: Keona Kuo
         year: 2028
-        image_name: keona_kuo.jpg
+        image_name: keona.jpg
         description: >
-            Hi! I'm Keona, a freshman from Arizona planning to major in biological engineering (course 20). I was co-president of University High School's Science Olympiad team where I competed for four years. My favorite events were Designer Genes, Codebusters, and Anatomy & Physiology. Outside of Science Olympiad, I am also involved in ADT and M(IT)^2.  In my free time, I love crocheting, drawing, dancing, and drinking lots of boba!
+            Hi! I’m Keona, a sophomore from Arizona majoring in Biological Engineering! In high school, I was co-president of University High School’s Science Olympiad team where I competed for four years. My favorite events were Designer Genes, Codebusters, and WIDI. Outside of Science Olympiad, I’m part of ADT, Ridonkulous, RingComm, and ATS. In my free time, I love crocheting, drawing, and drinking boba! :D
       - name: Heidi Zhang
         year: 2027
-        image_name: heidi_zhang.jpg
+        image_name: heidi.jpg
         description: >
             heyheyhey, I’m Heidi! I’m a junior majoring in Math and CS. In high school, I competed and captained for Belmont High School -- my favorite event was Rocks and Minerals (<333). I also really enjoyed Codebusters, Write It Do It/CAD It, and Dynamic Planet. Outside of SciOly, I’m floor chair for Conner 3 and I'm also in the MIT Ohms (an a cappella group!) In my free time, you can find me doing the Squaredle, painting, and lamenting the loss of P/NR.
       - name: Eleni Morales
@@ -82,6 +82,12 @@
         image_name: eleni_morales.jpg
         description: >
             Hi everyone! My name is Eleni. I am a freshman planning to pursue Mechanical Engineering (Course 2). At heart, I am a true builder. My favorite event is Ping Pong Parachute followed closely by Scrambler, Gravity Vehicle, and Trajectory. Having competed in Science Olympiad since 5th grade, it is a community and an experience I hold very dear. I am extremely grateful and eager to be on the other side of the competition, working to bring Scioly to all of you! Cheez-Its are superior to Goldfish, I love Disney, and ducks are my favorite animal!
+      - name: Sourish Pramanik
+        year: 2029
+        image_name: sourish.jpg
+        description: >
+            Hi, I’m Sourish, and I’m a freshman at MIT planning to study courses 8 and 6-5 (Physics and EECS). I competed for Montgomery High School when I was a student and some of my favorite events were Materials Science, Optics (not the lab!!!), and It’s About Time. In my free time, you’ll see me playing frisbee or tennis, finding clothes in thrift markets, and going on late night excursions around Boston.
+      
 - external:
   name: Competitor Logistics
   members:

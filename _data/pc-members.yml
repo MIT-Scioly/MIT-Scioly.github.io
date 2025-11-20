@@ -128,12 +128,12 @@
         year: 2028
         image_name: amy_chen.jpg
         description: >
-            Hey! I’m Amy, and I’m planning on studying electrical engineering (course 6)! I competed in SciOly for 6 years, and in high school I was a captain for duPont Manual SciOly! My favorite events were Dynamic Planet and Remote Sensing. Outside of SciOly, I am part of SEVT, and I like to do photography, birdwatch, and write stories!
+            Hilo! I’m Amy, and I’m studying electrical engineering (course 6-5)! I competed in Science Olympiad for duPont Manual High School, and my favorite events were Dynamic Planet and Remote Sensing. Outside of SciOly, I am part of the MIT Solar Electric Vehicle Team, and I like to do photography, birdwatch, write stories, and sail.
       - name: Annabel Tiong
         year: 2027
         image_name: annabel.jpg
         description: >
-            Hi! I'm Annabel and I'm a sophomore from SoCal studying Bioengineering (Course 20). I've competed in Science Olympiad for 4 years in both Div B (Sierra Vista) and Div C (Northwood), where I served as team captain. My favorite events are Cell Biology, Green Gen, and A&P. (Although an honorable mention goes to Detector Building.) I'm also a part of MIT Hacking Medicine, Capital Partners, ADT, and Biotech Group, and I like to cafe-hop, attempt to reconnect with nature, and nap. 
+            Hi! I'm Annabel and I'm a junior from SoCal majoring in Chemistry & Biology (5-7) with a minor in Science, Technology, and Society (STS). I've competed in Science Olympiad for 4 years at Sierra Vista Middle School and Northwood High School where I served as team captain. I really enjoyed Cell Biology, A&P, and Green Gen. I'm also part of MIT Hacking Medicine and MIT Capital Partners. In my free time, I like to solve crosswords, run, and attempt to lock-in while exploring cafes.
       - name: Olivia Chen
         year: 2026
         image_name: olivia.jpg
@@ -152,26 +152,40 @@
 - finance:
   name: Finance
   members:
-      - name: Renee Chang
-        year: 2026
-        image_name: renee_chang.jpg
-        description: >
-            Hi everyone! I'm Renee, a sophomore majoring in Biology (course 7) with a minor in finance. I competed in Division C Science Olympiad in Los Angeles for all 4 years of high school. My favorite events were Designer Genes, Cell Biology, and Anatomy and Physiology. Currently, I am currently working on a UROP studying cancer metabolism! Outside of school, I love to run, workout at the gym, and bake!
       - name: Andrew Van Dusen
         year: 2027
-        image_name: andrew_vandusen.jpg
+        image_name: andrew.jpg
         description: >
-            Hey! I’m Andrew, a freshman from New Jersey studying course 20 (biological engineering). I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and Science Bowl. In my free time, I enjoy hiking, listening to music, and watching baseball.
+            Hey! I’m Andrew, a junior from New Jersey studying biological engineering and computer science. In high school, I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and research in Gene-Wei Li's lab. In my free time, I enjoy running, listening to music, and watching baseball. 
+      - name: Yolanda Xie
+        year: 2028
+        image_name: yolanda_xie.jpg
+        description: >
+            Hi! I'm Yolanda, a sophomore majoring in CS and Molecular Biology. I was part of Science Olympiad throughout high school and competed in events such as Disease Detectives, Anatomy, Codebusters, and Write It Do It. I had a fantastic time competing as well as helping out with tournaments to give back to the community! In my free time, I enjoy flinging arrows with the MIT Archery Team. 
       - name: Smruti Patil
         year: 2028
         image_name: smruti_patil.jpg
         description: >
             Hi everyone! My name's Smruti and I'm planning on studying something in Course 6 (Computer Science), but still too early to tell. I competed for Enloe Science Olympiad in NC all 4 years and am so excited to be on planning committee! My favorite events are Water Quality, Codebusters, and Experimental Design. Outside of SciOly, I'm in involved in the orchestra, MIT Tech Consulting, and MIT Entrepreneurship Club. In my free time, I enjoy dancing, watching TV, reading, and playing volleyball.
-      - name: Yolanda Xie
-        year: 2028
-        image_name: yolanda_xie.jpg
+      - name: Ben Kuchma
+        year: 2030
+        image_name: ben.jpg
         description: >
-            I'm Yolanda, a freshman interested in Course 6-9 (Computation and Cognition). I was part of Science Olympiad throughout high school and competed in events such as Disease Detectives, Anatomy, Codebusters, and Write It Do It. I've had a fantastic time competing as well as helping out with tournaments to give back to the community! In my free time, I enjoy practicing archery and volunteering as an ESL tutor.
+            Hi! I'm Ben, a first-year PhD student in electrical engineering and computer science (EECS) from Winchester, MA. Over the past few years, I played a hand in running the competition at UMass Amherst, and now at MIT, I'm excited to do the same! I love all the events, but I have a special place in my heart for build events, ornithology, and forensics. When not running MITSO or doing lab work, you can find me either grabbing food with friends, doing karaoke, or looking for birds!
+
+- social: 
+name: Social
+members: 
+      - name: Renee Chang
+        year: 2026
+        image_name: renee_chang.jpg
+        description: >
+            Hi everyone! My name is Renee and I’m a senior studying course 7 (Biology major) and 15-3 (management minor). I’ve been part of planning committee for the last 3 years and absolutely love it!  In addition to planning committee I am doing research in the Vander Heiden lab studying the metabolism of cancer cells. In my free time I love to run marathons and half marathons and am part of a few run clubs around Boston! I also love to weight lift and cook! 
+      - name: Greycen Ren
+        year: 
+        image_name: greycen.jpg
+        description: >
+            [insert description]
 # - web:
 #  name: Online Logistics
 #  members:

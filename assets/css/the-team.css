@@ -25,6 +25,14 @@
     display: none;
 }
 
+/* Ensure images are cropped to 4:3 ratio without stretching */
+.image.is-4by3 img {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+}
+
 @media only screen and (min-width: 430px){
     .mobile-only-text {
         display: none;

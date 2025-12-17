@@ -7,6 +7,7 @@ var outerHeaders = {
         "Tournament Day Info",
         "Tournament Policies",
         "Events",
+        "Volunteer",
         "Awards Ceremony",
         "Results",
     ],
@@ -39,6 +40,7 @@ var links = {
     Travel: "travel",
     "Required Materials": "required-materials",
     Blogs: "blogs",
+    Volunteer: "volunteer",
 };
 
 let navbar = document.getElementById("navbar");

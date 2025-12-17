@@ -41,8 +41,8 @@ Competitors must bring required PPE but do not need to bring the additional lab 
 
 For the 2026 Invitational, we will be running three trial events below. Trial events are self-scheduled through ISOTOPE, and alternates are allowed to compete in them.
 
-| Event                  | Rules                                                                                         |
-| ---------------------- | --------------------------------------------------------------------------------------------- |
-| Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/13BJNSpYq0RtXSFQq-JRdMXGTUlsOfLHX/view?usp=drive_link) |
-| Scavenger Hunt         | [Link](https://drive.google.com/file/d/1dKydmhCYwbt7EMWYlYvmp2kQ8nKe7hif/view?usp=drive_link) |
-| Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=drive_link) |
+| Event                  | Rules                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing) |
+| Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing) |
+| Science Scramble       | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing) |

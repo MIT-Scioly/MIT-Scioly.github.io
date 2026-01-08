@@ -3,8 +3,7 @@ title: Event Information
 layout: default
 keywords: "event-info"
 ---
-
-_Last updated: December 12, 2025_
+_Last updated: January 7, 2025_
 
 ## Event-Specific Information
 
@@ -29,9 +28,9 @@ Competitors must bring the full laboratory kits specified in the Division C Chem
 
 ### Helicopter
 
-The location of Helicopter is the Building 45 (Schwarzman) Lobby. The ceiling height is approximately 12 ft.
+The **updated** location of Helicopter is now 34-301 and 34-302. The ceiling height is approximately 10 ft.
 
-![Image of Schwarzman lobby](assets\images\schwarzman-lobby.jpg){: width="75%"}
+![Image of 34-301](assets\images\34-301.png){: width="75%"}
 
 ### Materials Science
 
@@ -41,8 +40,8 @@ Competitors must bring required PPE but do not need to bring the additional lab 
 
 For the 2026 Invitational, we will be running three trial events below. Trial events are self-scheduled through ISOTOPE, and alternates are allowed to compete in them.
 
-| Event                  | Rules                                                                                      |
-| ---------------------- | ------------------------------------------------------------------------------------------ |
+| Event                  | Rules                                                                                   |
+| ---------------------- | --------------------------------------------------------------------------------------- |
 | Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing) |
 | Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing) |
 | Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=sharing) |

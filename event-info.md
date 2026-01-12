@@ -3,7 +3,8 @@ title: Event Information
 layout: default
 keywords: "event-info"
 ---
-_Last updated: January 7, 2025_
+
+_Last updated: January 12, 2025_
 
 ## Event-Specific Information
 
@@ -36,12 +37,14 @@ The **updated** location of Helicopter is now 34-301 and 34-302. The ceiling hei
 
 Competitors must bring required PPE but do not need to bring the additional lab materials specified in the Division C Chemistry Events Lab Equipment List.
 
+Competitors should also bring one laptop per team (should be a computer instead of a tablet/smart phone) capable of running a modern browser such as Chrome, Firefox, etc. If teams cannot bring one, a laptop will be provided for the team by the event supervisors.
+
 ## Trial Events
 
 For the 2026 Invitational, we will be running three trial events below. Trial events are self-scheduled through ISOTOPE, and alternates are allowed to compete in them.
 
-| Event                  | Rules                                                                                   |
-| ---------------------- | --------------------------------------------------------------------------------------- |
+| Event                  | Rules                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
 | Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing) |
 | Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing) |
 | Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=sharing) |

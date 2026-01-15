@@ -18,7 +18,7 @@
         year: 2026
         image_name: elisa.jpg
         description: >
-            Hi! I’m Elisa, a dual senior and MEng studying AI (Course 6-4). I was captain of Chattahoochee HS in GA, and my favorite events were Forensics and Codebusters. Outside of SciOly, I enjoy drawing/painting and baking. I also do research in healthcare AI and TA MIT’s Intro to Machine Learning course. I’m super excited for my 3rd year as Events Director for MIT SciOly and hope you all enjoy the tournament! 
+            Hi! I’m Elisa, a dual senior and MEng studying AI (Course 6-4). I was captain of Chattahoochee HS in GA, and my favorite events were Forensics and Codebusters. Outside of SciOly, I enjoy drawing/painting and baking. I also do research in healthcare AI and TA MIT’s Intro to Machine Learning course. I’m super excited for my 3rd year as Events Director for MIT SciOly and hope you all enjoy the tournament!
       - name: Tyler Matsuzaki
         year: 2026
         image_name: tyler.jpg
@@ -48,7 +48,7 @@
         year: 2029
         image_name: carolina.jpg
         description: >
-            Hi! I'm Carolina, a freshman planning on doing Course 6-7 (Computer Science + Molecular Biology) or 20 (BioE). I competed for Seven Lakes High School for four years, one of them as captain. My favorite events were Forensics, Fossils, and Dynamic Planet! At MIT, you could find me reading 3D genomics papers, writing for Infinite (fashion magazine), or trying new monthly flavors at Berryline. 
+            Hi! I'm Carolina, a freshman planning on doing Course 6-7 (Computer Science + Molecular Biology) or 20 (BioE). I competed for Seven Lakes High School for four years, one of them as captain. My favorite events were Forensics, Fossils, and Dynamic Planet! At MIT, you could find me reading 3D genomics papers, writing for Infinite (fashion magazine), or trying new monthly flavors at Berryline.
       - name: Joanna Liu
         year: 2029
         image_name: joanna.jpg
@@ -58,7 +58,7 @@
         year: 2029
         image_name: jennifer.jpg
         description: >
-            Hi, I'm Jennifer! I'm a freshman and I'm planning to study Chemical Biological Engineering (course 10b). I've led and competed for Brooklyn Tech Science Olympiad in NYC for 3 years and I'm so excited to be on the Planning Committee here at MIT! Some of the events I enjoyed doing are Bridge, Tower, and Air Trajectory. 
+            Hi, I'm Jennifer! I'm a freshman and I'm planning to study Chemical Biological Engineering (course 10b). I've led and competed for Brooklyn Tech Science Olympiad in NYC for 3 years and I'm so excited to be on the Planning Committee here at MIT! Some of the events I enjoyed doing are Bridge, Tower, and Air Trajectory.
       - name: Eleni Morales
         year: 2028
         image_name: eleni_morales.jpg
@@ -82,7 +82,7 @@
         image_name: sourish.jpg
         description: >
             Hi, I’m Sourish, and I’m a freshman at MIT planning to study courses 8 and 6-5 (Physics and EECS). I competed for Montgomery High School when I was a student and some of my favorite events were Materials Science, Optics (not the lab!!!), and It’s About Time. In my free time, you’ll see me playing frisbee or tennis, finding clothes in thrift markets, and going on late night excursions around Boston.
-      
+
 - external:
   name: Competitor Logistics
   members:
@@ -95,7 +95,7 @@
         year: 2027
         image_name: allison.jpg
         description: >
-            Hello!! My name is Allison, and I’m a junior from Hawaii studying computer science! In high school, I competed for ‘Iolani and most enjoyed Astronomy, Machines, and Circuit Lab (hooray for their revival!). Outside of Sci Oly, I love baking with friends, writing, and generally engaging with the chaos and spontaneity of MIT.      - name: Stephanie Mei
+            Hello!! My name is Allison, and I’m a junior from Hawaii studying computer science! In high school, I competed for ‘Iolani and most enjoyed Astronomy, Machines, and Circuit Lab (hooray for their revival!). Outside of Sci Oly, I love baking with friends, writing, and generally engaging with the chaos and spontaneity of MIT.
       - name: Stephanie Mei
         year: 2028
         image_name: stephanie.jpg
@@ -143,7 +143,7 @@
         year: 2029
         image_name: ananya.jpg
         description: >
-            Hi! I’m Ananya, a freshman planning on studying Biological Engineering! I competed for Ames High School in Iowa for 4 years and was captain last year. My favorite events were Disease Detectives, Chem Lab, and Ornithology! In my free time I love to dance, read, and watch movies. 
+            Hi! I’m Ananya, a freshman planning on studying Biological Engineering! I competed for Ames High School in Iowa for 4 years and was captain last year. My favorite events were Disease Detectives, Chem Lab, and Ornithology! In my free time I love to dance, read, and watch movies.
       - name: Miranda Li
         year: 2029
         image_name: miranda.jpg
@@ -156,12 +156,12 @@
         year: 2027
         image_name: andrew.jpg
         description: >
-            Hey! I’m Andrew, a junior from New Jersey studying biological engineering and computer science. In high school, I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and research in Gene-Wei Li's lab. In my free time, I enjoy running, listening to music, and watching baseball. 
+            Hey! I’m Andrew, a junior from New Jersey studying biological engineering and computer science. In high school, I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and research in Gene-Wei Li's lab. In my free time, I enjoy running, listening to music, and watching baseball.
       - name: Yolanda Xie
         year: 2028
         image_name: yolanda_xie.jpg
         description: >
-            Hi! I'm Yolanda, a sophomore majoring in CS and Molecular Biology. I was part of Science Olympiad throughout high school and competed in events such as Disease Detectives, Anatomy, Codebusters, and Write It Do It. I had a fantastic time competing as well as helping out with tournaments to give back to the community! In my free time, I enjoy flinging arrows with the MIT Archery Team. 
+            Hi! I'm Yolanda, a sophomore majoring in CS and Molecular Biology. I was part of Science Olympiad throughout high school and competed in events such as Disease Detectives, Anatomy, Codebusters, and Write It Do It. I had a fantastic time competing as well as helping out with tournaments to give back to the community! In my free time, I enjoy flinging arrows with the MIT Archery Team.
       - name: Smruti Patil
         year: 2028
         image_name: smruti_patil.jpg
@@ -173,14 +173,14 @@
         description: >
             Hi! I'm Ben, a first-year PhD student in electrical engineering and computer science (EECS) from Winchester, MA. Over the past few years, I played a hand in running the competition at UMass Amherst, and now at MIT, I'm excited to do the same! I love all the events, but I have a special place in my heart for build events, ornithology, and forensics. When not running MITSO or doing lab work, you can find me either grabbing food with friends, doing karaoke, or looking for birds!
 
-- social: 
+- social:
   name: Social
-  members: 
+  members:
       - name: Renee Chang
         year: 2026
         image_name: renee_chang.jpg
         description: >
-            Hi everyone! My name is Renee and I’m a senior studying course 7 (Biology major) and 15-3 (management minor). I’ve been part of planning committee for the last 3 years and absolutely love it!  In addition to planning committee I am doing research in the Vander Heiden lab studying the metabolism of cancer cells. In my free time I love to run marathons and half marathons and am part of a few run clubs around Boston! I also love to weight lift and cook! 
+            Hi everyone! My name is Renee and I’m a senior studying course 7 (Biology major) and 15-3 (management minor). I’ve been part of planning committee for the last 3 years and absolutely love it!  In addition to planning committee I am doing research in the Vander Heiden lab studying the metabolism of cancer cells. In my free time I love to run marathons and half marathons and am part of a few run clubs around Boston! I also love to weight lift and cook!
       - name: Greycen Ren
         year: 2026
         image_name: greycen.jpg
@@ -194,6 +194,7 @@
         image_name: yoshi_saito.jpg
         description: >
             Hi, I’m Yoshi! I’m currently a physics PhD student at Harvard doing condensed matter theory. In undergrad, I also was part of the MIT Science Olympiad Planning Committee, and I’m excited to be helping MIT SciOly this year again!
+
 # - web:
 #  name: Online Logistics
 #  members:

@@ -38,7 +38,7 @@ Here are the event supervisors for the 2025-2026 tournament!
 
 ## Circuit Lab
 
-- **Allen Li**: *Massachusetts Institute of Technology* – Hi! I’m Allen, a freshman from California studying physics and EECS at MIT. I competed for Monta Vista for three years and especially loved events like Optics and Robot Tour. Outside of class, I sing in the MIT Logarhythms and play the occasional card game.
+- **Allen Li**: *MIT* – Hi! I’m Allen, a freshman from California studying physics and EECS at MIT. I competed for Monta Vista for three years and especially loved events like Optics and Robot Tour. Outside of class, I sing in the MIT Logarhythms and play the occasional card game.
 - **Zhi Zheng Ong**: *MIT* – Hello!! I'm ZZ, a Physics (8) and EECS (6-5) sophomore from Malaysia :D Outside of being a nerd I love to spend time in makerspaces, go sailing / geocaching around Boston, and watch the sunset from Harvard bridge (it's beautiful trust)
 
 ## Codebusters
@@ -108,7 +108,7 @@ Here are the event supervisors for the 2025-2026 tournament!
 ## Remote Sensing
 
 - **Aidan York**: *University of Pittsburgh* – Hey, I'm Aidan! I'm a second year PhD student studying tectonics at the University of Pittsburgh. I graduated from Haverford College in 2024, and Kellenberg Memorial HS in 2020. I'm super excited to be supervising Remote Sensing this year! In the past, I've supervised Geologic Mapping, Rocks and Minerals, and Sounds of Music across the country. In free time, I love listening to Green Day and Fall Out Boy, playing them on my bass guitar, as well as playing competitive Super Smash Bros. Ultimate. So excited to see everyone at the tournament!
-- **Araneesh Pratap**: *N/A* – Hi, I'm Araneesh. Went to Georgia Tech for Computer Science ('22) and have been in the working world since then. I was the National Event Supervisor for Geologic Mapping in 2024 and 2025, and spent 2021 and 2022 as the Georgia C State Tournament Director (the second of my soon-to-be-three stints organizing a tournament), bringing the tournament to Georgia Tech where it has remained ever since. I've been an ES for MIT since 2019, my first year out of high school, and glad to be back again every time
+- **Araneesh Pratap**: Hi, I'm Araneesh. Went to Georgia Tech for Computer Science ('22) and have been in the working world since then. I was the National Event Supervisor for Geologic Mapping in 2024 and 2025, and spent 2021 and 2022 as the Georgia C State Tournament Director (the second of my soon-to-be-three stints organizing a tournament), bringing the tournament to Georgia Tech where it has remained ever since. I've been an ES for MIT since 2019, my first year out of high school, and glad to be back again every time
 
 ## Robot Tour
 

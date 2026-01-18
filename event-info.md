@@ -37,7 +37,7 @@ The **updated** location of Helicopter is now 34-301 and 34-302. The ceiling hei
 
 Competitors must bring required PPE but do not need to bring the additional lab materials specified in the Division C Chemistry Events Lab Equipment List.
 
-Competitors should also bring one laptop per team (should be a computer instead of a tablet/smart phone) capable of running a modern browser such as Chrome, Firefox, etc. If teams cannot bring one, a laptop will be provided for the team by the event supervisors.
+Competitors should also bring one laptop per team (should be a computer instead of a tablet/smart phone) capable of connecting to the Wi-Fi and running a modern browser such as Chrome, Firefox, etc. If teams cannot bring one, a laptop will be provided for the team by the event supervisors.
 
 ## Trial Events
 

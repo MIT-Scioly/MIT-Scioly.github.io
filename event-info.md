@@ -3,12 +3,11 @@ title: Event Information
 layout: default
 keywords: "event-info"
 ---
-
-_Last updated: January 12, 2025_
+_Last updated: January 19, 2026_
 
 ## Event-Specific Information
 
-As a reminder, MIT Invitationals will be following nationals rules with any rules clarified on [this page](https://www.soinc.org/events/rules-clarifications).
+As a reminder, MIT Invitationals will be following nationals rules with any rules clarified on [this page](https://www.soinc.org/events/rules-clarifications). A list of event supervisors can be found [here](https://scioly.mit.edu/event-supervisors).
 
 Updates on other events may be added in the future.
 
@@ -27,11 +26,19 @@ For the 2026 Invitational, the Event Supervisors plan to use the same Test Appar
 
 Competitors must bring the full laboratory kits specified in the Division C Chemistry Events Lab Equipment List, as well as required PPE. Students without PPE will not be permitted to enter the laboratory room.
 
+### Electric Vehicle
+
+Overall scores will be calculated using the Event Time Bonus, according to the Division C National Rules (5.f).
+
 ### Helicopter
 
 The **updated** location of Helicopter is now 34-301 and 34-302. The ceiling height is approximately 10 ft.
 
 ![Image of 34-301](assets\images\34-301.png){: width="75%"}
+
+### Robot Tour
+
+Overall scores will NOT be calculated using the Track Time Bonus from the Division C National Rules (5.g).
 
 ### Materials Science
 
@@ -43,8 +50,13 @@ Competitors should also bring one laptop per team (should be a computer instead 
 
 For the 2026 Invitational, we will be running three trial events below. Trial events are self-scheduled through ISOTOPE, and alternates are allowed to compete in them.
 
-| Event                  | Rules                                                                                      |
-| ---------------------- | ------------------------------------------------------------------------------------------ |
-| Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing) |
-| Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing) |
-| Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=sharing) |
+| Event                  | Rules                                                                                                                                                                                                                                                                                                       |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing)                                                                                                                                                                                                                     |
+| Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing)[Clarifications Blog Post](https://drive.google.com/file/d/1YTwh9dVlpuBY3ad8hmiTuFSpRYsKdb_N/view?usp=sharing)<br />[Sample Test Post](https://drive.google.com/file/d/1iCTju5xQEGdCOkHHAzFvxJl7B7431pyD/view?usp=sharing) |
+| Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=sharing)                                                                                                                                                                                                                     |
+
+
+### Lean Mean Meme Machine
+
+This year's pre-built meme should follow the suggested theme: "My Worst Fear Come True at MIT SciOly". Whether it be getting shocked at EV, lost on MIT campus, losing to your worst rivals, or your entomology partner asking you if you would still love them if they were a worm (you definitely wouldn't), we are enthusiastically waiting for your worst fears in the form of easily digestible .png's and .jpeg's. Submissions should be submitted through [this form](https://forms.gle/PU3EEW2NvAofMWP69) by 1/23/26 (end of day). They will be casually doomscrolled through and evaluated based on creativity (15%), relevance to the topic (20%), and humor (65%).

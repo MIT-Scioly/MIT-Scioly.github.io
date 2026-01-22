@@ -3,13 +3,17 @@ title: Event Information
 layout: default
 keywords: "event-info"
 ---
-_Last updated: January 19, 2026_
+_Last updated: January 21, 2026_
 
 ## Event-Specific Information
 
 As a reminder, MIT Invitationals will be following nationals rules with any rules clarified on [this page](https://www.soinc.org/events/rules-clarifications). A list of event supervisors can be found [here](https://scioly.mit.edu/event-supervisors).
 
 Updates on other events may be added in the future.
+
+### All Build Events
+
+As a reminder, [tournament policy](https://scioly.mit.edu/tournament-policies) strictly prohibits competitors from testing build devices anywhere on campus during or before the tournament. Please do not access build event spaces before Impound or your testing time–doing so may result in your team being disqualified.
 
 ### Astronomy
 
@@ -22,6 +26,10 @@ For the 2026 Invitational, the Event Supervisors plan to use the same Test Appar
 ![Image of Boomilever setup](assets/images/boomi-setup.png){: width="45%" }
 ![Image of Boomilever room](assets/images/boomi-2025-34-101.png){: width="45%"}
 
+### Bungee Drop
+
+Due to specifics of our venue space, we are not releasing the location of Bungee Drop until 6:00 AM on Tournament Day (1/24/26). There will be maps and clear signage to the venue.
+
 ### Chemistry Lab and Forensics
 
 Competitors must bring the full laboratory kits specified in the Division C Chemistry Events Lab Equipment List, as well as required PPE. Students without PPE will not be permitted to enter the laboratory room.
@@ -32,9 +40,11 @@ Overall scores will be calculated using the Event Time Bonus, according to the D
 
 ### Helicopter
 
-The **updated** location of Helicopter is now 34-301 and 34-302. The ceiling height is approximately 10 ft.
+The **updated** location of Helicopter (as of 1/21/26) is now **45-230** (Schwarzmann Building). The ceiling height is approximately 15 ft. Stations will be set up in the front of the classroom (the left side of the picture).
 
-![Image of 34-301](assets\images\34-301.png){: width="75%"}
+Due to MIT safety policies, we also ask that competitors bring eye protection.
+
+![Image of 34-301](assets\images\45-230.png){:![]() width="75%"}
 
 ### Robot Tour
 
@@ -55,7 +65,6 @@ For the 2026 Invitational, we will be running three trial events below. Trial ev
 | Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing)                                                                                                                                                                                                                     |
 | Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing)[Clarifications Blog Post](https://drive.google.com/file/d/1YTwh9dVlpuBY3ad8hmiTuFSpRYsKdb_N/view?usp=sharing)<br />[Sample Test Post](https://drive.google.com/file/d/1iCTju5xQEGdCOkHHAzFvxJl7B7431pyD/view?usp=sharing) |
 | Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=sharing)                                                                                                                                                                                                                     |
-
 
 ### Lean Mean Meme Machine
 

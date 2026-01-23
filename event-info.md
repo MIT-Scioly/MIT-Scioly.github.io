@@ -32,7 +32,7 @@ Due to specifics of our venue space, we are not releasing the location of Bungee
 
 ### Chemistry Lab and Forensics
 
-Competitors must bring the full laboratory kits specified in the Division C Chemistry Events Lab Equipment List, as well as required PPE. Students without PPE will not be permitted to enter the laboratory room.
+Competitors must bring the full laboratory kits specified in the Division C Chemistry Events Lab Equipment List, as well as required PPE. Students without PPE will not be permitted to enter the laboratory room. In addition, due to changes in MIT’s chemical safety policies, competitors cannot use open flames during the Forensics lab portion.
 
 ### Electric Vehicle
 
@@ -48,7 +48,7 @@ Due to MIT safety policies, we also ask that competitors bring eye protection.
 
 ### Robot Tour
 
-Overall scores will NOT be calculated using the Track Time Bonus from the Division C National Rules (5.g).
+Overall scores will NOT be calculated using the Track Time Bonus from the Division C National Rules (5.g). Due to state laws, the water bottle weights will use sand instead of metal ball bearings.
 
 ### Materials Science
 
@@ -60,11 +60,12 @@ Competitors should also bring one laptop per team (should be a computer instead 
 
 For the 2026 Invitational, we will be running three trial events below. Trial events are self-scheduled through ISOTOPE, and alternates are allowed to compete in them.
 
-| Event                  | Rules                                                                                                                                                                                                                                                                                                       |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing)                                                                                                                                                                                                                     |
-| Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing)[Clarifications Blog Post](https://drive.google.com/file/d/1YTwh9dVlpuBY3ad8hmiTuFSpRYsKdb_N/view?usp=sharing)<br />[Sample Test Post](https://drive.google.com/file/d/1iCTju5xQEGdCOkHHAzFvxJl7B7431pyD/view?usp=sharing) |
-| Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=sharing)                                                                                                                                                                                                                     |
+| Event                  | Rules                                                                                                                                                                                                                                                                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lean Mean Meme Machine | [Link](https://drive.google.com/file/d/1Ctu0eB-zD1V7Sjon3-OzPMsV41SZW1yU/view?usp=sharing)                                                                                                                                                                                                                             |
+| Scavenger Hunt         | [Link](https://drive.google.com/file/d/1RrhMT9dW0RJ9iafKWOJEN2sGqbUx4Ayb/view?usp=sharing) <br />[Clarifications Blog Post](https://drive.google.com/file/d/1YTwh9dVlpuBY3ad8hmiTuFSpRYsKdb_N/view?usp=sharing)<br />[Sample Test Post](https://drive.google.com/file/d/1iCTju5xQEGdCOkHHAzFvxJl7B7431pyD/view?usp=sharing) |
+| Science Scramble       | [Link](https://drive.google.com/file/d/1Odzp4ugW5MAQYyJG9HDExcKkMSQXI7-n/view?usp=sharing)                                                                                                                                                                                                                             |
+
 
 ### Lean Mean Meme Machine
 

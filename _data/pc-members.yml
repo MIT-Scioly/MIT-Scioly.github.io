@@ -186,6 +186,14 @@
         image_name: greycen.jpg
         description: >
             I like frogs
+- software:
+    name: Software
+    members:
+        - name: Michael Voigt
+          year: 2028
+          image_name: michael_voigt.jpg
+          description: >
+              Hi! I'm Michael, a sophomore majoring in AI and Physics. I competed in Science Olympiad for 6 years during middle and high school, and have been planning and writing for MIT Scioly for the past two years.
 - advisor:
   name: Advisor
   members:

@@ -8,6 +8,8 @@ The site is constructed using [Jekyll](https://jekyllrb.com/), a static site gen
 To get started, follow the instructions on [Jekyll's installation page](https://jekyllrb.com/docs/installation/).
 To build and serve the site locally, run `bundle exec jekyll serve` from the root of this repository.
 
+Current update with jekyll has issues with old bundle version. You may need to reinstall it.
+
 ## Contributing
 
 To contribute to the site, you should get write access to the repo from the online logistics director.

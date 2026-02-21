@@ -8,4 +8,4 @@ Thank you and congratulations to all teams who competed in the 2026 MIT Science 
 - [Final Scores](https://www.duosmium.org/results/2026-01-24_mit_invitational_c/)
 - [Exams and Answer Keys](https://drive.google.com/drive/u/0/folders/1_45wLrlBYvAtD8IqfcMET4_IsO7gu1e7)
 - [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScDBNWhdL1pgw6Gz-SLw7jk_vf11NQLyrs1MOAlXLn1ALzDOQ/viewform?usp=dialog)
-- [Medalist Photos](https://drive.google.com/drive/u/0/folders/1V-_Q-omw-XBqnnXMw21rkHzOfbU3yDU6)
+- [Photos](https://drive.google.com/drive/u/0/folders/1V-_Q-omw-XBqnnXMw21rkHzOfbU3yDU6)

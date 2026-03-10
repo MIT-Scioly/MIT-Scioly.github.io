@@ -9,6 +9,12 @@ To get started, install Hugo by following [Hugo's installation guide](https://go
 To build and serve the site locally, run `hugo server` from the root of this repository.
 To generate the production build, run `hugo`.
 
+## Deployment
+
+The site is deployed with GitHub Pages through [`.github/workflows/hugo.yml`](/.github/workflows/hugo.yml).
+In the repository settings, GitHub Pages should be configured to use `GitHub Actions` as the source.
+Deployments run automatically on pushes to `master`.
+
 ## Contributing
 
 To contribute to the site, you should get write access to the repo from the online logistics director.

@@ -1,0 +1,13 @@
+baseURL = "https://scioly.mit.edu/"
+languageCode = "en-us"
+title = "MIT Science Olympiad"
+disableKinds = ["taxonomy", "term"]
+
+[markup.goldmark.renderer]
+  unsafe = true   # required: content pages contain inline HTML
+
+[params]
+  summaryLength = 15  # match Jekyll's truncatewords: 15 for blog excerpts
+
+[permalinks]
+  blogs = "/blogs/:slug/"   # preserves /blogs/restarting-blogs/ URLs

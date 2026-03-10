@@ -1,0 +1,73 @@
+/* Contains styles for index.html */
+
+#homepage-nav .navbar-start {
+	justify-content: space-between;
+}
+
+svg {
+	margin-top: 2em;
+}
+
+
+/* Title text */
+.title {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	/* margin-bottom: 5%; */
+	padding-top: 3%;
+}
+
+.title h1 {
+	font-size: 4.5rem;
+	font-weight: 300;
+  	margin-bottom:10px;
+  	color: #ffffff;
+}
+
+.title h2 {
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 80%;
+	margin-top: 0;
+  margin-bottom:30px;
+}
+
+.call-to-action {
+	display: inline-block;
+	background-color: #111111;
+	border: 2px solid #c4c4c4;
+	padding: 15px 32px;
+	text-decoration: none;
+	margin: 2em auto;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	color: #c4c4c4;
+	/* Touch area should be > 48px x 48 px */
+	min-width: 48px;
+	/* min-height: 48px;  TODO: This is causing problems*/
+
+	z-index: 2;
+	position: relative; /* Necessary to make z-index work */
+
+	-webkit-transition: all 0.25s ease;
+	-moz-transition: all 0.25s ease;
+	-o-transition: all 0.25s ease;
+	transition: all 0.25s ease;
+}
+
+.call-to-action:hover {
+	background-color: #c4c4c4;
+	color:#222222;
+}
+
+@media screen and (max-width: 768px) {
+	svg {
+		margin-top: 0;
+	}
+
+	.call-to-action {
+		margin: 0 auto;
+		padding: 10px 26px;
+	}
+}

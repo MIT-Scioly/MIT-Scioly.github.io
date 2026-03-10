@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h2>Recent Posts</h2>
+<div class="blog-posts-grid">
+  {{ range .Pages.ByDate.Reverse }}
+  <a href="{{ .RelPermalink }}" class="blog-post-card">
+    <h3>{{ .Title }}</h3>
+    <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+    <p class="post-excerpt">{{ with .Params.subtitle }}{{ . }}{{ else }}{{ .Plain | htmlUnescape | truncate 220 }}{{ end }}</p>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

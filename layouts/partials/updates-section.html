@@ -1,0 +1,11 @@
+{{ $posts := where .Site.RegularPages "Section" "updates" }}
+{{ range sort $posts "Date" "desc" }}
+<section class="post">
+  <a name="{{ .Slug }}"></a>
+  <div class="post-title">
+    <a href="/updates#{{ .Slug }}">{{ .Title }}</a>
+  </div>
+  <div class="post-date">{{ .Date.Format "January 2, 2006" }}</div>
+  <div class="post-content">{{ .Content }}</div>
+</section>
+{{ end }}

@@ -1,0 +1,9 @@
+{{- $dest := replace .Destination "\\" "/" -}}
+{{- if not (or (hasPrefix $dest "http://") (or (hasPrefix $dest "https://") (hasPrefix $dest "/"))) -}}
+  {{- $dest = printf "/%s" $dest -}}
+{{- end -}}
+{{- $titleAttr := "" -}}
+{{- with .Title -}}
+  {{- $titleAttr = printf " title=%q" . -}}
+{{- end -}}
+{{- printf "<img src=%q alt=%q%s>" ($dest | relURL) .PlainText $titleAttr | safeHTML -}}

@@ -1,0 +1,10 @@
+{{- $dest := replace .Destination "\\" "/" -}}
+{{- $isExternal := or (hasPrefix $dest "http://") (or (hasPrefix $dest "https://") (or (hasPrefix $dest "mailto:") (or (hasPrefix $dest "tel:") (hasPrefix $dest "#")))) -}}
+{{- if and (not $isExternal) (not (hasPrefix $dest "/")) -}}
+  {{- $dest = printf "/%s" $dest -}}
+{{- end -}}
+{{- $titleAttr := "" -}}
+{{- with .Title -}}
+  {{- $titleAttr = printf " title=%q" . -}}
+{{- end -}}
+{{- printf "<a href=%q%s>%s</a>" ($dest | relURL) $titleAttr .Text | safeHTML -}}

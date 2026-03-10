@@ -1,0 +1,6 @@
+---
+title: "Event Information Updated"
+date: 2025-12-17
+---
+
+Event-specific-information page has been updated [here](event-info). You can find clarifications to how events are specifically being run at the MIT 2026 Invitational as well as trial events rules. This page will continue to be updated as more information becomes available.

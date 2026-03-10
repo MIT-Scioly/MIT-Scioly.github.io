@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Science Olympiad invitational hosted by MIT.">
+    <meta name="keywords" content="Science Olympiad, MIT, Massachusetts Institute of Technology, invitational, competition{{ with .Params.keywords }}, {{ . }}{{ end }}">
+    <title>{{ block "title" . }}{{ .Title }} - MIT Science Olympiad{{ end }}</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Raleway:300,400,500">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/global.css">
+    <link rel="stylesheet" href="/assets/css/navbar-footer.css">
+    {{ range .Params.custom_css }}<link rel="stylesheet" href="{{ . }}">{{ end }}
+    {{ partial "analytics.html" . }}
+  </head>
+  <body>
+    {{ block "body" . }}
+    <header>
+      <nav class="navbar is-transparent is-fixed-top" id="navbar"></nav>
+    </header>
+    <section class="section">
+      <div class="container grid">
+        <h1>{{ .Title }}</h1>
+        {{ block "main" . }}{{ .Content }}{{ end }}
+      </div>
+    </section>
+    <footer></footer>
+    {{ end }}
+    <script src="/assets/js/global.js"></script>
+    <script src="/assets/js/navbar.js"></script>
+    {{ range .Params.custom_js }}<script src="{{ . }}"></script>{{ end }}
+  </body>
+</html>

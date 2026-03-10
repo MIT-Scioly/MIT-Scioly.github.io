@@ -1,0 +1,178 @@
+/*
+Global Stylings Across All Pages
+*/
+
+/* CSS Reset */
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+ol, ul {
+	list-style: none;
+	margin-bottom: 1em;
+}
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+div.no-curve {
+    border-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* End CSS Reset */
+
+html, body{
+	font-family: 'Raleway', sans-serif;
+	background-color: #111111;
+	color: #cccccc;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr minmax(0, 900px) 1fr;
+}
+
+.grid * {
+    grid-column: 2 / 3;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-size: 50px;
+	color: #12bbee;
+	font-weight: 300;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	color: #ffffff;
+	font-weight: 300;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+h3 {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: 300;
+	margin-bottom: 0.2em;
+}
+
+a {
+	color: inherit;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #c4c4c4;
+}
+
+ol {
+	list-style-type: decimal;
+	padding-left: 1em;
+}
+
+ul {
+	list-style-type: disc;
+	padding-left: 1em;
+}
+
+li {
+	margin-bottom: 0.3%;
+}
+
+th, td {
+	padding: 10px 15px;
+	border: 1px solid #cccccc;
+}
+
+strong, b {
+	font-weight: bold;
+	color: #ffffff;
+}
+
+img, embed, object, video {
+	max-width: 100%; /* Prevents overflowing */
+}
+
+hr {
+	border: 0.5px solid #444444;
+	background-color: #444444;
+	height: 0;
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+.section {
+	padding: 4rem 3rem 3rem 3rem;
+}
+
+.fa {
+	color: #12bbee;
+}
+
+/* Remove underline from post-titles which act as permalinks */
+.post-title a {
+	text-decoration: none;
+}
+
+.call-to-action {
+	display: inline-block;
+	background-color: #111111;
+	border: 2px solid #c4c4c4;
+	padding: 15px 32px;
+	text-decoration: none;
+	margin: 2em auto;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	color: #c4c4c4;
+	/* Touch area should be > 48px x 48 px */
+	min-width: 48px;
+	/* min-height: 48px;  TODO: This is causing problems*/
+
+	z-index: 2;
+	position: relative; /* Necessary to make z-index work */
+
+	-webkit-transition: all 0.25s ease;
+	-moz-transition: all 0.25s ease;
+	-o-transition: all 0.25s ease;
+	transition: all 0.25s ease;
+}
+
+.call-to-action:hover {
+	background-color: #c4c4c4;
+	color:#222222;
+}
+
+@media screen and (max-width: 768px) {
+	.call-to-action {
+		margin: 5px auto;
+		padding: 10px 26px;
+	}
+}

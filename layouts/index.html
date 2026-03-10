@@ -1,0 +1,16 @@
+{{ define "title" }}MIT Science Olympiad{{ end }}
+{{ define "body" }}
+<header id="homepage-nav">
+  <nav class="navbar is-transparent is-fixed-top" id="navbar"></nav>
+</header>
+<section class="section hero is-fullheight is-fullwidth">
+  <div class="hero-body is-paddingless">
+    <div class="container">{{ .Content }}</div>
+  </div>
+</section>
+<div id="particles-js"></div>
+<section class="section">
+  <div class="container grid">{{ partial "updates-section.html" . }}</div>
+</section>
+<footer></footer>
+{{ end }}

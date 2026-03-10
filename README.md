@@ -4,11 +4,16 @@ A basic site for competitors and coaches to get important information and offici
 
 ## Getting Started
 
-The site is constructed using [Jekyll](https://jekyllrb.com/), a static site generator.
-To get started, follow the instructions on [Jekyll's installation page](https://jekyllrb.com/docs/installation/).
-To build and serve the site locally, run `bundle exec jekyll serve` from the root of this repository.
+The site is constructed using [Hugo](https://gohugo.io/), a static site generator.
+To get started, install Hugo by following [Hugo's installation guide](https://gohugo.io/installation/).
+To build and serve the site locally, run `hugo server` from the root of this repository.
+To generate the production build, run `hugo`.
 
-Current update with jekyll has issues with old bundle version. You may need to reinstall it.
+## Deployment
+
+The site is deployed with GitHub Pages through [`.github/workflows/hugo.yml`](/.github/workflows/hugo.yml).
+In the repository settings, GitHub Pages should be configured to use `GitHub Actions` as the source.
+Deployments run automatically on pushes to `master`.
 
 ## Contributing
 

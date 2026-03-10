@@ -52,6 +52,11 @@
     color: #999999;
     line-height: 1.5;
     margin-bottom: 0;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    line-clamp: 4;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
 }
 
 /* Responsive design */

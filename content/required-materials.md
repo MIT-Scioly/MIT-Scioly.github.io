@@ -3,7 +3,7 @@ title: Required Materials
 layout: default
 keywords: "required materials"
 ---
-_Last updated: November 6, 2026_
+_Last updated: May 27, 2026_
 
 This page will be updated with more information as the tournament date approaches.
 

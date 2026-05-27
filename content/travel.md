@@ -3,7 +3,7 @@ title: Travel
 layout: default
 keywords: "travel"
 ---
-_Last updated: January 19, 2026_
+_Last updated: May 27, 2026_
 
 ## Arriving by Plane
 
@@ -15,7 +15,7 @@ Ride-sharing services (e.g. Uber, Lyft) or rental cars are also feasible options
 
 Buses should drop off students along Amherst Street (facing west). We recommend setting your GPS to 32 Massachusetts Avenue, Cambridge, MA to find the correct Amherst Street because there are two Amherst Streets in Cambridge. **Please note that buses may only stop along the westbound side of Amherst Street, accessible only from Massachusetts Avenue.**
 
-Teams that have reserved an oversized bus parking spot can pick up parking passes during registration on Friday evening or Saturday morning. Passes need to be displayed on the dashboard of the bus when it is parked in an MIT lot or street. There are two parking locations for this year’s tournament, both around a 15-20 minute walk from main campus. Buses can be parked in the [65 Waverly St Lot](https://maps.app.goo.gl/xHgTjnhGKe9KgH9BA) or along [Purrington Street](https://maps.app.goo.gl/6PvE1umYxUg2npSDA).
+Bus parking information for the 2027 tournament will be posted as the tournament approaches.
 
 Bus drivers should be available throughout the day in case a bus needs to be moved for emergency reasons. If the bus driver will need to leave the bus, please have the driver write down a contact phone number on the parking pass so MIT personnel may contact them if needed.
 

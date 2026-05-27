@@ -4,7 +4,7 @@ layout: default
 keywords: "tournament policies"
 ---
 
-_Last updated: February 23, 2025_
+_Last updated: May 27, 2026_
 
 ## Academic Integrity
 
@@ -35,7 +35,7 @@ Event supervisors will check for wristbands before the event begins.
 
 ## Accessing Homerooms/Event Rooms
 
-Please also note that any member of your team (competitors, coach, parent, etc.) may not access homerooms before 6 AM on Saturday, January 21st, and any event rooms before 8 AM on Saturday, January 21st (unless impounding in which case you may not enter before 7 AM). If you do so, your team will be disqualified from the event in question. This is due to fairness of competition and the specifics of our room reservations.
+Please also note that any member of your team (competitors, coach, parent, etc.) may not access homerooms or event rooms before the posted access times on tournament day. If you do so, your team will be disqualified from the event in question. This is due to fairness of competition and the specifics of our room reservations.
 
 ## Lateness
 

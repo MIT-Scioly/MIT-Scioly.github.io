@@ -1,11 +1,10 @@
 {{ define "main" }}
-<h2>Recent Posts</h2>
-<div class="blog-posts-grid">
-  {{ range .Pages.ByDate.Reverse }}
-  <a href="{{ .RelPermalink }}" class="blog-post-card">
-    <h3>{{ .Title }}</h3>
-    <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
-    <p class="post-excerpt">{{ with .Params.subtitle }}{{ . }}{{ else }}{{ .Plain | htmlUnescape | truncate 220 }}{{ end }}</p>
+<div class="blog-bubbles">
+  <div class="blog-bubbles-center" aria-hidden="true">Recent Posts</div>
+  {{ range $index, $page := .Pages.ByDate.Reverse }}
+  <a href="{{ $page.RelPermalink }}" class="blog-bubble blog-bubble-{{ add $index 1 }}">
+    <span class="blog-bubble-title">{{ $page.Title }}</span>
+    <time class="blog-bubble-date" datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "January 2, 2006" }}</time>
   </a>
   {{ end }}
 </div>

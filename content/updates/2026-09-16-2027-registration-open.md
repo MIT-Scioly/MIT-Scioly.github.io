@@ -3,7 +3,7 @@ title: "2027 Registration Open"
 date: 2026-09-16
 ---
 
-Registration for the 2027 MIT Science Olympiad Invitational is now open and closes on **Friday, September 25 at 6:00 PM ET**. Please visit the [registration page](/registration/) during this window for relevant information and the registration form.
+Registration for the 2027 MIT Science Olympiad Invitational is now open and closes on **Friday, September 25 at 6:00 PM ET**. Please visit the [registration page](/registration/) during this window for relevant information and the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUPJs70EDZiTbL8jEJMB1gKnN9rKUslNhrgK07ewKez8bPHA/viewform?usp=dialog">registration form</a> .
 
 As a reminder, team acceptance is not determined on a first-come, first-served basis and will instead follow the [lottery guidelines](/registration/#registration-details).
 

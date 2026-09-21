@@ -6,11 +6,11 @@
         image_name: jonah.jpg
         description: >
             Hello! I’m Jonah, a junior majoring in Biological Engineering (Course 20). I competed for duPont Manual HS and my favorite events were Anatomy, Designer Genes, and Protein Modeling. Scioly was the bedrock of my high school years, so I’m excited to give back at MIT! On campus, you can also find me culturing bacteria in the BioMaker Space, studying kinases, and waiting in a stir fry line. Off campus, I’m likely slurping ramen with friends, on the Green Line, or attempting to grind in Boston Public Library!
-      - name: Derek Chen
-        year: 2026
-        image_name: derek.jpg
+      - name: Richard Deng
+        year: 2028
+        image_name: rich.jpg
         description: >
-            Hello! I'm Derek Chen, a senior majoring in computer science and biology. I competed for four years for Belmont High School in MA. Some of my favorite events included Fossils (<3), Circuit Lab, Cell Biology, and Remote Sensing. Besides MIT Science Olympiad, I am also involved with HMMT and Traders@MIT. I'm really excited to be co-directing MIT SciOly for this year!
+            Hi! I'm Richard, a sophomore studying chemistry and biology (course 5-7). In high school, I was a captain for Belmont, MA where my favorite events included A&P, Chem Lab, and Fermi Questions. In my free time, I enjoy watching movies, mixing condiments, and planning trips and outings. Throughout my experience competing in Scioly, I appreciated the opportunity to make new friends, learn new things, and share lots of memories, and I'm excited to keep contributing to this community!
 - events:
   name: Events
   members:
@@ -19,26 +19,6 @@
         image_name: elisa.jpg
         description: >
             Hi! I’m Elisa, a dual senior and MEng studying AI (Course 6-4). I was captain of Chattahoochee HS in GA, and my favorite events were Forensics and Codebusters. Outside of SciOly, I enjoy drawing/painting and baking. I also do research in healthcare AI and TA MIT’s Intro to Machine Learning course. I’m super excited for my 3rd year as Events Director for MIT SciOly and hope you all enjoy the tournament!
-      - name: Tyler Matsuzaki
-        year: 2026
-        image_name: tyler.jpg
-        description: >
-            Hi! I'm Tyler, a senior from Hawaii studying biological engineering (Course 20). Before MIT, I competed for Iolani where my favorite events were Astronomy, Cell Biology, and Protein Modeling. My number one activity on PC is asking Richard Deng to solve a problem. In my spare time, I play tuba and bass guitar for the MIT Wind Ensemble and the Video Game Orchestra, and chase plastic discs around in MIT ultimate frisbee.
-      - name: Richard Deng
-        year: 2028
-        image_name: rich.jpg
-        description: >
-            Hi! I'm Richard, a sophomore studying chemistry and biology (course 5-7). In high school, I was a captain for Belmont, MA where my favorite events included A&P, Chem Lab, and Fermi Questions. In my free time, I enjoy watching movies, mixing condiments, and planning trips and outings. Throughout my experience competing in Scioly, I appreciated the opportunity to make new friends, learn new things, and share lots of memories, and I'm excited to keep contributing to this community!
-      - name: Basil Liu
-        year: 2027
-        image_name: basil.jpg
-        description: >
-            Hi everyone! I’m Basil, a ‘27 majoring in math with computer science. I competed on Troy's varsity SciOly team for four years, two of them as captain. I love ecology and ID events, though I've also done three chem events and one event from every subject category. I've helped run Troy Invite in the past, and if you've suffered through an Ecology, Water Quality, Green Gen, Crime Busters, or Ornithology test, it might have been at my hands. Outside of SciOly, I love birdwatching, books, and singing musical theatre.
-      - name: Phoenix Wu
-        year: 2027
-        image_name: phoenix2.jpg
-        description: >
-            I'm Phoenix, a junior studying Computer Science (Course 6-4). I enjoyed competing in Texas, and some of my favorite events were Hovercraft, Optics, and Chemistry Lab! Science Olympiad has been a huge part of my life, and I'm glad to be able to continue being a part of the community into college. In my free time, I enjoy playing frisbee, cooking for my suitemates, and singing in MIT's choirs.
       - name: Bill Sun
         year: 2029
         image_name: bill.jpg
@@ -59,11 +39,16 @@
         image_name: jennifer.jpg
         description: >
             Hi, I'm Jennifer! I'm a freshman and I'm planning to study Chemical Biological Engineering (course 10b). I've led and competed for Brooklyn Tech Science Olympiad in NYC for 3 years and I'm so excited to be on the Planning Committee here at MIT! Some of the events I enjoyed doing are Bridge, Tower, and Air Trajectory.
-      - name: Eleni Morales
-        year: 2028
-        image_name: eleni_morales.jpg
+      - name: Phoenix Wu
+        year: 2027
+        image_name: phoenix2.jpg
         description: >
-            Hi everyone! My name is Eleni. I am a sophomore planning to pursue Mechanical Engineering (Course 2). At heart, I am a true builder. My favorite event is Ping Pong Parachute followed closely by Scrambler, Gravity Vehicle, and Trajectory. Having competed in Science Olympiad since 5th grade, it is a community and an experience I hold very dear. I am extremely grateful and eager to be on the other side of the competition, working to bring Scioly to all of you! Cheez-Its are superior to Goldfish, I love Disney, and ducks are my favorite animal!
+            I'm Phoenix, a junior studying Computer Science (Course 6-4). I enjoyed competing in Texas, and some of my favorite events were Hovercraft, Optics, and Chemistry Lab! Science Olympiad has been a huge part of my life, and I'm glad to be able to continue being a part of the community into college. In my free time, I enjoy playing frisbee, cooking for my suitemates, and singing in MIT's choirs.
+      - name: Basil Liu
+        year: 2027
+        image_name: basil.jpg
+        description: >
+            Hi everyone! I’m Basil, a ‘27 majoring in math with computer science. I competed on Troy's varsity SciOly team for four years, two of them as captain. I love ecology and ID events, though I've also done three chem events and one event from every subject category. I've helped run Troy Invite in the past, and if you've suffered through an Ecology, Water Quality, Green Gen, Crime Busters, or Ornithology test, it might have been at my hands. Outside of SciOly, I love birdwatching, books, and singing musical theatre.
 - publicity:
   name: Publicity
   members:
@@ -86,6 +71,16 @@
 - external:
   name: Competitor Logistics
   members:
+      - name: Jayne Chen
+        year: 2029
+        image_name: jayne1.jpg
+        description: >
+            Hello! I'm Jayne, and I'm a freshman planning on majoring in course 5 or 7 or something else interesting. I loved competing for Harriton High School, where my favorite events were Entomology, Forensics, Forestry, and Fossils, and I'm so excited to continue being part of the  amazing Science Olympiad community! In my free time, I enjoy cooking, baking way too much banana bread, and yapping with my suitemates.
+      - name: Melody Hong
+        year: 2029
+        image_name: melody.jpg
+        description: >
+            Hi, I’m Melody! I’m a freshman at MIT from New York with plans to major in math (Course 18). I previously competed with MacArthur High School, during which my favorite events were Cell Biology, Anatomy and Physiology, and Microbe Mission. On campus, I’m also a member of MIT Vocal Jazz Ensemble (VJE) and Pistol Club; off-campus, I love cafe-hopping, doing all things creative, and collecting rubber ducks!
       - name: Wendy Geng
         year: 2028
         image_name: wendy.jpg
@@ -106,24 +101,19 @@
         image_name: vivian1.jpg
         description: >
             Hi! I'm Vivian, a sophomore studying 6-3. I'm from Southern California and was a captain and competitor for Canyon Crest Academy's Science Olympiad team throughout high school, competing in events like Codebusters, Write it Do it, EXPD, and Fermi Questions (yay inquiry!!). Outside of Scioly and school, I spend my time playing guitar, watching sitcoms, eating soupy noodles, and playing ultimate frisbee with sMITe!
-      - name: Michelle Wang
-        year: 2029
-        image_name: michelle.jpg
-        description: >
-            Hello!! I'm Michelle, a freshman from the Boston area interested in studying either course 20 (Biological Engineering) or course 10-B (Chemical-Biological Engineering). In high school, I was captain for the Winsor School and previously competed for Lexington in Division B. Some of my favorite events were Chem Lab, Helicopter, and Anatomy! In my free time, I like to paint, take long strolls, and explore new boba shops.
-      - name: Melody Hong
-        year: 2029
-        image_name: melody.jpg
-        description: >
-            Hi, I’m Melody! I’m a freshman at MIT from New York with plans to major in math (Course 18). I previously competed with MacArthur High School, during which my favorite events were Cell Biology, Anatomy and Physiology, and Microbe Mission. On campus, I’m also a member of MIT Vocal Jazz Ensemble (VJE) and Pistol Club; off-campus, I love cafe-hopping, doing all things creative, and collecting rubber ducks!
-      - name: Jayne Chen
-        year: 2029
-        image_name: jayne1.jpg
-        description: >
-            Hello! I'm Jayne, and I'm a freshman planning on majoring in course 5 or 7 or something else interesting. I loved competing for Harriton High School, where my favorite events were Entomology, Forensics, Forestry, and Fossils, and I'm so excited to continue being part of the  amazing Science Olympiad community! In my free time, I enjoy cooking, baking way too much banana bread, and yapping with my suitemates.
 - internal:
   name: Administration Logistics
   members:
+      - name: Ben Kuchma
+        year: 2030
+        image_name: ben.jpg
+        description: >
+            Hi! I'm Ben, a first-year PhD student in electrical engineering and computer science (EECS) from Winchester, MA. Over the past few years, I played a hand in running the competition at UMass Amherst, and now at MIT, I'm excited to do the same! I love all the events, but I have a special place in my heart for build events, ornithology, and forensics. When not running MITSO or doing lab work, you can find me either grabbing food with friends, doing karaoke, or looking for birds!
+      - name: Miranda Li
+        year: 2029
+        image_name: miranda.jpg
+        description: >
+            Hello! My name is Miranda and I'm a freshman planning on majoring in either course 6-3 or 6-14! I've competed in Science Olympiad for 7 years, starting from 6th grade, and was the captain for my team last year. My favorite event by far is Experimental Design, and some close contenders are It's About Time and Chem Lab. Besides MIT SciOly, I'm also on the logistics committee for M[IT]^2 and I like to read, sketch, and play violin in my free time. I'm excited to help organize the MIT Invite on the Admin Logs Committee this year :)
       - name: Amy Chen
         year: 2028
         image_name: amy_chen.jpg
@@ -134,58 +124,35 @@
         image_name: annabel.jpg
         description: >
             Hi! I'm Annabel and I'm a junior from SoCal majoring in Chemistry & Biology (5-7) with a minor in Science, Technology, and Society (STS). I've competed in Science Olympiad for 4 years at Sierra Vista Middle School and Northwood High School where I served as team captain. I really enjoyed Cell Biology, A&P, and Green Gen. I'm also part of MIT Hacking Medicine and MIT Capital Partners. In my free time, I like to solve crosswords, run, and attempt to lock-in while exploring cafes.
-      - name: Olivia Chen
-        year: 2026
-        image_name: olivia.jpg
-        description: >
-            Hi! I'm Olivia and I'm from New York City. I competed with Stuyvesant High School for three years; my favorite events were Geologic mapping <3 and Rocks & Minerals. Outside of classes, I enjoy archery, trying out new cafes, and videography.
       - name: Ananya Balaji
         year: 2029
         image_name: ananya.jpg
         description: >
             Hi! I’m Ananya, a freshman planning on studying Biological Engineering! I competed for Ames High School in Iowa for 4 years and was captain last year. My favorite events were Disease Detectives, Chem Lab, and Ornithology! In my free time I love to dance, read, and watch movies.
-      - name: Miranda Li
-        year: 2029
-        image_name: miranda.jpg
-        description: >
-            Hello! My name is Miranda and I'm a freshman planning on majoring in either course 6-3 or 6-14! I've competed in Science Olympiad for 7 years, starting from 6th grade, and was the captain for my team last year. My favorite event by far is Experimental Design, and some close contenders are It's About Time and Chem Lab. Besides MIT SciOly, I'm also on the logistics committee for M[IT]^2 and I like to read, sketch, and play violin in my free time. I'm excited to help organize the MIT Invite on the Admin Logs Committee this year :)
 - finance:
   name: Finance
   members:
-      - name: Andrew Van Dusen
-        year: 2027
-        image_name: andrew.jpg
+      - name: Michelle Wang
+        year: 2029
+        image_name: michelle.jpg
         description: >
-            Hey! I’m Andrew, a junior from New Jersey studying biological engineering and computer science. In high school, I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and research in Gene-Wei Li's lab. In my free time, I enjoy running, listening to music, and watching baseball.
+            Hello!! I'm Michelle, a freshman from the Boston area interested in studying either course 20 (Biological Engineering) or course 10-B (Chemical-Biological Engineering). In high school, I was captain for the Winsor School and previously competed for Lexington in Division B. Some of my favorite events were Chem Lab, Helicopter, and Anatomy! In my free time, I like to paint, take long strolls, and explore new boba shops.
       - name: Yolanda Xie
         year: 2028
         image_name: yolanda_xie.jpg
         description: >
             Hi! I'm Yolanda, a sophomore majoring in CS and Molecular Biology. I was part of Science Olympiad throughout high school and competed in events such as Disease Detectives, Anatomy, Codebusters, and Write It Do It. I had a fantastic time competing as well as helping out with tournaments to give back to the community! In my free time, I enjoy flinging arrows with the MIT Archery Team.
+      - name: Andrew Van Dusen
+        year: 2027
+        image_name: andrew.jpg
+        description: >
+            Hey! I’m Andrew, a junior from New Jersey studying biological engineering and computer science. In high school, I competed for West Windsor-Plainsboro High School South for four years, where my favorite events were Designer Genes, Cell Biology, and Water Quality. Outside of class, I’m involved in Club Tennis and research in Gene-Wei Li's lab. In my free time, I enjoy running, listening to music, and watching baseball.
       - name: Smruti Patil
         year: 2028
         image_name: smruti_patil.jpg
         description: >
             Hi everyone! My name's Smruti and I'm planning on studying something in Course 6 (Computer Science), but still too early to tell. I competed for Enloe Science Olympiad in NC all 4 years and am so excited to be on planning committee! My favorite events are Water Quality, Codebusters, and Experimental Design. Outside of SciOly, I'm in involved in the orchestra, MIT Tech Consulting, and MIT Entrepreneurship Club. In my free time, I enjoy dancing, watching TV, reading, and playing volleyball.
-      - name: Ben Kuchma
-        year: 2030
-        image_name: ben.jpg
-        description: >
-            Hi! I'm Ben, a first-year PhD student in electrical engineering and computer science (EECS) from Winchester, MA. Over the past few years, I played a hand in running the competition at UMass Amherst, and now at MIT, I'm excited to do the same! I love all the events, but I have a special place in my heart for build events, ornithology, and forensics. When not running MITSO or doing lab work, you can find me either grabbing food with friends, doing karaoke, or looking for birds!
 
-- social:
-  name: Social
-  members:
-      - name: Renee Chang
-        year: 2026
-        image_name: renee_chang.jpg
-        description: >
-            Hi everyone! My name is Renee and I’m a senior studying course 7 (Biology major) and 15-3 (management minor). I’ve been part of planning committee for the last 3 years and absolutely love it!  In addition to planning committee I am doing research in the Vander Heiden lab studying the metabolism of cancer cells. In my free time I love to run marathons and half marathons and am part of a few run clubs around Boston! I also love to weight lift and cook!
-      - name: Greycen Ren
-        year: 2026
-        image_name: greycen.jpg
-        description: >
-            I like frogs
 - software:
   name: Software
   members:
@@ -202,6 +169,11 @@
         image_name: yoshi_saito.jpg
         description: >
             Hi, I’m Yoshi! I’m currently a physics PhD student at Harvard doing condensed matter theory. In undergrad, I also was part of the MIT Science Olympiad Planning Committee, and I’m excited to be helping MIT SciOly this year again!
+      - name: Derek Chen
+        year: 2026
+        image_name: derek.jpg
+        description: >
+            Hello! I'm Derek Chen, a senior majoring in computer science and biology. I competed for four years for Belmont High School in MA. Some of my favorite events included Fossils (<3), Circuit Lab, Cell Biology, and Remote Sensing. Besides MIT Science Olympiad, I am also involved with HMMT and Traders@MIT. I'm really excited to be co-directing MIT SciOly for this year!
 
 # - web:
 #  name: Online Logistics

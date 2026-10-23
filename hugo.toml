@@ -11,3 +11,6 @@ disableKinds = ["taxonomy", "term"]
 
 [permalinks]
   blogs = "/blogs/:slug/"   # preserves /blogs/restarting-blogs/ URLs
+
+[security]
+  allowContent = ['! ^text/org$']   # Hugo >=0.153 blocks HTML content files by default; our pages in content/ are .html
